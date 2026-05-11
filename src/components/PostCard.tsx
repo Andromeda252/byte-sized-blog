@@ -1,9 +1,3 @@
-// type PostCardProps = {
-//     title: string
-//     excerpt: string
-//     category: string
-// }
-
 import { PostCardProps } from "@/types/post"
 
 export default function PostCard({ title, excerpt, category }: PostCardProps) {
