@@ -1,12 +1,12 @@
 import Navbar from "@/components/Navbar";
 import PostCard from "@/components/PostCard";
 
-export default function PlaylogsPage() {
+export default function PlayLogsPage() {
     const posts = [
         {
             title: "What I've Been Playing: Week of 5/3/2026",
             excerpt: "Spoiler Alert: I'm still Living the Dream.",
-            category: "Playlog",
+            category: "Play Log",
             date: "May 9th, 2026"
         }
     ]
@@ -14,7 +14,7 @@ export default function PlaylogsPage() {
     return (
         <main className="max-w-3xl mx-auto px-6 py-10">
             <Navbar />
-            <h1>Playlogs Page</h1>
+            <h1>Play Logs Page</h1>
             {posts.map((post, index) => (
                 <PostCard
                     key={index}
