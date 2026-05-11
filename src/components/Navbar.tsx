@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Navbar() {
     return (
         <nav className="flex flex-col gap-4 md:flex-row md:items-center md:justify-between mb-12">
@@ -6,12 +8,12 @@ export default function Navbar() {
             </h1>
 
             <div className="flex flex-wrap gap-4 text-sm font-medium text-zinc-600">
-                <a href="#">Home</a>
+                <a href="/">Home</a>
                 <a href="#">News</a>
                 <a href="#">Byte Takes</a>
                 <a href="#">Reviews</a>
                 <a href="#">Playlog</a>
-                <a href="#">About</a>
+                <Link href="/about">About</Link>
             </div>
         </nav>
     )
