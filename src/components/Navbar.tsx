@@ -8,11 +8,11 @@ export default function Navbar() {
             </h1>
 
             <div className="flex flex-wrap gap-4 text-sm font-medium text-zinc-600">
-                <a href="/">Home</a>
-                <a href="/news">News</a>
-                <a href="/byte-takes">Byte Takes</a>
-                <a href="/reviews">Reviews</a>
-                <a href="/play-logs">Play Logs</a>
+                <Link href="/">Home</Link>
+                <Link href="/news">News</Link>
+                <Link href="/byte-takes">Byte Takes</Link>
+                <Link href="/reviews">Reviews</Link>
+                <Link href="/play-logs">Play Logs</Link>
                 <Link href="/about">About</Link>
             </div>
         </nav>
