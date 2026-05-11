@@ -1,6 +1,6 @@
-import { PostCardProps } from "@/types/post"
+import { Post } from "@/types/post"
 
-export default function PostCard({ title, excerpt, category, date }: PostCardProps) {
+export default function PostCard({ title, excerpt, category, date }: Post) {
     return (
         <article className="border border-zinc-200 rounded-xl p-6 mb-4 bg-white shadow-sm hover:shadow-md transition-shadow duration-200">
             <small className="text-sm text-purple-600 font-medium">{category}</small>

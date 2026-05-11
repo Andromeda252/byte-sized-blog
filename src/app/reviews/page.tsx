@@ -11,13 +11,10 @@ export default function ReviewsPage() {
         <main className="max-w-3xl mx-auto px-6 py-10">
             <Navbar />
             <h1>Reviews Page</h1>
-            {reviewPosts.map((post, index) => (
+            {reviewPosts.map((post) => (
                 <PostCard
-                    key={index}
-                    title={post.title}
-                    excerpt={post.excerpt}
-                    category={post.category}
-                    date={post.date}
+                    key={post.slug}
+                    {...post}
                 />
             ))}
         </main>

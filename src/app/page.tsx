@@ -14,13 +14,10 @@ export default function Home() {
         Latest Posts
       </h2>
 
-      {posts.map((post, index) => (
+      {posts.map((post) => (
         <PostCard
-          key={index}
-          title={post.title}
-          excerpt={post.excerpt}
-          category={post.category}
-          date={post.date}
+          key={post.slug}
+          {...post}
         />
       ))}
     </main>
