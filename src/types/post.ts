@@ -4,4 +4,5 @@ export type Post = {
     excerpt: string
     category: string
     date: string
+    content: string
 }
