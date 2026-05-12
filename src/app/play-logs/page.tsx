@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import PostCard from "@/components/PostCard";
+import PageContainer from "@/components/PageContainer";
 import { posts } from "@/data/posts";
 
 export default function PlayLogsPage() {
@@ -8,7 +9,7 @@ export default function PlayLogsPage() {
     )
 
     return (
-        <main className="max-w-3xl mx-auto px-6 py-10">
+        <PageContainer>
             <Navbar />
             <h1>Play Logs Page</h1>
             {playLogPosts.map((post) => (
@@ -17,6 +18,6 @@ export default function PlayLogsPage() {
                     {...post}
                 />
             ))}
-        </main>
+        </PageContainer>
     )
 }

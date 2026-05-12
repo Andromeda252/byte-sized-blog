@@ -1,11 +1,12 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import PostCard from "@/components/PostCard";
+import PageContainer from "@/components/PageContainer";
 import { posts } from "@/data/posts";
 
 export default function Home() {
   return (
-    <main className="max-w-3xl mx-auto px-6 py-10">
+    <PageContainer>
       <Navbar />
 
       <Hero />
@@ -20,6 +21,6 @@ export default function Home() {
           {...post}
         />
       ))}
-    </main>
+    </PageContainer>
   );
 }

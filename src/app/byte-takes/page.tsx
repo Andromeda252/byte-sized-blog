@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import PostCard from "@/components/PostCard";
+import PageContainer from "@/components/PageContainer";
 import { posts } from "@/data/posts";
 
 export default function ByteTakesPage() {
@@ -8,7 +9,7 @@ export default function ByteTakesPage() {
     )
 
     return (
-        <main className="max-w-3xl mx-auto px-6 py-10">
+        <PageContainer>
             <Navbar />
             <h1>Byte Takes Page</h1>
             {byteTakesPosts.map((post) => (
@@ -17,6 +18,6 @@ export default function ByteTakesPage() {
                     {...post}
                 />
             ))}
-        </main>
+        </PageContainer>
     )
 }

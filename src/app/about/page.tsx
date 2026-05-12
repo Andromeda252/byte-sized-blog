@@ -1,8 +1,9 @@
 import Navbar from "@/components/Navbar"
+import PageContainer from "@/components/PageContainer"
 
 export default function AboutPage() {
     return (
-        <main className="max-w-3xl mx-auto px-6 py-10">
+        <PageContainer>
             <Navbar />
             <h1 className="text-4xl font-bold mb-6">
                 About The Byte-Sized Blog
@@ -13,6 +14,6 @@ export default function AboutPage() {
                 on what makes video games so fun and exciting. Primarily focused on Nintendo, but 
                 I am always willing to branch out and cover anything that interests me.
             </p>
-        </main>
+        </PageContainer>
     )
 }

@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import PostCard from "@/components/PostCard";
+import PageContainer from "@/components/PageContainer";
 import { posts } from "@/data/posts";
 
 export default function NewsPage() {
@@ -8,7 +9,7 @@ export default function NewsPage() {
     )
 
     return (
-        <main className="max-w-3xl mx-auto px-6 py-10">
+        <PageContainer>
             <Navbar />
             <h1>News Page</h1>
             {newsPosts.map((post) => (
@@ -17,6 +18,6 @@ export default function NewsPage() {
                     {...post}
                 />
             ))}
-        </main>
+        </PageContainer>
     )
 }

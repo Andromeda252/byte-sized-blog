@@ -1,5 +1,6 @@
 import { posts } from "@/data/posts"
 import Navbar from "@/components/Navbar"
+import PageContainer from "@/components/PageContainer"
 import Link from "next/link"
 
 type PostPageProps = {
@@ -19,7 +20,7 @@ export default async function PostPage({
     }
 
     return (
-        <main className="max-w-3xl mx-auto px-6 py-10">
+        <PageContainer>
             <Navbar />
             <Link href="/" className="text-sm font-medium text-red-600 hover:underline mb-8 inline-block">
                 ← Back to Home
@@ -38,6 +39,6 @@ export default async function PostPage({
             <article className="text-lg leading-8 text-zinc-700 space-y-6">
                 <p>{post.content}</p>
             </article>
-        </main>
+        </PageContainer>
     )
 }
