@@ -11,7 +11,20 @@ export default function ByteTakesPage() {
     return (
         <PageContainer>
             <Navbar />
-            <h1>Byte Takes Page</h1>
+            <section className="mb-10">
+                <p className="mb-2 text-sm font-semibold uppercase tracking-wide text-red-600">
+                    Category
+                </p>
+                <h1 className="mb-4 text-4xl font-bold tracking-tight text-zinc-900">
+                    Byte Takes
+                </h1>
+                <p className="max-w-2xl text-lg leading-8 text-zinc-600">
+                    Opinionated takes on the latest Nintendo or gaming happenings, or just whatever's on my mind.
+                </p>
+            </section>
+            <p className="text-sm text-zinc-500 mb-2">
+                {byteTakesPosts.length} posts
+            </p>
             {byteTakesPosts.map((post) => (
                 <PostCard
                     key={post.slug}
