@@ -21,14 +21,14 @@ export default async function PostPage({
     return (
         <main className="max-w-3xl mx-auto px-6 py-10">
             <Navbar />
-            <Link href="/" className="text-sm font-medium text-purple-600 hover:underline mb-8 inline-block">
+            <Link href="/" className="text-sm font-medium text-red-600 hover:underline mb-8 inline-block">
                 ← Back to Home
             </Link>
             <h1 className="text-5xl leading-tight font-bold mb-6">
                 {post.title}
             </h1>
             <div className="flex items-center gap-3 text-sm text-zinc-500 mb-6">
-                <span className="text-purple-600 font-medium">{post.category}</span>
+                <span className="text-red-600 font-medium">{post.category}</span>
                 <span>•</span>
                 <span>{post.date}</span>
             </div>
