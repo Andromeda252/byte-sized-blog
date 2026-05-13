@@ -2,17 +2,20 @@ import Navbar from "@/components/Navbar";
 import PostCard from "@/components/PostCard";
 import PageContainer from "@/components/PageContainer";
 import { posts } from "@/data/posts";
+import { categoryColors } from "@/lib/categoryColors";
 
 export default function ByteTakesPage() {
     const byteTakesPosts = posts.filter(
         (post) => post.category === "Byte Take"
     )
 
+    const colors = categoryColors["Byte Take"]
+
     return (
         <PageContainer>
             <Navbar />
-            <section className="mb-10">
-                <p className="mb-2 text-sm font-semibold uppercase tracking-wide text-red-600">
+            <section className="mb-10 rounded-2xl border border-amber-200 bg-amber-100 p-8">
+                <p className={`mb-2 text-sm font-semibold uppercase tracking-wide ${colors.text}`}>
                     Category
                 </p>
                 <h1 className="mb-4 text-4xl font-bold tracking-tight text-zinc-900">
