@@ -1,15 +1,21 @@
 "use client"
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { useState } from "react";
+import { Menu, X } from "lucide-react";
 
 export default function Navbar() {
     const pathname = usePathname()
+    const [menuOpen, setMenuOpen] = useState(false)
 
     return (
         <nav className="mb-12 flex flex-col gap-6 border-b border-zinc-200 pb-6 md:items-center md:justify-between">
-            <h1 className="text-2xl font-black tracking-tight text-zinc-900">
+            {/* <h1 className="text-2xl font-black tracking-tight text-zinc-900">
                 The Byte-Sized Blog
-            </h1>
+            </h1> */}
+            <Link href="/" className="text-2xl font-black tracking-tight text-zinc-900">
+                The Byte-Sized Blog
+            </Link>
 
             <div className="flex flex-wrap gap-5 text-sm font-medium text-zinc-600">
                 <Link href="/" className={`transition-colors hover:text-red-600 ${
