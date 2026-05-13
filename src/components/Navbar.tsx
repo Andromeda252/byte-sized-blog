@@ -17,14 +17,14 @@ export default function Navbar() {
                         ? "text-red-600"
                         : "text-zinc-600"
                 }`}>Home</Link>
-                <Link href="/news" className={`transition-colors hover:text-red-600 ${
+                <Link href="/news" className={`transition-colors hover:text-orange-600 ${
                     pathname === "/news"
-                        ? "text-red-600"
+                        ? "text-orange-600"
                         : "text-zinc-600"
                 }`}>News</Link>
-                <Link href="/byte-takes" className={`transition-colors hover:text-red-600 ${
+                <Link href="/byte-takes" className={`transition-colors hover:text-amber-600 ${
                     pathname === "/byte-takes"
-                        ? "text-red-600"
+                        ? "text-amber-600"
                         : "text-zinc-600"
                 }`}>Byte Takes</Link>
                 <Link href="/reviews" className={`transition-colors hover:text-red-600 ${
@@ -32,9 +32,9 @@ export default function Navbar() {
                         ? "text-red-600"
                         : "text-zinc-600"
                 }`}>Reviews</Link>
-                <Link href="/play-logs" className={`transition-colors hover:text-red-600 ${
+                <Link href="/play-logs" className={`transition-colors hover:text-emerald-600 ${
                     pathname === "/play-logs"
-                        ? "text-red-600"
+                        ? "text-emerald-600"
                         : "text-zinc-600"
                 }`}>Play Logs</Link>
                 <Link href="/about" className={`transition-colors hover:text-red-600 ${
