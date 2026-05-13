@@ -23,7 +23,7 @@ export default function FeaturedPost({
         <Link href={`/posts/${post.slug}`}>
           <article className={`group relative overflow-hidden rounded-2xl border shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-md ${colors.gradient} ${colors.border}`}>
             <div className="relative h-[500px] w-full">
-              <Image src={post.image} alt={post.title} fill priority sizes="100vw" className="object-cover transition-transform duration-500 group-hover:scale-105" />
+              <Image src={post.image} alt={post.title} fill priority sizes="(max-width: 768px) 100vw, 768px" className="object-cover transition-transform duration-500 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
               <div className="absolute bottom-0 p-8 md:p-10">
                 <p className={`mb-3 text-lg font-semibold uppercase tracking-wide drop-shadow-md ${colors.text}`}>
