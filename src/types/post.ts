@@ -5,4 +5,5 @@ export type Post = {
     category: string
     date: string
     content: string
+    image: string
 }
