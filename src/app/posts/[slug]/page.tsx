@@ -38,7 +38,7 @@ export default async function PostPage({
                     {post.excerpt}
                 </p>
             </header>
-            <article className="text-lg leading-8 text-zinc-700 space-y-6">
+            <article className="prose prose-zinc max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-p:text-zinc-700 prose-p:leading-8 prose-p:text-lg prose-a:text-red-600 hover:prose-a:text-red-700">
                 <p>{post.content}</p>
             </article>
         </PageContainer>
