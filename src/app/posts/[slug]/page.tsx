@@ -68,7 +68,20 @@ export default async function PostPage({
                     {post.excerpt}
                 </p>
             </header> */}
-            <article className="prose prose-zinc max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-p:text-zinc-700 prose-p:leading-8 prose-p:text-lg prose-a:text-red-600 hover:prose-a:text-red-700">
+            <article className="prose prose-zinc max-w-none
+                prose-headings:font-bold
+                prose-headings:tracking-tight
+                prose-headings:text-zinc-900
+                prose-p:text-zinc-700
+                prose-p:leading-8
+                prose-p:text-lg
+                prose-strong:text-zinc-900
+                prose-a:text-red-600
+                hover:prose-a:text-red-700
+                prose-blockquote:border-l-red-500
+                prose-blockquote:text-zinc-700
+                prose-img:rounded-2xl
+                prose-img:shadow-md">
                 <p>{post.content}</p>
             </article>
         </PageContainer>
