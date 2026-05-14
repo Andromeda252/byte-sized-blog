@@ -9,41 +9,56 @@ export default function Navbar() {
     const [menuOpen, setMenuOpen] = useState(false)
 
     return (
-        <nav className="mb-12 flex flex-col gap-6 border-b border-zinc-200 pb-6 md:items-center md:justify-between">
-            {/* <h1 className="text-2xl font-black tracking-tight text-zinc-900">
-                The Byte-Sized Blog
-            </h1> */}
-            <Link href="/" className="text-2xl font-black tracking-tight text-zinc-900">
-                The Byte-Sized Blog
-            </Link>
-
-            <div className="flex flex-wrap gap-5 text-sm font-medium text-zinc-600">
-                <Link href="/" className={`transition-colors hover:text-red-600 ${
+        // <nav className="mb-12 flex flex-col gap-6 border-b border-zinc-200 pb-6 md:items-center md:justify-between">
+        <nav className="mb-12 border-b border-zinc-200 pb-6">
+            <div className="flex items-center justify-between">
+                {/* <h1 className="text-2xl font-black tracking-tight text-zinc-900">
+                    The Byte-Sized Blog
+                </h1> */}
+                <Link href="/" className="text-2xl font-black tracking-tight text-zinc-900">
+                    The Byte-Sized Blog
+                </Link>
+                <button
+                    onClick={() => setMenuOpen(!menuOpen)}
+                    className="rounded-lg border border-zinc-200 p-2 text-zinc-700 transition hover:bg-zinc-100 md:hidden"
+                    aria-label="Toggle Menu"
+                >
+                    {menuOpen ? <X size={20} /> : <Menu size={20} />}
+                </button>
+            </div>
+            
+            <div className={`
+                mt-6 flex flex-col gap-3
+                md:mt-0 md:flex md:flex-row md:flex-wrap md:gap-5
+                text-sm font-medium
+                ${menuOpen ? "flex" : "hidden md:flex"}
+            `}>
+                <Link href="/" className={`rounded-lg px-3 py-2 transition-colors hover:bg-red-50 hover:text-red-600 ${
                     pathname === "/"
                         ? "text-red-600"
                         : "text-zinc-600"
                 }`}>Home</Link>
-                <Link href="/news" className={`transition-colors hover:text-orange-600 ${
+                <Link href="/news" className={`rounded-lg px-3 py-2 transition-colors hover:bg-orange-50 hover:text-orange-600 ${
                     pathname === "/news"
                         ? "text-orange-600"
                         : "text-zinc-600"
                 }`}>News</Link>
-                <Link href="/byte-takes" className={`transition-colors hover:text-amber-600 ${
+                <Link href="/byte-takes" className={`rounded-lg px-3 py-2 transition-colors hover:bg-amber-50 hover:text-amber-600 ${
                     pathname === "/byte-takes"
                         ? "text-amber-600"
                         : "text-zinc-600"
                 }`}>Byte Takes</Link>
-                <Link href="/reviews" className={`transition-colors hover:text-red-600 ${
+                <Link href="/reviews" className={`rounded-lg px-3 py-2 transition-colors hover:bg-red-50 hover:text-red-600 ${
                     pathname === "/reviews"
                         ? "text-red-600"
                         : "text-zinc-600"
                 }`}>Reviews</Link>
-                <Link href="/play-logs" className={`transition-colors hover:text-emerald-600 ${
+                <Link href="/play-logs" className={`rounded-lg px-3 py-2 transition-colors hover:bg-emerald-50 hover:text-emerald-600 ${
                     pathname === "/play-logs"
                         ? "text-emerald-600"
                         : "text-zinc-600"
                 }`}>Play Logs</Link>
-                <Link href="/about" className={`transition-colors hover:text-red-600 ${
+                <Link href="/about" className={`rounded-lg px-3 py-2 transition-colors hover:bg-red-50 hover:text-red-600 ${
                     pathname === "/about"
                         ? "text-red-600"
                         : "text-zinc-600"
