@@ -6,4 +6,12 @@ export type Post = {
     date: string
     content: string
     image: string
+
+    featured: boolean
+    published: boolean
+
+    author: string
+    readingTime: string
+
+    tags: string[]
 }
