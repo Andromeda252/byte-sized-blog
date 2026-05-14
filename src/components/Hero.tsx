@@ -1,15 +1,33 @@
 export default function Hero() {
     return (
-        <section className="mb-12 rounded-2xl border border-zinc-200 bg-gradient-to-br from-white to-red-100 p-8 shadow-sm">
-            <p className="mb-3 text-sm font-semibold uppercase tracking-wide text-red-600">
-                Passionate and Enthusiastic Gaming Coverage
-            </p>
-            <h2 className="mb-6 text-4xl font-bold leading-tight text-zinc-900">
-                Short-form gaming content that cuts through the cloud of cynicism and focuses on what makes this medium great.
-            </h2>
-            <p className="max-w-2xl text-lg leading-8 text-zinc-600">
-                Gaming news, reviews, and takes focused on viewing the industry through an optimistic, enthusiastic lens.
-            </p>
+        <section className="relative mb-12 overflow-hidden rounded-3xl border border-red-100 bg-gradient-to-br from-white via-red-50 to-red-100 p-6 shadow-sm sm:p-8 md:p-12">
+            <div className="absolute -top-16 -right-16 h-48 w-48 rounded-full bg-red-200/40 blur-3xl" />
+            <div className="absolute bottom-0 left-0 h-32 w-32 rounded-full bg-orange-200/30 blur-2xl" />
+            <div className="relative z-10">
+                <p className="mb-4 text-xs font-bold uppercase tracking-[0.25em] text-red-600 sm:text-sm">
+                    Passionate and Enthusiastic Gaming Coverage
+                </p>
+                <h2 className="mb-6 max-w-4xl text-3xl font-black leading-tight tracking-tight text-zinc-900 sm:text-4xl md:text-5xl">
+                    Short-form gaming content that cuts through the cloud of cynicism and focuses on what makes this medium great.
+                </h2>
+                <p className="max-w-2xl text-base leading-7 text-zinc-700 sm:text-lg sm:leading-8">
+                    Gaming news, reviews, and takes focused on viewing the industry through an optimistic, enthusiastic lens.
+                </p>
+                {/* <div className="mt-8 flex flex-col gap-4 sm:flex-row">
+                    <a
+                        href="/reviews"
+                        className="rounded-xl bg-red-600 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-red-700"
+                    >
+                        Read Reviews
+                    </a>
+                    <a
+                        href="/play-logs"
+                        className="rounded-xl border border-zinc-300 bg-white/80 px-6 py-3 text-sm font-semibold text-zinc-700 backdrop-blur transition-colors hover:bg-white"
+                    >
+                        Browse Play Logs
+                    </a>
+                </div> */}
+            </div>
         </section>
     )
 }
