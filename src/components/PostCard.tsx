@@ -1,9 +1,10 @@
-import { Post } from "@/types/post"
+// import { Post } from "@/types/post"
+import { PostCardProps } from "@/types/post"
 import { categoryColors } from "@/lib/categoryColors"
 import Link from "next/link"
 import Image from "next/image"
 
-export default function PostCard({ slug, title, excerpt, category, date, image }: Post) {
+export default function PostCard({ slug, title, excerpt, category, date, image }: PostCardProps) {
     const colors = categoryColors[category] ?? {
         text: "text-zinc-600",
         gradient: "hover:from-zinc-50 hover:to-white",
@@ -16,7 +17,7 @@ export default function PostCard({ slug, title, excerpt, category, date, image }
                     <div className="relative h-56 w-full shrink-0 sm:h-64 md:h-auto md:w-72">
                         <Image src={image} alt={title} fill sizes="(max-width: 768px) 100vw, 288px" className="object-cover transition-transform duration-500 group-hover:scale-105"/>
                     </div>
-                    <div className="flex- flex-1 flex-col p-5 sm:p-6">
+                    <div className="flex flex-1 flex-col p-5 sm:p-6">
                         <small className={`text-xs font-semibold uppercase tracking-[0.2em] ${colors.text}`}>{category}</small>
                         <h3 className="text-2xl font-black mt-3 mb-3 leading-tight tracking-tight text-zinc-900 transition-colors group-hover:text-zinc-700">{title}</h3>
                         <p className="text-zinc-600 leading-7 mb-5 text-base">{excerpt}</p>
