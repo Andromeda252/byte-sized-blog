@@ -1,11 +1,11 @@
 import Link from "next/link";
 import Image from "next/image";
 // import { Post } from "@/types/post";
-import { PostCardProps } from "@/types/post";
+import { PostPreview } from "@/types/postPreview";
 import { categoryColors } from "@/lib/categoryColors";
 
 type FeaturedPostProps = {
-    post: PostCardProps
+    post: PostPreview
 }
 
 export default function FeaturedPost({

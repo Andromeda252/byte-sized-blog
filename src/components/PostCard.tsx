@@ -1,10 +1,10 @@
 // import { Post } from "@/types/post"
-import { PostCardProps } from "@/types/post"
+import { PostPreview } from "@/types/postPreview"
 import { categoryColors } from "@/lib/categoryColors"
 import Link from "next/link"
 import Image from "next/image"
 
-export default function PostCard({ slug, title, excerpt, category, date, image }: PostCardProps) {
+export default function PostCard({ slug, title, excerpt, category, date, image }: PostPreview) {
     const colors = categoryColors[category] ?? {
         text: "text-zinc-600",
         gradient: "hover:from-zinc-50 hover:to-white",

@@ -15,8 +15,3 @@ export type Post = {
 
     tags: string[]
 }
-
-export type PostCardProps = Pick<
-    Post,
-    "slug" | "title" | "excerpt" | "category" | "date" | "image"
->
