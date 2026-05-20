@@ -1,3 +1,4 @@
+import CategoryHeader from "@/components/CategoryHeader";
 import Navbar from "@/components/Navbar";
 import PostCard from "@/components/PostCard";
 import PageContainer from "@/components/PageContainer";
@@ -14,7 +15,12 @@ export default function ReviewsPage() {
     return (
         <PageContainer>
             <Navbar />
-            <section className="mb-10 rounded-2xl border border-red-200 bg-red-100 p-8">
+            <CategoryHeader
+                category="Review"
+                title="Reviews"
+                description="Long-form, analyical deep dives into my thoughts and impressions on the latest games."
+            />
+            {/* <section className="mb-10 rounded-2xl border border-red-200 bg-red-100 p-8">
                 <p className={`mb-2 text-sm font-semibold uppercase tracking-wide ${colors.text}`}>
                     Category
                 </p>
@@ -24,7 +30,7 @@ export default function ReviewsPage() {
                 <p className="max-w-2xl text-lg leading-8 text-zinc-600">
                     Long-form, analyical deep dives into my thoughts and impressions on the latest games.
                 </p>
-            </section>
+            </section> */}
             <p className="text-sm text-zinc-500 mb-2">
                 {reviewPosts.length} posts
             </p>

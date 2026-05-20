@@ -1,3 +1,4 @@
+import CategoryHeader from "@/components/CategoryHeader";
 import Navbar from "@/components/Navbar";
 import PostCard from "@/components/PostCard";
 import PageContainer from "@/components/PageContainer";
@@ -14,7 +15,12 @@ export default function NewsPage() {
     return (
         <PageContainer>
             <Navbar />
-            <section className="mb-10 rounded-2xl border border-orange-200 bg-orange-100 p-8">
+            <CategoryHeader
+                category="News"
+                title="News"
+                description="Quick, byte-sized coverage and reactions to the latest gaming news that matters to me."
+            />
+            {/* <section className="mb-10 rounded-2xl border border-orange-200 bg-orange-100 p-8">
                 <p className={`mb-2 text-sm font-semibold uppercase tracking-wide ${colors.text}`}>
                     Category
                 </p>
@@ -24,7 +30,7 @@ export default function NewsPage() {
                 <p className="max-w-2xl text-lg leading-8 text-zinc-600">
                     Quick, byte-sized coverage and reactions to the latest gaming news that matters to me.
                 </p>
-            </section>
+            </section> */}
             <p className="text-sm text-zinc-500 mb-2">
                 {newsPosts.length} posts
             </p>
