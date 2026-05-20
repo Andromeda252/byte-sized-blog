@@ -1,6 +1,7 @@
 import { posts } from "@/data/posts"
 import { categoryColors } from "@/lib/categoryColors"
 import { notFound } from "next/navigation"
+import { Metadata } from "next"
 import Navbar from "@/components/Navbar"
 import PageContainer from "@/components/PageContainer"
 import Link from "next/link"
@@ -10,6 +11,25 @@ type PostPageProps = {
     params: Promise<{
         slug: string
     }>
+}
+
+export async function generateMetadata({
+    params
+}: PostPageProps): Promise<Metadata> {
+    const { slug } = await params
+
+    const post = posts.find((post) => post.slug === slug)
+
+    if (!post) {
+        return {
+            title: "Post Not Found | Byte Sized Blog"
+        }
+    }
+
+    return {
+        title: `${post.title} | The Byte-Sized Blog`,
+        description: post.excerpt,
+    }
 }
 
 export default async function PostPage({
