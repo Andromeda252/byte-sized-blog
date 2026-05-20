@@ -1,5 +1,6 @@
 import { posts } from "@/data/posts"
 import { categoryColors } from "@/lib/categoryColors"
+import { notFound } from "next/navigation"
 import Navbar from "@/components/Navbar"
 import PageContainer from "@/components/PageContainer"
 import Link from "next/link"
@@ -18,7 +19,7 @@ export default async function PostPage({
     const post = posts.find((post) => post.slug === slug)
 
     if (!post) {
-        return <h1>Post not found</h1>
+        notFound()
     }
 
     const colors = categoryColors[post.category]
