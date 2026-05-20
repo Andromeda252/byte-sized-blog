@@ -6,6 +6,7 @@ import Navbar from "@/components/Navbar"
 import PageContainer from "@/components/PageContainer"
 import Link from "next/link"
 import Image from "next/image"
+import ReactMarkdown from "react-markdown"
 
 type PostPageProps = {
     params: Promise<{
@@ -92,7 +93,7 @@ export default async function PostPage({
                 prose-img:rounded-2xl
                 prose-img:shadow-md
                 prose-code:text-red-600">
-                <p>{post.content}</p>
+                <ReactMarkdown>{post.content}</ReactMarkdown>
             </article>
         </PageContainer>
     )

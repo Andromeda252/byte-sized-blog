@@ -5,7 +5,19 @@ export const posts = [
         excerpt: "As annoying as it can be to recieve yet another retelling of Star Fox 64, a fresh start is exactly what this franchise needs.",
         category: "Byte Take",
         date: "May 6th, 2026",
-        content: `Nintendo dropped a bombshell the other night by announcing a Star Fox Direct mere minutes before it aired.`,
+        content: `
+# [insert heading here]
+            
+Nintendo dropped a bombshell the other night by announcing a Star Fox Direct mere minutes before it aired.
+            
+## [insert subheading here]
+            
+[insert article content here]
+            
+- [insert bullet point]
+- [insert bullet point]
+            
+> [insert quote here]`,
         image: "/images/star-fox-2026.avif"
     },
     {
