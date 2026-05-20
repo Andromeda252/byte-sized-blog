@@ -30,13 +30,25 @@ export default function CategoryPageLayout({
             <p className="mb-3 text-sm text-zinc-500">
                 {posts.length} posts
             </p>
+            
+            {posts.length > 0 ? (
+                posts.map((post) => (
+                    <PostCard
+                        key={post.slug}
+                        {...post}
+                    />
+                ))
+            ) : (
+                <div className="rounded-2xl border border-dashed border-zinc-300 bg-white/60 px-6 py-14 text-center">
+                    <p className="mb-2 text-lg font-semibold text-zinc-800">
+                        No posts yet.
+                    </p>
 
-            {posts.map((post) => (
-                <PostCard
-                    key={post.slug}
-                    {...post}
-                />
-            ))}
+                    <p className="text-zinc-500">
+                        Content for this category is coming soon.
+                    </p>
+                </div>
+            )}
         </PageContainer>
     )
 }
