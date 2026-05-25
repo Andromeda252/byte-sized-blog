@@ -30,6 +30,15 @@ Nintendo dropped a bombshell the other night by announcing a Star Fox Direct mer
         image: "/images/tomodachi-life-living-the-dream.webp"
     },
     {
+        slug: "review-yoshi-and-the-mysterious-book",
+        title: "REVIEW: Yoshi and the Mysterious Book - An Encyclopedia Bursting with Fun Ideas",
+        excerpt: "I didn't know what to expect from the latest in the Yoshi series, but I ended up enjoying myself way more than I anticipated.",
+        category: "Review",
+        date: "May 25th, 2026",
+        content: `Yoshi games tend to be pretty hit or miss for me. Yoshi's Woolly World on Wii U was fantastic, but its Switch 1 follow-up, Crafted World, left me underwhelmed.`,
+        image: "/images/yoshi-mysterious-book.avif"
+    },
+    {
         slug: "news-yoshi-retail-demo",
         title: "Yoshi and the Mysterious Book Gets Retail Demo",
         excerpt: "The intriguing, cozy platformer is available to try at select retailers two weeks ahead of release.",
