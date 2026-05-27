@@ -22,7 +22,7 @@ Nintendo dropped a bombshell the other night by announcing a Star Fox Direct mer
     },
     {
         slug: "review-tomodachi-life-living-the-dream",
-        title: "REVIEW: Tomodachi Life: Living the Dream is a Near Perfect Sequel",
+        title: "REVIEW: Tomodachi Life: Living the Dream - A Near Perfect Sequel",
         excerpt: "I've wanted a new Tomodachi Life for a long time, and I don't think I could've asked for much more from what we got.",
         category: "Review",
         date: "May 1st, 2026",
