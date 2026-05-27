@@ -7,6 +7,7 @@ import PageContainer from "@/components/PageContainer"
 import Link from "next/link"
 import Image from "next/image"
 import ReactMarkdown from "react-markdown"
+import { getPostBySlug } from "@/lib/posts"
 
 type PostPageProps = {
     params: Promise<{
@@ -19,7 +20,8 @@ export async function generateMetadata({
 }: PostPageProps): Promise<Metadata> {
     const { slug } = await params
 
-    const post = posts.find((post) => post.slug === slug)
+    // const post = posts.find((post) => post.slug === slug)
+    const post = getPostBySlug(slug)
 
     if (!post) {
         return {
@@ -37,7 +39,8 @@ export default async function PostPage({
     params
 }: PostPageProps) {
     const { slug } = await params
-    const post = posts.find((post) => post.slug === slug)
+    // const post = posts.find((post) => post.slug === slug)
+    const post = getPostBySlug(slug)
 
     if (!post) {
         notFound()
