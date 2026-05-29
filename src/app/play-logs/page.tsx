@@ -3,10 +3,13 @@ import CategoryHeader from "@/components/CategoryHeader";
 import Navbar from "@/components/Navbar";
 import PostCard from "@/components/PostCard";
 import PageContainer from "@/components/PageContainer";
-import { posts } from "@/data/posts";
+// import { posts } from "@/data/posts";
+import { getAllPosts } from "@/lib/posts";
 import { categoryColors } from "@/lib/categoryColors";
 
 export default function PlayLogsPage() {
+    const posts = getAllPosts().filter((post) => post.published)
+
     const playLogPosts = posts.filter(
         (post) => post.category === "Play Log"
     )

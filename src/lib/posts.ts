@@ -24,3 +24,13 @@ export function getPostBySlug(slug: string): Post {
         ...(data as Omit<Post, "slug" | "content">)
     }
 }
+
+export function getAllPosts(): Post[] {
+    const slugs = getPostSlugs()
+
+    const posts = slugs.map((slug) => getPostBySlug(slug))
+
+    return posts.sort((a, b) => {
+        return new Date(b.date).getTime() - new Date(a.date).getTime()
+    })
+}

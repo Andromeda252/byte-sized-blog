@@ -3,9 +3,12 @@ import Hero from "@/components/Hero";
 import PostCard from "@/components/PostCard";
 import PageContainer from "@/components/PageContainer";
 import FeaturedPost from "@/components/FeaturedPost";
-import { posts } from "@/data/posts";
+// import { posts } from "@/data/posts";
+import { getAllPosts } from "@/lib/posts";
 
 export default function Home() {
+  const posts = getAllPosts().filter((post) => post.published)
+
   const featuredPost = posts[0]
   const remainingPosts = posts.slice(1)
   return (
