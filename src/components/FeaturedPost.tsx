@@ -37,11 +37,16 @@ export default function FeaturedPost({
                 </p>
                 <div className="flex flex-col gap-3 text-sm sm:flex-row sm:items-center sm:justify-between">
                   <span className="text-sm text-zinc-300">
-                    {post.date}
+                    {post.date} • {post.readingTime}
                   </span>
                   <span className={`text-sm font-medium ${colors.text}`}>
                     Read Now →
                   </span>
+                </div>
+                <div className="mt-4 flex flex-wrap gap-2">
+                    {post.tags.map((tag) => (
+                        <span key={tag} className="rounded-full bg-white/10 px-3 py-1 text-xs font-medium text-white">{tag}</span>
+                    ))}
                 </div>
               </div>
             </div>

@@ -3,7 +3,7 @@ import { categoryColors } from "@/lib/categoryColors"
 import Link from "next/link"
 import Image from "next/image"
 
-export default function PostCard({ slug, title, excerpt, category, date, image }: PostPreview) {
+export default function PostCard({ slug, title, excerpt, category, date, image, readingTime, tags }: PostPreview) {
     const colors = categoryColors[category] ?? {
         text: "text-zinc-600",
         gradient: "hover:from-zinc-50 hover:to-white",
@@ -22,11 +22,16 @@ export default function PostCard({ slug, title, excerpt, category, date, image }
                         <p className="text-zinc-600 leading-7 mb-5 text-base">{excerpt}</p>
                         <div className="mt-auto flex items-center justify-between">
                             <small className="text-sm text-zinc-500">
-                                {date}
+                                {date} • {readingTime}
                             </small>
                             <span className={`text-sm font-medium transition-transform duration-300 group-hover:translate-x-1 ${colors.text}`}>
                                 Read More →
                             </span>
+                        </div>
+                        <div className="mt-4 flex flex-wrap gap-2">
+                                {tags.map((tag) => (
+                                    <span key={tag} className="rounded-full bg-black/10 px-3 py-1 text-xs font-medium text-black">{tag}</span>
+                                ))}
                         </div>
                     </div>
                 </div>
