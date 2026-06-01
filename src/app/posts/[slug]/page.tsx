@@ -6,12 +6,18 @@ import PageContainer from "@/components/PageContainer"
 import Link from "next/link"
 import Image from "next/image"
 import ReactMarkdown from "react-markdown"
-import { getPostBySlug } from "@/lib/posts"
+import { getPostSlugs, getPostBySlug } from "@/lib/posts"
 
 type PostPageProps = {
     params: Promise<{
         slug: string
     }>
+}
+
+export async function generateStaticParams() {
+    const slugs = getPostSlugs()
+
+    return slugs.map((slug) => ({slug: slug.replace(/\.md$/, "")}))
 }
 
 export async function generateMetadata({
