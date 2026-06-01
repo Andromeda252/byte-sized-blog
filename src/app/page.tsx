@@ -8,8 +8,9 @@ import { getAllPosts } from "@/lib/posts";
 export default function Home() {
   const posts = getAllPosts().filter((post) => post.published)
 
-  const featuredPost = posts[0]
-  const remainingPosts = posts.slice(1)
+  //If there is no featured post, default to the latest post.
+  const featuredPost = posts.find((post) => post.featured) ?? posts[0]
+  const remainingPosts = posts.filter((post) => post.slug !== featuredPost?.slug)
   return (
     <PageContainer>
       <Navbar />
