@@ -1,4 +1,3 @@
-import { posts } from "@/data/posts"
 import { categoryColors } from "@/lib/categoryColors"
 import { notFound } from "next/navigation"
 import { Metadata } from "next"
@@ -20,7 +19,6 @@ export async function generateMetadata({
 }: PostPageProps): Promise<Metadata> {
     const { slug } = await params
 
-    // const post = posts.find((post) => post.slug === slug)
     const post = getPostBySlug(slug)
 
     if (!post) {
@@ -39,7 +37,6 @@ export default async function PostPage({
     params
 }: PostPageProps) {
     const { slug } = await params
-    // const post = posts.find((post) => post.slug === slug)
     const post = getPostBySlug(slug)
 
     if (!post) {

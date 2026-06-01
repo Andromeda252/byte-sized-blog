@@ -3,7 +3,6 @@ import Hero from "@/components/Hero";
 import PostCard from "@/components/PostCard";
 import PageContainer from "@/components/PageContainer";
 import FeaturedPost from "@/components/FeaturedPost";
-// import { posts } from "@/data/posts";
 import { getAllPosts } from "@/lib/posts";
 
 export default function Home() {
