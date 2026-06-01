@@ -9,12 +9,10 @@ export default function Navbar() {
     const [menuOpen, setMenuOpen] = useState(false)
 
     return (
+        //Keeping this comment because the style is in line with how I eventually want to style the navbar down the line.
         // <nav className="mb-12 flex flex-col gap-6 border-b border-zinc-200 pb-6 md:items-center md:justify-between">
         <nav className="mb-12 border-b border-zinc-200 pb-6">
             <div className="flex items-center justify-between">
-                {/* <h1 className="text-2xl font-black tracking-tight text-zinc-900">
-                    The Byte-Sized Blog
-                </h1> */}
                 <Link href="/" className="text-2xl font-black tracking-tight text-zinc-900">
                     The Byte-Sized Blog
                 </Link>

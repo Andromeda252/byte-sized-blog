@@ -1,4 +1,3 @@
-// import { Post } from "@/types/post"
 import { PostPreview } from "@/types/postPreview"
 import { categoryColors } from "@/lib/categoryColors"
 import Link from "next/link"
