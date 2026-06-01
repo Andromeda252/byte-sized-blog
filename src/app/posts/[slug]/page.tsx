@@ -71,8 +71,17 @@ export default async function PostPage({
                                 <span className="text-zinc-300">
                                     {post.date}
                                 </span>
+                                {/* <span className="text-zinc-300">•</span>
+                                <span className="text-zinc-300">By: {post.author}</span> */}
+                                <span className="text-zinc-300">•</span>
+                                <span className="text-zinc-300">{post.readingTime}</span>
                             </div>
-                            <h1 className="mb-5 max-w-4xl text-2xl font-black leading-tight tracking-tight text-white sm:text-4xl md:text-5xl lg:text-6xl">
+                            <div className="mt-4 flex flex-wrap gap-2">
+                                {post.tags.map((tag) => (
+                                    <span key={tag} className="rounded-full bg-white/10 px-3 py-1 text-xs font-medium text-white">{tag}</span>
+                                ))}
+                            </div>
+                            <h1 className="mb-1 mt-2 max-w-4xl text-2xl font-black leading-tight tracking-tight text-white sm:text-4xl md:text-5xl">
                                 {post.title}
                             </h1>
                             <p className="max-w-2xl text-sm leading-6 text-zinc-200 sm:text-lg sm:leading-8 md:text-xl md:leading-9">
