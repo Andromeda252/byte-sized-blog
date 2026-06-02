@@ -4,7 +4,7 @@ excerpt: "As annoying as it can be to recieve yet another retelling of Star Fox 
 category: "Byte Take"
 date: "May 6th, 2026"
 image: "/images/star-fox-2026.avif"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 readingTime: "4 min read"
