@@ -6,6 +6,7 @@ import PageContainer from "@/components/PageContainer"
 import Link from "next/link"
 import Image from "next/image"
 import ReactMarkdown from "react-markdown"
+import remarkGfm from "remark-gfm"
 import { getPostSlugs, getPostBySlug } from "@/lib/posts"
 
 type PostPageProps = {
@@ -108,7 +109,7 @@ export default async function PostPage({
                 prose-img:rounded-2xl
                 prose-img:shadow-md
                 prose-code:text-red-600">
-                <ReactMarkdown>{post.content}</ReactMarkdown>
+                <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content}</ReactMarkdown>
             </article>
         </PageContainer>
     )

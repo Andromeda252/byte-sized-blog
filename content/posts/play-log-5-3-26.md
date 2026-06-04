@@ -27,3 +27,8 @@ Once again, Tomodachi Life: Living the Dream has dominated my play time this pas
 - [insert bullet point]
             
 > [insert quote here]
+
+| Game | Days Played |
+|-------|-------|
+| Tomodachi Life: Living the Dream | Played 7 days this week |
+| The Legend of Zelda: Tears of the Kingdom | Played 4 days this week |
