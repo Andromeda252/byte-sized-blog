@@ -94,20 +94,37 @@ export default async function PostPage({
             </header>
             <article className="prose prose-zinc max-w-none
                 prose-sm sm:prose-base lg:prose-lg
+
                 prose-headings:font-bold
                 prose-headings:tracking-tight
                 prose-headings:text-zinc-900
+
+                prose-h2:mt-12
+                prose-h2:mb-6
+
+                prose-h3:mt-8
+                prose-h3:mb-4
+
                 prose-p:text-zinc-700
                 prose-p:leading-7 sm:prose-p:leading-8
                 prose-p:text-lg
+
+                prose-ul:my-6
+                prose-ol:my-6
+                prose-li:my-1
+
                 prose-strong:text-zinc-900
+
                 prose-a:text-red-600
                 hover:prose-a:text-red-700
+
                 prose-blockquote:border-l-red-500
                 prose-blockquote:text-zinc-700
                 prose-blockquote:italic
+
                 prose-img:rounded-2xl
                 prose-img:shadow-md
+
                 prose-code:text-red-600">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content}</ReactMarkdown>
             </article>
