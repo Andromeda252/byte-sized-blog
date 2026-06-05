@@ -27,3 +27,10 @@ Yoshi games tend to be pretty hit or miss for me. Yoshi's Woolly World on Wii U 
 - [insert bullet point]
             
 > [insert quote here]
+
+- [x] Rolled credits
+- [ ] Cleared all stages
+- [ ] Collected all Smiley Flowers
+- [ ] Made all discoveries
+
+Strikethrough Text: ~~redacted~~
