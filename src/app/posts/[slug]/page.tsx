@@ -125,7 +125,11 @@ export default async function PostPage({
                 prose-img:rounded-2xl
                 prose-img:shadow-md
 
-                prose-code:text-red-600">
+                prose-code:text-red-600
+                
+                prose-table:w-full
+                prose-th:text-left
+                prose-th:font-semibold">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content}</ReactMarkdown>
             </article>
         </PageContainer>
