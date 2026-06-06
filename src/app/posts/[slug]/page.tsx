@@ -3,11 +3,12 @@ import { notFound } from "next/navigation"
 import { Metadata } from "next"
 import Navbar from "@/components/Navbar"
 import PageContainer from "@/components/PageContainer"
+import RelatedPosts from "@/components/RelatedPosts"
 import Link from "next/link"
 import Image from "next/image"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
-import { getPostSlugs, getPostBySlug } from "@/lib/posts"
+import { getPostSlugs, getPostBySlug, getRelatedPosts } from "@/lib/posts"
 
 type PostPageProps = {
     params: Promise<{
@@ -51,6 +52,8 @@ export default async function PostPage({
     }
 
     const colors = categoryColors[post.category]
+
+    const relatedPosts = getRelatedPosts(post.slug, post.tags)
 
     return (
         <PageContainer>
@@ -132,6 +135,7 @@ export default async function PostPage({
                 prose-th:font-semibold">
                 <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content}</ReactMarkdown>
             </article>
+            <RelatedPosts posts={relatedPosts} />
         </PageContainer>
     )
 }

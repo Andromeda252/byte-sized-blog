@@ -34,3 +34,18 @@ export function getAllPosts(): Post[] {
         return new Date(b.date).getTime() - new Date(a.date).getTime()
     })
 }
+
+export function getRelatedPosts(
+    currentSlug: string,
+    tags: string[],
+    limit = 3
+) {
+    const posts = getAllPosts()
+
+    return posts
+        .filter(post => post.slug !== currentSlug)
+        .map(post => ({...post, matches: post.tags.filter(tag => tags.includes(tag)).length}))
+        .filter(posts => posts.matches > 0)
+        .sort((a, b) => b.matches - a.matches)
+        .slice(0, limit)
+}
