@@ -49,3 +49,17 @@ export function getRelatedPosts(
         .sort((a, b) => b.matches - a.matches)
         .slice(0, limit)
 }
+
+export function getAllTags() {
+    const posts = getAllPosts()
+
+    const tags = posts.flatMap((post) => post.tags)
+
+    return [...new Set(tags)]
+}
+
+export function getPostsByTag(tag: string) {
+    const posts = getAllPosts()
+
+    return posts.filter((post) => post.tags.includes(tag))
+}

@@ -9,6 +9,7 @@ import Image from "next/image"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
 import { getPostSlugs, getPostBySlug, getRelatedPosts } from "@/lib/posts"
+import { tagToSlug } from "@/lib/tagSlug"
 
 type PostPageProps = {
     params: Promise<{
@@ -82,7 +83,9 @@ export default async function PostPage({
                             </div>
                             <div className="mt-4 flex flex-wrap gap-2">
                                 {post.tags.map((tag) => (
-                                    <span key={tag} className="rounded-full bg-white/10 px-3 py-1 text-xs font-medium text-white">{tag}</span>
+                                    <span key={tag} className="rounded-full bg-white/10 px-3 py-1 text-xs font-medium text-white">
+                                        <Link href={`/tags/${tagToSlug(tag)}`}>{tag}</Link>
+                                    </span>
                                 ))}
                             </div>
                             <h1 className="mb-1 mt-2 max-w-4xl text-2xl font-black leading-tight tracking-tight text-white sm:text-4xl md:text-5xl">
