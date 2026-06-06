@@ -4,7 +4,7 @@ excerpt: "Just a few days removed from the first anniversary of its release, one
 category: "News"
 date: "June 1st, 2026"
 image: "/images/mkworld-keyart.png"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 readingTime: "4 min read"
