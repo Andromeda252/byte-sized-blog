@@ -9,10 +9,10 @@ published: true
 author: "Andromeda"
 readingTime: "4 min read"
 tags:
-    - Nintendo
     - Mario Kart
     - Mario Kart World
     - Nintendo Music
+    - Nintendo Switch 2
     - Mobile
 ---
 

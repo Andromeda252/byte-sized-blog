@@ -9,7 +9,6 @@ published: true
 author: "Andromeda"
 readingTime: "8 min read"
 tags:
-    - Nintendo
     - Tomodachi Life
     - Tomodachi Life Living the Dream
     - Nintendo Switch

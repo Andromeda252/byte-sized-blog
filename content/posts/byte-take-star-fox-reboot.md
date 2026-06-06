@@ -9,7 +9,6 @@ published: true
 author: "Andromeda"
 readingTime: "4 min read"
 tags:
-    - Nintendo
     - Star Fox
     - Star Fox (2026)
     - Nintendo Switch 2

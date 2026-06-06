@@ -9,7 +9,6 @@ published: true
 author: "Andromeda"
 readingTime: "7 min read"
 tags:
-    - Nintendo
     - Yoshi
     - Yoshi and the Mysterious Book
     - Nintendo Switch 2
