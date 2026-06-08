@@ -4,7 +4,7 @@ excerpt: "365 days after its release, Mario Kart World's rendition of the iconic
 category: "Byte Take"
 date: "June 6th, 2026"
 image: "/images/mkworld-keyart.png"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 readingTime: "6 min read"
