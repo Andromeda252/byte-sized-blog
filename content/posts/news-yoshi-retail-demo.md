@@ -2,7 +2,7 @@
 title: "Yoshi and the Mysterious Book Gets Retail Demo"
 excerpt: "The intriguing, cozy platformer is available to try at select retailers two weeks ahead of release."
 category: "News"
-date: "May 8th, 2026"
+date: "2026-05-08"
 image: "/images/yoshi-mysterious-book.avif"
 featured: false
 published: true

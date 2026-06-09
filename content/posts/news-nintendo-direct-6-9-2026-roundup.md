@@ -2,7 +2,7 @@
 title: "Nintendo Direct - 6/9/2026: The Biggest Announcements and Initial Reaction"
 excerpt: "The first full Nintendo Direct of 2026 featured continued strong third party support on Switch 2, as well as some fun surprises, and the return of one of the greatest games of all time."
 category: "News"
-date: "June 9th, 2026"
+date: "2026-06-09"
 image: "/images/nintendo-direct-6-9-26.avif"
 featured: false
 published: true

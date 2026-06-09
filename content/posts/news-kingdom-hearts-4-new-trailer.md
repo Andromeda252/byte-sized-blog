@@ -2,7 +2,7 @@
 title: "At Long Last, Kingdom Hearts 4 Recieves New Trailer 4 Years After Initial Teaser"
 excerpt: "A new trailer for my most anticipated upcoming title has finally arrived, courtesy of the most unexpected of sources."
 category: "News"
-date: "June 9th, 2026"
+date: "2026-06-09"
 image: "/images/kingdom-hearts-4-lq.avif"
 featured: false
 published: true

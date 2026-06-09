@@ -2,7 +2,7 @@
 title: "The Strength of Nintendo's Third Party Relations on Full Display in June 2026 Direct"
 excerpt: "Today's Nintendo Direct proved that Nintendo's third party support is perhaps stronger than its ever been."
 category: "Byte Take"
-date: "June 9th, 2026"
+date: "2026-06-09"
 image: "/images/kingdom-hearts-4-lq.avif"
 featured: true
 published: true
