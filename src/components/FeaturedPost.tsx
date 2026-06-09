@@ -2,6 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { PostPreview } from "@/types/postPreview";
 import { categoryColors } from "@/lib/categoryColors";
+import { formatDate } from "@/lib/formatDate";
 
 type FeaturedPostProps = {
     post: PostPreview
@@ -37,7 +38,7 @@ export default function FeaturedPost({
                 </p>
                 <div className="flex flex-col gap-3 text-sm sm:flex-row sm:items-center sm:justify-between">
                   <span className="text-sm text-zinc-300">
-                    {post.date} • {post.readingTime}
+                    {formatDate(post.date)} • {post.readingTime}
                   </span>
                   <span className={`text-sm font-medium ${colors.text}`}>
                     Read Now →

@@ -1,5 +1,6 @@
 import { PostPreview } from "@/types/postPreview"
 import { categoryColors } from "@/lib/categoryColors"
+import { formatDate } from "@/lib/formatDate"
 import Link from "next/link"
 import Image from "next/image"
 
@@ -22,7 +23,7 @@ export default function PostCard({ slug, title, excerpt, category, date, image, 
                         <p className="text-zinc-600 leading-7 mb-5 text-base">{excerpt}</p>
                         <div className="mt-auto flex items-center justify-between">
                             <small className="text-sm text-zinc-500">
-                                {date} • {readingTime}
+                                {formatDate(date)} • {readingTime}
                             </small>
                             <span className={`text-sm font-medium transition-transform duration-300 group-hover:translate-x-1 ${colors.text}`}>
                                 Read More →

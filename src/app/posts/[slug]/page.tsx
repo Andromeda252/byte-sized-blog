@@ -10,6 +10,7 @@ import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
 import { getPostSlugs, getPostBySlug, getRelatedPosts } from "@/lib/posts"
 import { tagToSlug } from "@/lib/tagSlug"
+import { formatDate } from "@/lib/formatDate"
 
 type PostPageProps = {
     params: Promise<{
@@ -74,7 +75,7 @@ export default async function PostPage({
                                 </span>
                                 <span className="text-zinc-300">•</span>
                                 <span className="text-zinc-300">
-                                    {post.date}
+                                    {formatDate(post.date)}
                                 </span>
                                 {/* <span className="text-zinc-300">•</span>
                                 <span className="text-zinc-300">By: {post.author}</span> */}

@@ -1,5 +1,5 @@
 ---
-title: "At Long Last, Kingdom Hearts 4 Recieves New Trailer 4 Years After Initial Teaser"
+title: "At Long Last, Kingdom Hearts 4 Recieves First New Trailer 4 Years After Initial Teaser"
 excerpt: "A new trailer for my most anticipated upcoming title has finally arrived, courtesy of the most unexpected of sources."
 category: "News"
 date: "2026-06-09"
@@ -20,7 +20,9 @@ tags:
             
 And it's coming to Nintendo Switch 2 on Day 1.
 
-Today's Nintendo Direct featured a plethora of exciting announcements, but for me, none were bigger than the absolute bombshell that was the new trailer for Kingdom Hearts 4. If you weren't aware, I'm a massive Kingdom Hearts fan, and have been highly anticipating the fourth mainline entry since it's initial announcement 4 years ago. I was praying this year's summer showcase season would give us a new glimpse at the game, but I was starting to accept we'd have to wait a while longer after no-showing at the PlayStation and Xbox shows, as well as Summer Game Fest. So, I was ill-prepared for it to show up in a Nintendo Direct of all places.
+Today's Nintendo Direct featured a plethora of exciting announcements, but for me, none were bigger (yes, bigger than OOT remake) than the absolute bombshell that was the new trailer for Kingdom Hearts 4.
+
+If you weren't aware, I'm a massive Kingdom Hearts fan, and have been highly anticipating the fourth mainline entry since it's initial announcement 4 years ago. I was praying this year's summer showcase season would give us a new glimpse at the game, but I was starting to accept we'd have to wait a while longer after no-showing at the PlayStation and Xbox shows, as well as Summer Game Fest. So, I was ill-prepared for it to show up in a Nintendo Direct of all places.
             
 ## [insert subheading here]
             
