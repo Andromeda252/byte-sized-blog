@@ -4,7 +4,7 @@ excerpt: "The first full Nintendo Direct of 2026 has finally been announced for 
 category: "News"
 date: "June 8th, 2026"
 image: "/images/nintendo-direct-6-9-26.avif"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 readingTime: "3 min read"
