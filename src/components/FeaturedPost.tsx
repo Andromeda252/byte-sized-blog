@@ -17,8 +17,8 @@ export default function FeaturedPost({
       border: "border-zinc-200"
     }
     return (
-      <section className="mb-12">
-        <p className="mb-3 text-sm font-semibold uppercase tracking-wide text-red-600">
+      <section className="mb-12 border-b border-zinc-500 pb-12">
+        <p className="mb-2 text-md font-semibold uppercase tracking-wide text-red-600">
           Featured Post
         </p>
         <Link href={`/posts/${post.slug}`}>
