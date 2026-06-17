@@ -5,7 +5,6 @@ export default function AboutPage() {
     return (
         <PageContainer>
             <Navbar />
-            <section className="p-8 border rounded-xl bg-gradient-to-br from-white via-red-50 to-red-200 shadow-lg">
                 <h1 className="text-3xl md:text-4xl font-bold mb-6">
                     About The Byte-Sized Blog
                 </h1>
@@ -15,7 +14,6 @@ export default function AboutPage() {
                     on what makes video games so fun and exciting. Primarily focused on Nintendo, but 
                     I am always willing to branch out and cover anything that interests me.
                 </p>
-            </section>
         </PageContainer>
     )
 }
