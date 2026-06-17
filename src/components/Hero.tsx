@@ -8,25 +8,25 @@ export default function Hero() {
                 <p className="mb-4 text-xs font-bold uppercase tracking-[0.25em] text-red-600 sm:text-sm">
                     Passionate and Enthusiastic Gaming Coverage
                 </p>
-                <h2 className="mb-6 max-w-4xl text-3xl font-black leading-tight tracking-tight text-zinc-900 sm:text-4xl md:text-5xl">
+                <h2 className="mb-3 max-w-4xl text-lg font-black leading-tight tracking-tight text-zinc-900 sm:text-xl md:text-2xl">
                     Short-form gaming content that cuts through the cloud of cynicism and focuses on what makes this medium great.
                 </h2>
-                <p className="max-w-2xl text-base leading-7 text-zinc-700 sm:text-lg sm:leading-8">
+                <p className="max-w-2xl text-sm leading-7 text-zinc-700 sm:text-lg sm:leading-8">
                     Gaming news, reviews, and takes focused on viewing the industry through an optimistic, enthusiastic lens.
                 </p>
-                <div className="mt-8 flex flex-col gap-4 sm:flex-row">
+                <div className="mt-4 flex flex-row gap-4">
                     <a
-                        href="/reviews"
-                        className="rounded-xl bg-red-600 px-6 py-3 text-sm font-semibold text-white transition-colors hover:bg-red-700"
+                        href="/about"
+                        className="rounded-xl border border-zinc-900 bg-red-600 px-6 py-3 text-sm font-bold text-white transition-colors hover:bg-red-700"
                     >
-                        Read Reviews
+                        About The Byte-Sized Blog
                     </a>
-                    <a
+                    {/* <a
                         href="/about"
                         className="rounded-xl border border-zinc-300 bg-white/80 px-6 py-3 text-sm font-semibold text-zinc-700 backdrop-blur transition-colors hover:bg-white"
                     >
                         About The Byte-Sized Blog
-                    </a>
+                    </a> */}
                 </div>
             </div>
         </section>
