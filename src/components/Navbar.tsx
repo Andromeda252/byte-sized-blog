@@ -46,9 +46,9 @@ export default function Navbar() {
                         ? "text-amber-600"
                         : "text-zinc-600"
                 }`}>Byte Takes</Link>
-                <Link href="/reviews" className={`rounded-lg px-3 py-2 transition-colors hover:bg-red-50 hover:text-red-600 ${
+                <Link href="/reviews" className={`rounded-lg px-3 py-2 transition-colors hover:bg-sky-50 hover:text-sky-600 ${
                     pathname === "/reviews"
-                        ? "text-red-600"
+                        ? "text-sky-600"
                         : "text-zinc-600"
                 }`}>Reviews</Link>
                 <Link href="/play-logs" className={`rounded-lg px-3 py-2 transition-colors hover:bg-emerald-50 hover:text-emerald-600 ${

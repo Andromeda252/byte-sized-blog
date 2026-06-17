@@ -20,10 +20,10 @@ export const categoryColors: Record<
         border: "hover:border-amber-200"
     },
     Review: {
-        text: "text-red-600",
-        gradient: "from-red-100 to-white",
-        hoverGradient:"hover:from-red-100 hover:to-white",
-        border: "hover:border-red-200"
+        text: "text-sky-600",
+        gradient: "from-sky-100 to-white",
+        hoverGradient:"hover:from-sky-100 hover:to-white",
+        border: "hover:border-sky-200"
     },
     "Play Log": {
         text: "text-emerald-600",

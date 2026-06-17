@@ -1,6 +1,5 @@
 import CategoryPageLayout from "@/components/CategoryPageLayout";
 import { getAllPosts } from "@/lib/posts";
-import { categoryColors } from "@/lib/categoryColors";
 
 export default function ReviewsPage() {
     const posts = getAllPosts().filter((post) => post.published)
