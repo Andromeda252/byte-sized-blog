@@ -27,9 +27,15 @@ export default function CategoryPageLayout({
                 description={description}
             />
 
-            <p className="mb-3 text-sm text-zinc-500">
-                {posts.length} posts
-            </p>
+            {posts.length == 1 ? (
+                <p className="mb-3 text-sm text-zinc-500">
+                    {posts.length} post
+                </p>
+            ) : (
+                <p className="mb-3 text-sm text-zinc-500">
+                    {posts.length} posts
+                </p>
+            )}
             
             {posts.length > 0 ? (
                 posts.map((post) => (
