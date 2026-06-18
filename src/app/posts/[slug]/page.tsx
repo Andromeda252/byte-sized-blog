@@ -137,7 +137,25 @@ export default async function PostPage({
                 prose-table:w-full
                 prose-th:text-left
                 prose-th:font-semibold">
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>{post.content}</ReactMarkdown>
+                <ReactMarkdown
+                    remarkPlugins={[remarkGfm]}
+                    components={{
+                        img: ({ src, alt }) => {
+                            if (typeof src !== "string") {
+                                return null
+                            }
+                            
+                            return (
+                                <Image
+                                    src={src}
+                                    alt={alt || ""}
+                                    width={1000}
+                                    height={500}
+                                />
+                            )
+                        }
+                    }}
+                >{post.content}</ReactMarkdown>
             </article>
             <RelatedPosts posts={relatedPosts} />
         </PageContainer>

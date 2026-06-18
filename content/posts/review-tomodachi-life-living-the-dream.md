@@ -17,6 +17,8 @@ tags:
 # [insert heading here]
             
 It's been a strangely long wait for Tomodachi Life: Living the Dream, first announced last March in that weird Nintendo Direct that aired a week before the Switch 2 Direct, but it's finally here.
+
+![A screenshot of the game from its eShop page.](/images/tomodachi-life-screenshot-1.avif)
             
 ## [insert subheading here]
             
