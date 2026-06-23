@@ -15,7 +15,7 @@ export default function CategoryHeader({
 
     const backgroundStyles: Record<string, string> = {
         News: "border-orange-200 bg-orange-100",
-        "Byte Take": "border-amber-200 bg-amber-100",
+        Rambling: "border-amber-200 bg-amber-100",
         Review: "border-sky-200 bg-sky-100",
         "Play Log": "border-emerald-200 bg-emerald-100"
     }

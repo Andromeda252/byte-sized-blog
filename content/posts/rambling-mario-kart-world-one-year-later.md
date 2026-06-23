@@ -1,7 +1,7 @@
 ---
 title: "One Year Later, Mario Kart World's Rainbow Road Still Hits Different"
 excerpt: "365 days after its release, Mario Kart World's rendition of the iconic track is still incredibly special."
-category: "Byte Take"
+category: "Rambling"
 date: "2026-06-06"
 image: "/images/mkworld-keyart.png"
 featured: false

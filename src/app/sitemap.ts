@@ -34,7 +34,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
             lastModified: new Date()
         },
         {
-            url: "https://abc.com/byte-takes",
+            url: "https://abc.com/ramblings",
             lastModified: new Date()
         },
         {

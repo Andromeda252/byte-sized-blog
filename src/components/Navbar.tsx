@@ -41,11 +41,11 @@ export default function Navbar() {
                         ? "text-orange-600"
                         : "text-zinc-600"
                 }`}>News</Link>
-                <Link href="/byte-takes" className={`rounded-lg px-3 py-2 transition-colors hover:bg-amber-50 hover:text-amber-600 ${
-                    pathname === "/byte-takes"
+                <Link href="/ramblings" className={`rounded-lg px-3 py-2 transition-colors hover:bg-amber-50 hover:text-amber-600 ${
+                    pathname === "/ramblings"
                         ? "text-amber-600"
                         : "text-zinc-600"
-                }`}>Byte Takes</Link>
+                }`}>Ramblings</Link>
                 <Link href="/reviews" className={`rounded-lg px-3 py-2 transition-colors hover:bg-sky-50 hover:text-sky-600 ${
                     pathname === "/reviews"
                         ? "text-sky-600"

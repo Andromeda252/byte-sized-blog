@@ -13,7 +13,7 @@ export const categoryColors: Record<
         hoverGradient:"hover:from-orange-100 hover:to-white",
         border: "hover:border-orange-200"
     },
-    "Byte Take": {
+    Rambling: {
         text: "text-amber-600",
         gradient: "from-amber-100 to-white",
         hoverGradient:"hover:from-amber-100 hover:to-white",

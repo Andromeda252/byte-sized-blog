@@ -5,13 +5,13 @@ export default function ByteTakesPage() {
     const posts = getAllPosts().filter((post) => post.published)
 
     const byteTakesPosts = posts.filter(
-        (post) => post.category === "Byte Take"
+        (post) => post.category === "Rambling"
     )
 
     return (
         <CategoryPageLayout
-            category="Byte Take"
-            title="Byte Takes"
+            category="Rambling"
+            title="Ramblings"
             description="Opinionated takes on the latest Nintendo or gaming happenings, or just whatever's on my mind."
             posts={byteTakesPosts}
         />
