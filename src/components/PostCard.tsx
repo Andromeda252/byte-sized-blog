@@ -19,18 +19,18 @@ export default function PostCard({ slug, title, excerpt, category, date, image, 
                     </div>
                     <div className="flex flex-1 flex-col p-5 sm:p-6">
                         <small className={`text-xs font-semibold uppercase tracking-[0.2em] ${colors.text}`}>{category}</small>
-                        <h3 className="text-md sm:text-xl md:text-2xl font-black mt-3 mb-3 leading-tight tracking-tight text-zinc-900 transition-colors group-hover:text-zinc-700">{title}</h3>
-                        <p className="text-sm line-clamp-2 sm:line-clamp-3 text-zinc-600 leading-7 mb-5 text-base">{excerpt}</p>
+                        <h3 className="text-sm sm:text-xl md:text-2xl font-black mt-2 mb-2 sm:mt-3 sm:mb-3 leading-tight tracking-tight text-zinc-900 transition-colors group-hover:text-zinc-700">{title}</h3>
+                        <p className="text-sm hidden md:block text-zinc-600 leading-7 mb-5">{excerpt}</p>
                         <div className="mt-auto flex items-center justify-between">
                             <small className="text-sm hidden sm:flex text-zinc-500">
                                 {formatDate(date)} • {readingTime}
                             </small>
-                            <small className="text-sm sm:hidden flex text-zinc-500">
+                            <small className="text-xs sm:hidden flex text-zinc-500">
                                 {formatDate(date)}
                             </small>
-                            <span className={`text-sm font-medium transition-transform duration-300 group-hover:translate-x-1 ${colors.text}`}>
-                                Read More →
-                            </span>
+                            {/* <span className={`text-xs sm:text-sm font-medium transition-transform duration-300 group-hover:translate-x-1 ${colors.text}`}>
+                                →
+                            </span> */}
                         </div>
                         <div className="mt-4 hidden md:flex flex-wrap gap-2">
                                 {tags.map((tag) => (
