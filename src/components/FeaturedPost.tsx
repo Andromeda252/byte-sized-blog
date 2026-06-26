@@ -23,7 +23,7 @@ export default function FeaturedPost({
         </p>
         <Link href={`/posts/${post.slug}`}>
           <article className={`group relative overflow-hidden rounded-2xl border shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-md ${colors.gradient} ${colors.border}`}>
-            <div className="relative min-h-[500px] w-full sm:min-h-[550px] md:min-h-[600px]">
+            <div className="relative min-h-[350px] w-full sm:min-h-[450px] md:min-h-[600px]">
               <Image src={post.image} alt={post.title} fill priority sizes="(max-width: 768px) 100vw, 768px" className="object-cover transition-transform duration-500 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent md:from-black/80 md:via-black/40" />
               <div className="absolute inset-0 flex items-end">
@@ -31,21 +31,21 @@ export default function FeaturedPost({
                   <p className={`mb-3 text-sm font-semibold uppercase tracking-[0.2em] drop-shadow-md sm:text-base ${colors.text}`}>
                     {post.category}
                   </p>
-                  <h2 className="mb-4 max-w-3xl text-3xl font-black leading-tight text-white sm:text-4xl md:text-5xl">
+                  <h2 className="mb-2 sm:mb-4 max-w-3xl text-2xl font-black leading-tight text-white sm:text-4xl md:text-5xl">
                     {post.title}
                   </h2>
-                  <p className="mb-6 max-w-2xl text-base leading-7 text-zinc-200 sm:text-lg sm:leading-8">
+                  <p className="mb-3 sm:mb-6 max-w-2xl text-sm leading-7 text-zinc-200 sm:text-lg sm:leading-8">
                     {post.excerpt}
                   </p>
                   <div className="flex flex-col gap-3 text-sm sm:flex-row sm:items-center sm:justify-between">
-                    <span className="text-sm text-zinc-300">
+                    <span className="text-xs sm:text-sm text-zinc-300">
                       {formatDate(post.date)} • {post.readingTime}
                     </span>
-                    <span className={`text-sm font-medium ${colors.text}`}>
+                    {/* <span className={`text-sm font-medium ${colors.text}`}>
                       Read Now →
-                    </span>
+                    </span> */}
                   </div>
-                  <div className="mt-4 flex flex-wrap gap-2">
+                  <div className="mt-4 hidden md:flex flex-wrap gap-2">
                       {post.tags.map((tag) => (
                           <span key={tag} className="rounded-full bg-white/10 px-3 py-1 text-xs font-medium text-white">{tag}</span>
                       ))}
