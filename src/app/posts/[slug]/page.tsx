@@ -66,10 +66,10 @@ export default async function PostPage({
                     <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/55 to-transparent md:from-black/80 md:via-black/40" />
                     <div className="absolute inset-0 flex items-end p-5 sm:p-6 md:p-10">
                         <div className="w-full max-w-4xl">
-                            <Link href="/" className="mb-6 inline-block text-sm font-medium text-white/90 transition hover:text-white hover:underline">
+                            <Link href="/" className="mb-3 md:mb-6 inline-block text-sm font-medium text-white/90 transition hover:text-white hover:underline">
                                 ← Back to Home
                             </Link>
-                            <div className="mb-4 flex flex-wrap items-center gap-2 text-xs sm:text-sm">
+                            <div className="flex flex-wrap items-center gap-2 text-xs sm:text-sm">
                                 <span className={`font-bold uppercase tracking-[0.2em] drop-shadow-md ${colors.text}`}>
                                     {post.category}
                                 </span>
@@ -82,9 +82,9 @@ export default async function PostPage({
                                 <span className="text-zinc-300">•</span>
                                 <span className="text-zinc-300">{post.readingTime}</span>
                             </div>
-                            <div className="mt-4 flex flex-wrap gap-2">
+                            <div className="mt-3 sm:mt-4 hidden sm:flex flex-wrap gap-1 sm:gap-2">
                                 {post.tags.map((tag) => (
-                                    <span key={tag} className="rounded-full bg-white/10 px-3 py-1 text-xs font-medium text-white">
+                                    <span key={tag} className="rounded-full bg-white/10 px-2 sm:px-3 py-0.5 sm:py-1 text-xs font-medium text-white">
                                         <Link href={`/tags/${tagToSlug(tag)}`}>{tag}</Link>
                                     </span>
                                 ))}
@@ -95,6 +95,13 @@ export default async function PostPage({
                             <p className="max-w-2xl text-sm leading-6 text-zinc-200 sm:text-lg sm:leading-8 md:text-xl md:leading-9">
                                 {post.excerpt}
                             </p>
+                            <div className="mt-3 sm:mt-4 sm:hidden flex flex-wrap gap-1 sm:gap-2">
+                                {post.tags.map((tag) => (
+                                    <span key={tag} className="rounded-full bg-white/10 px-2 sm:px-3 py-0.5 sm:py-1 text-xs font-medium text-white">
+                                        <Link href={`/tags/${tagToSlug(tag)}`}>{tag}</Link>
+                                    </span>
+                                ))}
+                            </div>
                         </div>
                     </div>
                 </div>
