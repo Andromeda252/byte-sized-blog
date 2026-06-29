@@ -7,7 +7,6 @@ image: "/images/tomodachi-life-living-the-dream.webp"
 featured: false
 published: true
 author: "Andromeda"
-readingTime: "8 min read"
 tags:
     - Tomodachi Life
     - Tomodachi Life Living the Dream

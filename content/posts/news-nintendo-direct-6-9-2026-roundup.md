@@ -7,7 +7,6 @@ image: "/images/nintendo-direct-6-9-26.avif"
 featured: false
 published: true
 author: "Andromeda"
-readingTime: "3 min read"
 tags:
     - Nintendo Direct
     - Nintendo Switch 2

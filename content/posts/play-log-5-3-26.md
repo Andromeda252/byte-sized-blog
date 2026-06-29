@@ -7,7 +7,6 @@ image: "/images/tomodachi-life-screenshot-1.avif"
 featured: false
 published: true
 author: "Andromeda"
-readingTime: "4 min read"
 tags:
     - Play Logs
     - Tomodachi Life Living the Dream

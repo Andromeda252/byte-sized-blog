@@ -7,7 +7,6 @@ image: "/images/yoshi-mysterious-book.avif"
 featured: false
 published: true
 author: "Andromeda"
-readingTime: "3 min read"
 tags:
     - Yoshi
     - Yoshi and the Mysterious Book

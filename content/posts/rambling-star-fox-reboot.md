@@ -7,7 +7,6 @@ image: "/images/star-fox-2026.avif"
 featured: false
 published: true
 author: "Andromeda"
-readingTime: "4 min read"
 tags:
     - Star Fox
     - Star Fox (2026)

@@ -7,7 +7,6 @@ image: "/images/kingdom-hearts-4-lq.avif"
 featured: true
 published: true
 author: "Andromeda"
-readingTime: "6 min read"
 tags:
     - Nintendo Direct
     - Kingdom Hearts 4

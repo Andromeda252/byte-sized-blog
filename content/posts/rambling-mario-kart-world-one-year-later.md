@@ -7,7 +7,6 @@ image: "/images/mkworld-keyart.png"
 featured: false
 published: true
 author: "Andromeda"
-readingTime: "6 min read"
 tags:
     - Mario Kart
     - Mario Kart World

@@ -1,6 +1,7 @@
 import fs from "fs"
 import path from "path"
 import matter from "gray-matter"
+import readingTime from "reading-time"
 import { Post } from "@/types/post"
 
 const postsDirectory = path.join(process.cwd(), "content/posts")
@@ -18,10 +19,13 @@ export function getPostBySlug(slug: string): Post {
 
     const { data, content } = matter(fileContents)
 
+    const readTime = readingTime(content)
+
     return {
         slug: realSlug,
         content,
-        ...(data as Omit<Post, "slug" | "content">)
+        ...(data as Omit<Post, "slug" | "content" | "readingTime">),
+        readingTime: readTime.text
     }
 }
 
