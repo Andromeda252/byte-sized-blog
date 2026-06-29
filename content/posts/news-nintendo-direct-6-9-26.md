@@ -2,7 +2,7 @@
 title: "It's Finally Time - Nintendo Direct Announced for Tomorrow Morning"
 excerpt: "The first full Nintendo Direct of 2026 has finally been announced for Tuesday, June 9th, accompnied by Treehouse Live coverage afterwards."
 category: "News"
-date: "2026-06-08"
+date: "2026-06-08T11:00:00"
 image: "/images/nintendo-direct-6-9-26.avif"
 featured: false
 published: true

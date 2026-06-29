@@ -2,7 +2,7 @@
 title: "REVIEW: Tomodachi Life: Living the Dream - A Near Perfect Sequel"
 excerpt: "I've wanted a new Tomodachi Life for a long time, and I don't think I could've asked for much more from what we got."
 category: "Review"
-date: "2026-05-01"
+date: "2026-05-01T12:00:00"
 image: "/images/tomodachi-life-living-the-dream.webp"
 featured: false
 published: true

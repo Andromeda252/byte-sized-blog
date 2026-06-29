@@ -2,7 +2,7 @@
 title: "What I've Been Playing: Week of 5/3/2026"
 excerpt: "Spoiler Alert: I'm still Living the Dream."
 category: "Play Log"
-date: "2026-05-09"
+date: "2026-05-09T12:00:00"
 image: "/images/tomodachi-life-screenshot-1.avif"
 featured: false
 published: true

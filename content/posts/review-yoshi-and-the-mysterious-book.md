@@ -2,7 +2,7 @@
 title: "REVIEW: Yoshi and the Mysterious Book - An Encyclopedia Bursting with Fun Ideas"
 excerpt: "The most pleasent surprise of 2026 so far, Yoshi's latest adventure kept surprising me throughout."
 category: "Review"
-date: "2026-05-25"
+date: "2026-05-25T12:00:00"
 image: "/images/yoshi-mysterious-book.avif"
 featured: false
 published: true

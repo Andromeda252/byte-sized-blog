@@ -2,7 +2,7 @@
 title: "HUZZAH! Mario Kart World FINALLY Races Onto Nintendo Music"
 excerpt: "Just a few days removed from the first anniversary of its release, one of the greatest Nintendo soundtracks ever has finally begun rolling out on Nintendo's music streaming app."
 category: "News"
-date: "2026-06-01"
+date: "2026-06-01T22:00:00"
 image: "/images/mkworld-keyart.png"
 featured: false
 published: true

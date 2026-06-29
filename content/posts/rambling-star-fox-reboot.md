@@ -2,7 +2,7 @@
 title: "Why Rebooting Star Fox is the Right Move"
 excerpt: "As annoying as it can be to recieve yet another retelling of Star Fox 64, a fresh start is exactly what this franchise needs."
 category: "Rambling"
-date: "2026-05-06"
+date: "2026-05-07T09:00:00"
 image: "/images/star-fox-2026.avif"
 featured: false
 published: true
