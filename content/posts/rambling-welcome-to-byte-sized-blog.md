@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Byte-Sized Blog"
+title: "Welcome to The Byte-Sized Blog"
 excerpt: "New here? Read this to get to know the place and what to expect!"
 category: "Rambling"
 date: "2026-06-30T12:00:00"
