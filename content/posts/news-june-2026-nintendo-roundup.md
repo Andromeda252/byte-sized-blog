@@ -4,7 +4,7 @@ excerpt: "Rounding up all the biggest news and happenings from a jampacked month
 category: "News"
 date: "2026-06-30T12:00:00"
 image: "/images/star-fox-2026.avif"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 tags:
