@@ -30,5 +30,12 @@ export const categoryColors: Record<
         gradient: "from-emerald-100 to-white",
         hoverGradient:"hover:from-emerald-100 hover:to-white",
         border: "hover:border-emerald-200"
+    },
+    Miscellaneous: {
+        text: "text-red-600",
+        gradient: "from-red-100 to-white",
+        hoverGradient: "hover:from-red-100 to-white",
+        border: "hover:border-red-200"
     }
+
 }
