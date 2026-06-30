@@ -5,7 +5,7 @@ category: "Rambling"
 date: "2026-05-07T09:00:00"
 image: "/images/star-fox-2026.avif"
 featured: false
-published: true
+published: false
 author: "Andromeda"
 tags:
     - Star Fox

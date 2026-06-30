@@ -5,7 +5,7 @@ category: "Review"
 date: "2026-05-01T12:00:00"
 image: "/images/tomodachi-life-living-the-dream.webp"
 featured: false
-published: true
+published: false
 author: "Andromeda"
 tags:
     - Tomodachi Life

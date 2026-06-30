@@ -5,7 +5,7 @@ category: "News"
 date: "2026-06-01T22:00:00"
 image: "/images/mkworld-keyart.png"
 featured: false
-published: true
+published: false
 author: "Andromeda"
 tags:
     - Mario Kart

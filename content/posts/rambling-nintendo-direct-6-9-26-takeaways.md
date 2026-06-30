@@ -4,8 +4,8 @@ excerpt: "Today's Nintendo Direct proved that Nintendo's third party support is 
 category: "Rambling"
 date: "2026-06-09T17:00:00"
 image: "/images/kingdom-hearts-4-lq.avif"
-featured: true
-published: true
+featured: false
+published: false
 author: "Andromeda"
 tags:
     - Nintendo Direct

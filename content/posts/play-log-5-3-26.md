@@ -5,7 +5,7 @@ category: "Play Log"
 date: "2026-05-09T12:00:00"
 image: "/images/tomodachi-life-screenshot-1.avif"
 featured: false
-published: true
+published: false
 author: "Andromeda"
 tags:
     - Play Logs

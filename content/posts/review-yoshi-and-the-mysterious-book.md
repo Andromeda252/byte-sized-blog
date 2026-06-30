@@ -5,7 +5,7 @@ category: "Review"
 date: "2026-05-25T12:00:00"
 image: "/images/yoshi-mysterious-book.avif"
 featured: false
-published: true
+published: false
 author: "Andromeda"
 tags:
     - Yoshi
