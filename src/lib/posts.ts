@@ -32,7 +32,7 @@ export function getPostBySlug(slug: string): Post {
 export function getAllPosts(): Post[] {
     const slugs = getPostSlugs()
 
-    const posts = slugs.map((slug) => getPostBySlug(slug))
+    const posts = slugs.map((slug) => getPostBySlug(slug)).filter((post) => post.published)
 
     return posts.sort((a, b) => {
         return new Date(b.date).getTime() - new Date(a.date).getTime()
