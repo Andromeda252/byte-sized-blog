@@ -19,7 +19,7 @@ Hours before the game dropped last night, 7 tracks from Rhythm Heaven Groove wer
 
 It's a small sampling of what promises to be an... ahem... GROOVY soundtrack filled with foot-tapping bangers. The selection contains a couple tracks from the games menus, and a couple tracks from the actual rhythm games themselves. I think I would've liked a little bit more from the actual rhythm games, but its a decent selection overall. You can view the full tracklist in the image below.
 
-# INSERT SCREENSHOT
+![The 7 tracks from Rhythm Heaven Groove's Special Release, including Hoop Trundling and The Monsters 1.](/images/rhg-sr-tracks.png)
 
 This does likely mean we won't recieve a drop tonight at the usual time, as this likely is our mid-week drop for the week. So uh, happy one-day-late Nintendo Music Wednesday in that case!
 
