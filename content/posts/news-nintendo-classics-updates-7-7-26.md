@@ -36,4 +36,4 @@ It baffles me that it took this long for the first Wario Land game to arrive on 
 
 Ahhh, one of my COVID era addictions returns. I'm not kidding when I say I was addicted to Panel de Pon when it first hit the SNES app back in 2020. It is by far my most played title in the entire Nintendo Classics lineup, and it's not even close. So, here's another version of it that also comes with a version of Dr. Mario. Granted, I don't think I'll be putting nearly as much time into this version of Puzzle League, as I simply don't have that kind of time anymore, but I'll definitly check it out. A solid addition, and hopefully we eventually get the Nintendo Puzzle Collection on GameCube... y'know, if they can figureout how to re-release Yoshi's Cookie, that is.
 
-Overall, a solid batch of additions. Hopefully this isn't the only update we get this month, as we could really use a new GameCube game *coughcoughSuperMarioSunshinecoughcough*.
+Overall, a solid batch of additions, and they're available to play right now. Hopefully this isn't the only update we get this month, as we could really use a new GameCube game *coughcoughSuperMarioSunshinecoughcough*.
