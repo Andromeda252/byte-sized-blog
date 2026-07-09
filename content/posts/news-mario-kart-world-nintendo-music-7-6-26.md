@@ -3,7 +3,7 @@ title: "Super Mario World and Super Mario Land Trilogy Free Roam Remixes Added t
 excerpt: "No one will believe me, but I totally half called this weeks drop."
 category: "News"
 date: "2026-07-07T16:00:00"
-image: "/images/mkworld-keyart.png"
+image: "/images/nintendo/mario-kart-world/mkworld-keyart.png"
 featured: false
 published: true
 author: "Andromeda"
@@ -29,7 +29,7 @@ So, what I used to call 'Nintendo Music Monday' is now 'Mario Kart World Music M
 
 This week, we recieved the collection of remixes hailing from Super Mario World, Super Mario Land, Super Mario Land 2: 6 Golden Coins, and Wario Land: Super Mario Land 3. That may sound like a whopper of a drop, but it's not as massive as the 4 new playlists make it seem at first glance.
 
-![Remixes hailing from Mario World and Mario Land 1, 2, and 3 added to the Mario Kart World soundtrack.](/images/mkw-fr-music-7-6-26.png)
+![Remixes hailing from Mario World and Mario Land 1, 2, and 3 added to the Mario Kart World soundtrack.](/images/nintendo/mario-kart-world/mkw-fr-music-7-6-26.png)
 
 The three Super Mario Land games only have a total of 4 remixes between them, with 2 and 3 having one remix a piece. Super Mario World is doing most of the heavy lifting here, with 12 new tracks. So, 16 new tracks in all this week, spread across 4 new playlists.
 

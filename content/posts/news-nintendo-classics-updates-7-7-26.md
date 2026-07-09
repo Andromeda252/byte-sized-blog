@@ -3,7 +3,7 @@ title: "4 Game Boy and Game Boy Advance Games Added to Nintendo Classics, Includ
 excerpt: "Took them long enough."
 category: "News"
 date: "2026-07-07T21:41:00"
-image: "/images/wario-land-boxart.jpg"
+image: "/images/nintendo/nintendo-classics/wario-land-boxart.jpg"
 featured: false
 published: true
 author: "Andromeda"

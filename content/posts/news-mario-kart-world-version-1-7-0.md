@@ -3,7 +3,7 @@ title: "Mario Kart World Recieves Two New Knockout Tour Rallys"
 excerpt: "The open-world racer's Version 1.7.0 update is easily its biggest yet, and there's more on the way!"
 category: "News"
 date: "2026-07-01T13:00:00"
-image: "/images/mkworld-keyart.png"
+image: "/images/nintendo/mario-kart-world/mkworld-keyart.png"
 featured: false
 published: true
 author: "Andromeda"
@@ -19,8 +19,8 @@ I've been heavily frustrated with the lack of post-launch support Mario Kart Wor
 
 The Drill Rally and Boomerang Rally join the lineup, increasing the number of Rallys from 8 to 10, bringing new routes through the map to race on. The Drill Rally starts at Wario Shipyard and goes to Bowser's Castle, while the Boomerang Rally starts at Salty Salty Speedway and ends at Whistlestop Summit. Hopefully having some new routes will help online Knockout Tour feel more varied.
 
-![The new Drill Rally Route.](/images/mkw-drill-rally-route.jpg)
-![The new Boomerang Rally Route.](/images/mkw-boomerang-rally-route.jpg)
+![The new Drill Rally Route.](/images/nintendo/mario-kart-world/mkw-drill-rally-route.jpg)
+![The new Boomerang Rally Route.](/images/nintendo/mario-kart-world/mkw-boomerang-rally-route.jpg)
 
 
 That's not all, though, as Nintendo has promised an additional SIX new Rallys will be added in the future, bringing the total to 16, double what it was at launch! This is great news, and exactly what I've been waiting for!
