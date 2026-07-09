@@ -6,23 +6,53 @@ import { Post } from "@/types/post"
 
 const postsDirectory = path.join(process.cwd(), "content/posts")
 
+export function getPostFiles(folder: string): string[] {
+    const entries = fs.readdirSync(folder, { withFileTypes: true })
+    
+    let posts: string[] = []
+    
+    for (const entry of entries) {
+        const fullPath = path.join(folder, entry.name)
+        
+        if (entry.isDirectory()) {
+            posts.push(...getPostFiles(fullPath))
+        } else if (entry.name.endsWith(".md")) {
+            posts.push(fullPath)
+        }
+    }
+    
+    return posts
+}
+
 export function getPostSlugs() {
-    return fs.readdirSync(postsDirectory)
+    // return fs.readdirSync(postsDirectory)
+    return getPostFiles(postsDirectory).map((file) => 
+        // path.relative(postsDirectory, file).replace(/\.md$/, "").replace(/\\/g, "/"))
+        path.basename(file, ".md")
+    )
 }
 
 export function getPostBySlug(slug: string): Post {
-    const realSlug = slug.replace(/\.md$/, "")
+    // const realSlug = slug.replace(/\.md$/, "")
 
-    const fullPath = path.join(postsDirectory, `${realSlug}.md`)
+    // const fullPath = path.join(postsDirectory, `${realSlug}.md`)
 
-    const fileContents = fs.readFileSync(fullPath, "utf8")
+    const postPath = getPostFiles(postsDirectory).find(
+        (post) => path.basename(post, ".md") === slug
+    )
+    
+    if (!postPath) {
+        throw new Error(`Post "${slug}" not found.`)
+    }
+    
+    const fileContents = fs.readFileSync(postPath, "utf8")
 
     const { data, content } = matter(fileContents)
 
     const readTime = readingTime(content)
 
     return {
-        slug: realSlug,
+        slug,
         content,
         ...(data as Omit<Post, "slug" | "content" | "readingTime">),
         readingTime: readTime.text
