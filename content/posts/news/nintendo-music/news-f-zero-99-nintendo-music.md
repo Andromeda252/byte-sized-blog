@@ -38,7 +38,7 @@ Here are the aforementioned new remixes, by the way, which I definitely recommen
 All that said, I'm gonna close this one by attempting to make myself look really smart in a few weeks via predicting the next two weeks of Nintendo Music drops. Those predictions go as follows:
 
 - Monday, 7/13/26: Mario Kart World Free Roam with Super Mario Sunshine, Mario Kart Double Dash, and Mario Kart Super Circuit
-- Thursday, 7/16/26: Donkey Kong Banaza (in honor of its first anniversary)
+- Thursday, 7/16/26: Donkey Kong Bananza (in honor of its first anniversary)
 - Monday, 7/20/26: Mario Kart World Free Roam with New Super Mario Bros, New Super Mario Bros Wii, New Super Mario Bros U, and Super Mario Maker
 - Wednesday, 7/22/26: Splatoon Raiders Special Release
 

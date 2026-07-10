@@ -97,9 +97,31 @@ Okay phew. That does it for the major Nintendo news from the month. There's prob
 
 - Star Fox (2026)
 
+The big release of the month, Star Fox (2026) serves as a full modern remake of Star Fox 64, as well as, in my eyes, a complete reboot of the franchise. I mean, come on, between the back to basics approach, the brand new art style and voice cast, and the basic title, this feels like an attempt at giving the franchise a fresh start, which, in my opinion, is exactly what it needed.
+
+Star Fox is a franchise that has been sadly pretty stagnant since the N64 entry. Any attempts they made to try to push the series forwards, whether it be Adventures being something completely different (probably because it wasn't originally a Star Fox game), or Zero's controversial GamePad centric control scheme, simply haven't managed to make the kind of impact that 64 did.
+
+So, after 10 years of waiting following Zero's release, the series has finally been given another shot on Switch 2. I totally understand why many were disappointed that this game ended up being yet another retelling of Star Fox 64, but honestly, I do think it was a smart move. Nothing else the franchise has done has seemed to stick, and 64 is still heralded as the gold standard, so, what better way to revitalize the franchise after a long absence and bring in new fans by going back to basics and focusing on what they already know works by creating a definitive, modern remake with gorgeous visuals and a cinematic flair that feels kinda strange for a first party Nintendo game, but certainly not in a bad way.
+
+I think it especially makes sense given Fox was recently exposed to a mass audience thanks to his appearance in The Super Mario Galaxy Movie. Following that up with a high-quality game staring the character just 2 months later is really smart.
+
+The way everything was set up, I think this is legitmately the best chance Star Fox has had of not just being revived, but sticking around, similar to the resurgance that the Metroid franchise expereinced during the Switch era. It certainly helps that the game is really good. It was the first time I'd really played through a Star Fox game, and I really enjoyed it.
+
+I'll likely give the game a full review on this blog at some point, but here, I just wanted to give my surface level thoughts on the game.
+
 - Donkey Kong 64: Nintendo Classics - Nintendo 64
 
+When I mentioned this was a month full of N64 nostalgia, I was referring to the OOT announcement, the release of Star Fox, and this. Donkey Kong 64, the... ahem, somewhat infamous collectathon 3D platformer from Rare, finally arrived on N64: Nintendo Classics early in the month.
+
+What's funny about this release from a personal standpoint is that, back when Nintendo was first rolling out the classic games offerings with Nintendo Switch Online, I vividly remember picturing myself playing Donkey Kong 64 on Switch, for some reason. I think I may have been playing it on Wii U Virtual Console at the time, and was fantasizing about playing it on the go (which, let's be real, this is a game that would probably hugely benefit from being on a handheld thanks to its frankly unreasonable amount of collectables). Kinda neat to finally see that desire fulfilled.
+
+Not sure if or when I'd get around to playing it, but I'm glad its here. This leaves Super Smash Bros 64 and Diddy Kong Racing as the only really noteworthy titles that I personally can think of that haven't made it to the N64 library yet. Though, let's be real, there's probably something I'm forgetting.
+
 - Star Fox and Rhythm Heaven Groove Demos
+
+Nintendo dropped two free eShop demos for upcoming games this past month. The Star Fox demo dropped after the Nintendo Direct, and while I immediately downloaded it, I didn't end up getting around to trying it before the full game released, so I don't have anything to say on it.
+
+Towards the end of the month, we got the Rhythm Heaven Groove: Starter Demo, which gave access to the first five stages of Solo Mode, and some of the multiplayer. I've always been interested in Rhythm Heaven, having been sure to snag both Fever and Megamix off the Wii U and 3DS eShops respectively before they shut down, but this was my first time actually playing it, and it's really fun. Definitly give it a try if you're curious.
 
 NINTENDO MUSIC
 
@@ -121,6 +143,22 @@ Here's a quick run-down of everything that happened on Nintendo Music this month
 
 Definitely one of the busier months in the service's history, perhaps even the busiest.
 
-LOOKING AHEAD TO JULY
+MISCELLANEOUS NEWS AND LOOKING AHEAD TO JULY
 
-Raiders Overview Trailer, Indie World, Bananza Nintendo Music, GameCube Nintendo Classics, Raiders Special Release
+That about does it for the big stuff, but there were a couple smaller things from throughout the month. To celebrate the 1st anniversary of Mario Kart World, there was an online event held that ran from the 4th to the 11th. It wasn't anything special, simply challenging you to raise your VR in the event as high as possible, but it, alongside the soundtrack's arrival on Nintendo Music, was part of why I started playing the game again and rediscovered how fun it was. There was also a fun bonus on the day of the Direct for Alarmo owners like myself, as Donkey Kong Bananza themed alarms we're added to the ever expanding lineup. As someone who still uses it as my primary alarm clock every morning, I appreciate that they are continuing to support it, and hope we eventually get Mario Kart World on there. Waking up to Rainbow Road would be pure bliss.
+
+That should do it for June 2026 though. Apologies that this was a bit of a long one, in the future they probably won't be nearly as lengthy as I will have covered the news as it happened throughout the month. It just happens that I started writing articles for this blog right at the end of June. Also, not every month is going to have a major Nintendo Direct to recap, so that alone will cut down on the length.
+
+All that said, it's time to turn our attention to July, a month that typically seems to have some big stuff before we hit a bit of a lull in the release calendar until things ramp up again preceding the holiday season. I'm thinking to years past when we got titles like Splatoon 2, Fire Emblem Three Houses, Paper Mario The Origami King, Xenoblade Chronicles 3, Pikmin 4, and, most recently, Donkey Kong Bananza in July. This coming July seems to follow that trend, being bookended by a pair of first party Nintendo releases: Rhythm Heaven Groove for Nintendo Switch and Splatoon Raiders for Nintendo Switch 2, both titles I'm very excited for.
+
+Those are the things we know for sure right now, but there's also a handful of things I think might happen that I'll be watching for.
+
+Firstly, regarding Splatoon Raiders, we'll almost certainly get an Overview Trailer as we get closer to launch, as pretty much every Nintendo game does. Whether this will give us any new insights on the game, we'll have to wait and see. I also think Raiders will follow the 'Special Release' trend on Nintendo Music, with a handful of tracks from the game arriving on the service on the evening before the game launches.
+
+Speaking of Nintendo Music, I think we see Donkey Kong Bananza this month. We've been seeing more and more Switch 2 game soundtracks on the app lately, with Mario Kart World and Age of Imprisonment in June, and with July marking the one year anniversary of Bananza, I think dropping the full soundtrack makes a ton of sense.
+
+Regarding Nintendo Classics, I think we're due for a GameCube game this month, as we haven't gotten one since Pokemon XD: Gale of Darkness back in March. There are still two titles from the intial announcement that have yet to arrive, those being Super Mario Sunshine (somehow), and Pokemon Colosseum. I think it's time for Mario Sunshine to finally arrive. We're in the midst of Summer, and the game feels overdue to arrive in the lineup (we really got Wario World first), so I think it finally shows up this month. Of course, I say this now, only for Nintendo to give us freaking Odama or something completely out of nowhere.
+
+Finally, while I don't anticipate any kind of Nintendo Directs this month, I do think the time is right for an Indie World. The last one we got was back in March, so it very much feels like we could get one in the next month or so. Perhaps we could see stuff like the Hollow Knight Silksong DLC emerge, or maybe we could finally see Expedition 33 come over, though I feel that would be better suited for a proper Direct. Not that I'd be opposed to it, I really want that game on Switch 2.
+
+And, that should just about do it for this months monthly roundup! I hope to do one of these at the end of every month going forwards as a fun way to look back at everything that happened in a given month, as well as looking ahead to the next month of news and releases. Again, hopefully these won't be as long going forwards, but I also love yappin', so, maybe they'll end up longer, we'll see!
