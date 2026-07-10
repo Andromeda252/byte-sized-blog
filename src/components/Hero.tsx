@@ -9,7 +9,7 @@ export default function Hero() {
                     Passionate and Enthusiastic Gaming Coverage
                 </p>
                 <h2 className="mb-3 max-w-4xl text-lg font-black leading-tight tracking-tight text-zinc-900 sm:text-xl md:text-2xl">
-                    Short-form gaming content that cuts through the cloud of cynicism and focuses on what makes this medium great.
+                    Passionate gaming content that cuts through the cloud of cynicism and focuses on what makes this medium great.
                 </h2>
                 <p className="max-w-2xl text-sm leading-7 text-zinc-700 sm:text-lg sm:leading-8">
                     Gaming news, reviews, and takes focused on viewing the industry through an optimistic, enthusiastic lens.
