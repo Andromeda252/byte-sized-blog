@@ -3,7 +3,7 @@ title: "F-Zero 99 Speeds Onto Nintendo Music"
 excerpt: "Gotta be honest, not the most exciting drop, but I'll take it."
 category: "News"
 date: "2026-07-10T15:23:00"
-image: "/images/nintendo/f-zero-99/f-zero-99-keyart.avif"
+image: "/images/nintendo/switch-1/f-zero-99/f-zero-99-keyart.avif"
 featured: false
 published: true
 author: "Andromeda"
@@ -33,7 +33,7 @@ Regardless, even if it's not the most exciting drop in the world, I'll still gla
 
 Here are the aforementioned new remixes, by the way, which I definitely recommend checking out, they're pretty neat!
 
-![The remixes of classic F-Zero songs on the F-Zero 99 soundtrack, which pretty much serve as the main attraction of this drop.](/images/nintendo/f-zero-99/f-zero-99-remixes.png)
+![The remixes of classic F-Zero songs on the F-Zero 99 soundtrack, which pretty much serve as the main attraction of this drop.](/images/nintendo/switch-1/f-zero-99/f-zero-99-remixes.png)
 
 All that said, I'm gonna close this one by attempting to make myself look really smart in a few weeks via predicting the next two weeks of Nintendo Music drops. Those predictions go as follows:
 

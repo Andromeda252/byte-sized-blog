@@ -3,7 +3,7 @@ title: "Team Power Overwhelms the Competition En Route to Splatoon Raiders Colla
 excerpt: "My Splatfest winless streak has officially extended to three and half years and I'm salty about it."
 category: "News"
 date: "2026-07-13T12:00:00"
-image: "/images/nintendo/splatoon-3/raiders-fest-results.png"
+image: "/images/nintendo/switch-1/splatoon-3/raiders-fest-results.png"
 featured: false
 published: true
 author: "Andromeda"

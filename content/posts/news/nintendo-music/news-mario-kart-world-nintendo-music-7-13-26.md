@@ -3,7 +3,7 @@ title: " Free Roam Remixes Added to Nintendo Music"
 excerpt: ""
 category: "News"
 date: "2026-07-13T21:00:00"
-image: "/images/nintendo/mario-kart-world/mkworld-keyart.png"
+image: "/images/nintendo/switch-2/mario-kart-world/mkworld-keyart.png"
 featured: false
 published: false
 author: "Andromeda"

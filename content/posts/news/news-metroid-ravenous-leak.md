@@ -3,7 +3,7 @@ title: "Did Metroid 6 Just Leak?"
 excerpt: "A Ratings Board may have just given us the title of Samus's next mission."
 category: "News"
 date: "2026-07-01T17:00:00"
-image: "/images/nintendo/metroid-dread/metroid-dread-screenshot-1.avif"
+image: "/images/nintendo/switch-1/metroid-dread/metroid-dread-screenshot-1.avif"
 featured: false
 published: true
 author: "Andromeda"

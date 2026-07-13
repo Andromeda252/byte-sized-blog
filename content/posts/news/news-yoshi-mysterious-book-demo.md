@@ -3,7 +3,7 @@ title: "eShop Demo Now Available for Yoshi and the Mysterious Book"
 excerpt: "If you're on the fence about Yoshi's latest, you can now give it a go from the comfort of home."
 category: "News"
 date: "2026-07-08T13:15:00"
-image: "/images/nintendo/yoshi-and-the-mysterious-book/yoshi-mysterious-book-keyart.avif"
+image: "/images/nintendo/switch-2/yoshi-and-the-mysterious-book/yoshi-mysterious-book-keyart.avif"
 featured: false
 published: true
 author: "Andromeda"
