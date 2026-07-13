@@ -5,7 +5,7 @@ category: "News"
 date: "2026-07-13T12:00:00"
 image: "/images/nintendo/switch-1/splatoon-3/raiders-fest-results.png"
 featured: false
-published: true
+published: false
 author: "Andromeda"
 tags:
     - Splatoon
