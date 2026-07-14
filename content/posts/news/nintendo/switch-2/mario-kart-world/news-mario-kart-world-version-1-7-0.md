@@ -3,7 +3,7 @@ title: "Mario Kart World Recieves Two New Knockout Tour Rallys"
 excerpt: "The open-world racer's Version 1.7.0 update is easily its biggest yet, and there's more on the way!"
 category: "News"
 date: "2026-07-01T13:00:00"
-image: "/images/nintendo/switch-2/mario-kart-world/mkworld-keyart.png"
+image: "/images/nintendo/switch-2/mario-kart-world/mario-kart-world-keyart.webp"
 featured: false
 published: true
 author: "Andromeda"
