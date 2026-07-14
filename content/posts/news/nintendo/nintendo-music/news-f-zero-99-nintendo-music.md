@@ -20,13 +20,13 @@ Hey, what can I say? I was busy last night playing Rhythm Heaven Groove (that ga
 
 But anyway.
 
-Yes, this week's addition is F-Zero 99, the online battle royale take on the SNES classic that serves as pretty much the only official F-Zero media we've recieved in the last two decades. Not that that says anything about its quality, the game is quite good and I enjoy it a lot, it simply wasn't what people were hoping for from the series, though I still believe we will still see a proper revival... eventually. If Star Fox and Rhythm Heaven can get revivals a week a part, surely F-Zero can happen too.
+Yes, this week's addition is F-Zero 99, the online battle royale take on the SNES classic that serves as pretty much the only official F-Zero media we've received in the last two decades. Not that that says anything about its quality, the game is quite good and I enjoy it a lot, it simply wasn't what people were hoping for from the series, though I still believe we will still see a proper revival... eventually. If Star Fox and Rhythm Heaven can get revivals a week a part, surely F-Zero can happen too.
 
 ...I really found a way to mention Rhythm Heaven twice in a completely unrelated article, huh. I know I've been thinking about it a lot lately but dang.
 
 Anyway.
 
-This is definitly a bit of a hoo-hum drop, considering most of the soundtrack for F-Zero 99 is shared with the original game, which is already on the service. There's some cool remixes worth checking out, but other than that, there doesn't seem to be a ton here. I think it would've been cool if they dropped Tetris 99 and Super Mario Bros 35 alongside it as well, as at least Tetris 99 has far more original compositions and would've made this drop more exciting (I love the battle music for the basic theme and would love to have it on the app).
+This is definitely a bit of a hoo-hum drop, considering most of the soundtrack for F-Zero 99 is shared with the original game, which is already on the service. There's some cool remixes worth checking out, but other than that, there doesn't seem to be a ton here. I think it would've been cool if they dropped Tetris 99 and Super Mario Bros 35 alongside it as well, as at least Tetris 99 has far more original compositions and would've made this drop more exciting (I love the battle music for the basic theme and would love to have it on the app).
 
 Regardless, even if it's not the most exciting drop in the world, I'll still gladly take it, as there are still some new tracks here. It's not like an Ocarina of Time 3D situation where there are no new tracks and I genuinely can't tell the difference between them and the original N64 tracks.
 
@@ -41,4 +41,4 @@ All that said, I'm gonna close this one by attempting to make myself look really
 - Monday, 7/20/26: Mario Kart World Free Roam with New Super Mario Bros, New Super Mario Bros Wii, New Super Mario Bros U, and Super Mario Maker
 - Wednesday, 7/22/26: Splatoon Raiders Special Release
 
-When all of this definitly ends up coming true, just remember, you heard it here first!
+When all of this definitely ends up coming true, just remember, you heard it here first!
