@@ -1,6 +1,6 @@
 ---
 title: "Super Mario World and Super Mario Land Trilogy Free Roam Remixes Added to Nintendo Music"
-excerpt: "No one will believe me, but I totally half called this weeks drop."
+excerpt: "No one will believe me, but I totally half called this week's drop."
 category: "News"
 date: "2026-07-07T16:00:00"
 image: "/images/nintendo/switch-2/mario-kart-world/mkw-sml-ground-nm-thumb.png"
@@ -21,11 +21,11 @@ Happy Mario Kart World Music Monday!
 
 ...celebrated on a Tuesday.
 
-For those not aware, every since Mario Kart World finally hit Nintendo Music at the beginning of last month, we've been getting two music drops on the app per week. The traditional slot of Monday evening at 9PM EST that has been constant for pretty much every week since the app launched is now reserved for additional Free Roam tracks from Mario Kart World, while everything else has now been moved to Thursday evening at the same time for most weeks.
+For those not aware, ever since Mario Kart World finally hit Nintendo Music at the beginning of last month, we've been getting two music drops on the app per week. The traditional slot of Monday evening at 9PM EST that has been constant for pretty much every week since the app launched is now reserved for additional Free Roam tracks from Mario Kart World, while everything else has now been moved to Thursday evening at the same time for most weeks.
 
 So, what I used to call 'Nintendo Music Monday' is now 'Mario Kart World Music Monday', and it remains one of my most anticipated parts of every week.
 
-This week, we recieved the collection of remixes hailing from Super Mario World, Super Mario Land, Super Mario Land 2: 6 Golden Coins, and Wario Land: Super Mario Land 3. That may sound like a whopper of a drop, but it's not as massive as the 4 new playlists make it seem at first glance.
+This week, we received the collections of remixes hailing from Super Mario World, Super Mario Land, Super Mario Land 2: 6 Golden Coins, and Wario Land: Super Mario Land 3. That may sound like a whopper of a drop, but it's not as massive as the 4 new playlists make it seem at first glance.
 
 ![Remixes hailing from Mario World and Mario Land 1, 2, and 3 added to the Mario Kart World soundtrack.](/images/nintendo/switch-2/mario-kart-world/mkw-fr-music-7-6-26.png)
 
