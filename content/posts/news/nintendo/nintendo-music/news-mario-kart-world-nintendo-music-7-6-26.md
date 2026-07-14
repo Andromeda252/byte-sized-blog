@@ -3,7 +3,7 @@ title: "Super Mario World and Super Mario Land Trilogy Free Roam Remixes Added t
 excerpt: "No one will believe me, but I totally half called this weeks drop."
 category: "News"
 date: "2026-07-07T16:00:00"
-image: "/images/nintendo/switch-2/mario-kart-world/mario-kart-world-keyart.webp"
+image: "/images/nintendo/switch-2/mario-kart-world/mkw-sml-ground-nm-thumb.png"
 featured: false
 published: true
 author: "Andromeda"
@@ -13,9 +13,7 @@ tags:
     - Nintendo Music
     - Super Mario World
     - Super Mario Land
-    - Super Mario Land 2 6 Golden Coins
     - Wario Land Super Mario Land 3
-    - Mobile
     - Nintendo Switch 2
 ---
 

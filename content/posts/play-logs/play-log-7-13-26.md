@@ -9,8 +9,13 @@ published: false
 author: "Andromeda"
 tags:
     - Play Logs
+    - Tetris 99
+    - The Legend of Zelda Tears of the Kingdom
 ---
 
 | Game | Monday 7/13 | Tuesday 7/14 | Wednesday 7/15 | Thursday 7/16 | Friday 7/17 | Saturday 7/18 | Sunday 7/19 |
 |-------|-------|-------|-------|-------|-------|-------|-------|
-| - | - | - | - | - | - | - | - |
+| Tetris 99 | 30 mins | - | - | - | - | - | - |
+| Zelda: Tears of the Kingdom | 45 mins | - | - | - | - | - | - |
+
+All Switch/Switch 2 play data sourced from the Nintendo Store mobile app.

@@ -11,7 +11,6 @@ tags:
     - Rhythm Heaven
     - Rhythm Heaven Groove
     - Nintendo Music
-    - Mobile
     - Nintendo Switch
 ---
 

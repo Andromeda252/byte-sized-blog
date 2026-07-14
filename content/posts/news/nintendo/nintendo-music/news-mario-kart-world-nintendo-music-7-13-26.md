@@ -3,7 +3,7 @@ title: "NSMB DS, Wii, and U, Mario Paint, and Super Mario Maker Free Roam Remixe
 excerpt: "You gotta be kidding me, this was basically my prediction for next week."
 category: "News"
 date: "2026-07-13T21:00:00"
-image: "/images/nintendo/switch-2/mario-kart-world/mario-kart-world-keyart.webp"
+image: "/images/nintendo/switch-2/mario-kart-world/mkw-nsmbu-ground-nm-thumb.png"
 featured: false
 published: true
 author: "Andromeda"
@@ -12,11 +12,8 @@ tags:
     - Mario Kart World
     - Nintendo Music
     - New Super Mario Bros
-    - New Super Mario Bros Wii
-    - New Super Mario Bros U
     - Mario Paint
     - Super Mario Maker
-    - Mobile
     - Nintendo Switch 2
 ---
 

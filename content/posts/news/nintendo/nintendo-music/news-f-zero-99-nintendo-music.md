@@ -11,7 +11,6 @@ tags:
     - F-Zero
     - F-Zero 99
     - Nintendo Music
-    - Mobile
     - Nintendo Switch
 ---
 
