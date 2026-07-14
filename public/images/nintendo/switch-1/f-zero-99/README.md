@@ -1,7 +1,7 @@
 # Sources
 
 ## f-zero-99-keyart.avif
-- Source: Official F-Zero 99 Nintendo Store Page
+- Source: Official F-Zero 99 Nintendo Store Page.
 - Link: https://www.nintendo.com/us/store/products/f-zero-99-switch/
 
 ## f-zero-99-remixes.png
