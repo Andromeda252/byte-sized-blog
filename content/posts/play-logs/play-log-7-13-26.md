@@ -17,5 +17,6 @@ tags:
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | Tetris 99 | 30 mins | - | - | - | - | - | - |
 | Zelda: Tears of the Kingdom | 45 mins | - | - | - | - | - | - |
+| Rhythm Heaven Groove | - | mins | mins | - | - | - | - |
 
 All Switch/Switch 2 play data sourced from the Nintendo Store mobile app.
