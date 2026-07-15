@@ -37,4 +37,4 @@ Remember to convert the times to your timezone as necessary.
 
 Even though I've never played a From Soft game before (unless sitting on the Elden Ring title screen counts), I certainly plan on applying for the Network Test, as I am very curious about what The Duskbloods is and would like to take it for a spin. I also still just think the simple fact that this game is a Nintendo exclusive From Soft game is incredibly cool, would've been unheard of just a few years ago. Call it shallow, but that is a big reason I'm interested in the game, I'll admit.
 
-If you would like to learn more about The Duskbloods Closed Network Test, and/or you want to get ready to apply as soon as the window opens, chcek out the official website [here](https://campaign.theduskbloods.jp/p/event/networktest/?region=the_americas&locate=US&lang=en)!
+If you would like to learn more about The Duskbloods Closed Network Test, and/or you want to get ready to apply as soon as the window opens, check out the official website [here](https://campaign.theduskbloods.jp/p/event/networktest/?region=the_americas&locate=US&lang=en)!
