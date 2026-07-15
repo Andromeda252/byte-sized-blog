@@ -3,7 +3,7 @@ title: "Nintendo Monthly Roundup - June 2026"
 excerpt: "Rounding up all the biggest news and happenings from a jampacked month of showcases and announcements as we enter the back half of 2026."
 category: "News"
 date: "2026-07-01T12:00:00"
-image: "/images/nintendo/switch-2/star-fox-2026/star-fox-2026.avif"
+image: "/images/nintendo/switch-2/star-fox-2026/star-fox-2026-keyart.webp"
 featured: false
 published: true
 author: "Andromeda"
