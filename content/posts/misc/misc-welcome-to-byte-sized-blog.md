@@ -2,7 +2,7 @@
 title: "Welcome to The Byte-Sized Blog"
 excerpt: "New here? Read this to get to know the place and what to expect!"
 category: "Miscellaneous"
-date: "2026-07-13T18:00:00"
+date: "2026-07-15T21:15:00"
 image: "/images/site/bsb-icon.png"
 featured: true
 published: true
