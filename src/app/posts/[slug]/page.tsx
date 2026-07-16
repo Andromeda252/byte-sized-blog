@@ -164,6 +164,32 @@ export default async function PostPage({
                     }}
                 >{post.content}</ReactMarkdown>
             </article>
+            {post.sources && post.sources.length > 0 && (
+                <section className="mt-12 border-t pt-6">
+                    <h2 className="mb-4 text-lg font-semibold">Sources</h2>
+                    <ul>
+                        {post.sources.map((source) => (
+                            <li key={source.title}>
+                                {source.url ? (
+                                    <a
+                                        href={source.url}
+                                        target="_blank"
+                                        rel="noopener noreferrer"
+                                    >
+                                        {source.title}
+                                    </a>
+                                ) : (
+                                    <span>{source.title}</span>
+                                )}
+
+                                {source.note && (
+                                    <span>{" - "}{source.note}</span>
+                                )}
+                            </li>
+                        ))}
+                    </ul>
+                </section>
+            )}
             <RelatedPosts posts={relatedPosts} />
         </PageContainer>
     )

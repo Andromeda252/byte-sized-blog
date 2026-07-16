@@ -1,3 +1,5 @@
+import { Source } from "./source"
+
 export type Post = {
     slug: string
     title: string
@@ -12,6 +14,8 @@ export type Post = {
 
     author: string
     readingTime: string
+
+    sources?: Source[]
 
     tags: string[]
 }
