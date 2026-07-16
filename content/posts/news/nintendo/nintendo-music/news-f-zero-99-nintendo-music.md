@@ -7,6 +7,8 @@ image: "/images/nintendo/switch-1/f-zero-99/f-zero-99-keyart.avif"
 featured: false
 published: true
 author: "Andromeda"
+sources:
+    - title: "Nintendo Music App"
 tags:
     - F-Zero
     - F-Zero 99

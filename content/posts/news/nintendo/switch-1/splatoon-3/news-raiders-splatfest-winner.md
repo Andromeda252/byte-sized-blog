@@ -7,6 +7,9 @@ image: "/images/nintendo/switch-1/splatoon-3/raiders-fest-results.png"
 featured: false
 published: true
 author: "Andromeda"
+sources:
+    - title: Splatoon 3 In-Game News
+    - title: Nintendo Switch App - SplatNet 3
 tags:
     - Splatoon
     - Splatoon 3

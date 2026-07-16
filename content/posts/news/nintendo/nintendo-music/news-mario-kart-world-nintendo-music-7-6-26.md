@@ -7,6 +7,8 @@ image: "/images/nintendo/switch-2/mario-kart-world/mkw-sml-ground-nm-thumb.png"
 featured: false
 published: true
 author: "Andromeda"
+sources:
+    - title: "Nintendo Music App"
 tags:
     - Mario Kart 
     - Mario Kart World

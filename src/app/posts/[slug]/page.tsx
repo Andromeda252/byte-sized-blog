@@ -175,6 +175,7 @@ export default async function PostPage({
                                         href={source.url}
                                         target="_blank"
                                         rel="noopener noreferrer"
+                                        className="text-blue-600 hover:underline"
                                     >
                                         {source.title}
                                     </a>

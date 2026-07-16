@@ -7,6 +7,9 @@ image: "/images/nintendo/switch-2/mario-kart-world/mario-kart-world-keyart.webp"
 featured: false
 published: true
 author: "Andromeda"
+sources:
+    - title: Nintendo Official Website
+      url: https://www.nintendo.com/us/whatsnew/mario-kart-world-update-adds-two-new-routes-to-knockout-tour-and-more/
 tags:
     - Mario Kart
     - Mario Kart World

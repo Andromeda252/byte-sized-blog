@@ -7,6 +7,8 @@ image: "/images/nintendo/switch-1/rhythm-heaven-groove/rhythm-heaven-groove-keya
 featured: false
 published: true
 author: "Andromeda"
+sources:
+    - title: "Nintendo Music App"
 tags:
     - Rhythm Heaven
     - Rhythm Heaven Groove

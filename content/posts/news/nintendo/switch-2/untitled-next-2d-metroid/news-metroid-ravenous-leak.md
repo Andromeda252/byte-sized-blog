@@ -7,6 +7,9 @@ image: "/images/nintendo/switch-1/metroid-dread/metroid-dread-screenshot-1.avif"
 featured: false
 published: true
 author: "Andromeda"
+sources:
+    - title: My Nintendo News
+      url: https://mynintendonews.com/2026/07/01/brazilian-ratings-board-seemingly-leaks-a-metroid-titled-metroid-ravenous/
 tags:
     - Metroid
     - Metroid Dread

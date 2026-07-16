@@ -7,6 +7,10 @@ image: "/images/nintendo/switch-2/yoshi-and-the-mysterious-book/yoshi-and-the-my
 featured: false
 published: true
 author: "Andromeda"
+sources:
+    - title: Nintendo Official Website
+      url: https://www.nintendo.com/us/whatsnew/try-a-free-demo-and-see-what-you-can-egg-spect-in-yoshis-latest-adventure/
+    - title: Nintendo Today! App
 tags:
     - Yoshi
     - Yoshi and the Mysterious Book

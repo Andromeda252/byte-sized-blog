@@ -7,6 +7,13 @@ image: "/images/third-parties/from-software/the-duskbloods/the-duskbloods-keyart
 featured: false
 published: true
 author: "Andromeda"
+sources:
+    - title: My Nintendo News
+      url: https://mynintendonews.com/2026/07/15/the-duskbloods-closed-network-test-dates-and-times-revealed/
+    - title: The Duskbloods Official X Account
+      url: https://x.com/TheDuskbloods/status/2077392879836889156
+    - title: The Duskbloods Network Test Official Website
+      url: https://campaign.theduskbloods.jp/p/event/networktest/?region=the_americas&locate=US&lang=en
 tags:
     - The Duskbloods
     - From Software

@@ -7,6 +7,10 @@ image: "/images/nintendo/nintendo-classics/wario-land-boxart.jpg"
 featured: false
 published: true
 author: "Andromeda"
+sources:
+    - title: "Nintendo Today! App"
+    - title: "Nintendo Official Website"
+      url: "https://www.nintendo.com/us/whatsnew/new-updates-for-the-nintendo-classics-library-of-games/"
 tags:
     - Nintendo Classics
     - Game Boy
