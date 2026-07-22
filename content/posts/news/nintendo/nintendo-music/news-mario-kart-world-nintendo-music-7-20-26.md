@@ -3,7 +3,7 @@ title: "Double Trouble from the 6th Console Gen as Super Circuit and Double Dash
 excerpt: "Oh you have got to be kidding me."
 category: "News"
 date: "2026-07-13T21:00:00"
-image: "/images/nintendo/switch-2/mario-kart-world/mkw-nsmbu-ground-nm-thumb.png"
+image: "/images/nintendo/switch-2/mario-kart-world/mkw-mkdd-baby-park-nm-thumb.png"
 featured: false
 published: false
 author: "Andromeda"

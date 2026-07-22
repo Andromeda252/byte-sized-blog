@@ -25,3 +25,7 @@
 ## mkw-sml-ground-nm-thumb.png
 - Source: Screenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Mario Kart World track "Ground BGM (Super Mario Land)".
 - Note: Cropped from original screenshot.
+
+## mkw-mkdd-baby-park-nm-thumb.png
+- Source: Screenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Mario Kart World track "Baby Park (Mario Kart: Double Dash!!)".
+- Note: Cropped from original screenshot.
