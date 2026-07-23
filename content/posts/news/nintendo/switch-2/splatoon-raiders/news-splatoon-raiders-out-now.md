@@ -2,10 +2,10 @@
 title: "Reminder: Splatoon Raiders Launches Today!"
 excerpt: "Splatoon's first ever spin-off has finally arrived, exclusively on Nintendo Switch 2."
 category: "News"
-date: "2026-07-23T21:00:00"
+date: "2026-07-23T11:35:00"
 image: "/images/nintendo/switch-2/splatoon-raiders/splatoon-raiders-keyart.avif"
 featured: false
-published: false
+published: true
 author: "Andromeda"
 sources:
 tags:
@@ -22,10 +22,14 @@ Having been with Splatoon since the first entry on Wii U, it's pretty awesome to
 
 It also marks the franchise's first foray onto Nintendo Switch 2, offering our first look at what Splatoon will look and feel like on the more powerful hardware ahead of the eventual Splatoon 4 that will almost certainly release on the platform.
 
-As someone that has always enjoyed the single player campaigns in Splatoon games, I'm especially excited to hop into this one, and I should be able to later today once my copy arrives in the mail, barring any shipping delays. I'm particularly excited about the game's focus on the Salmonids, as that's an area of the lore I've been dying to see further explored for a while now. The fact they are the primary threat in Raiders likely means we're in for some awesome lore reveals.
+As someone that has always enjoyed the single player campaigns in Splatoon games, I'm especially excited to hop into this one, though it looks like it won't be arriving in the mail until tomorrow unfortunately. Oh well, more time to play Rhythm Heaven never hurt anyone, did it?
+
+I'm particularly excited about the game's focus on the Salmonids, as that's an area of the lore I've been dying to see further explored for a while now. The fact they are the primary threat in Raiders likely means we're in for some awesome lore reveals.
 
 My review of the game will come... eventually, it depends on how long it takes me to get through the game, which, knowing myself, could range anywhere from a few weeks, to a few months, to a few years. We shall see.
 
-Oh yeah, the new Splatoon Raiders amiibo are available today as well! I'll probably grab the Big Man one eventually, to go along with the original Big Man amiibo I have, but it's not a top priority right now.
+Oh yeah, the new Splatoon Raiders amiibo are available today as well! I'll probably grab the Big Man one eventually, to go along with the original Big Man amiibo I have, but it's not a top priority right now. The new Blue and Light Yellow Joy-Con 2 are also available today alongside the game, and they look sick, matching the color of the Joy-Con currently on my old Switch OLED. I'd totally grab them if I had a spare $100 lying around... which I sadly do not at the moment.
 
-If you're also picking up the game today, I hope you have a great time exploring the Sphiralite Islands!
+Additionally, as has become customary with most new Nintendo releases, you can now redeem your My Nintendo Platinum Points for Splatoon Raiders icon elements if you're a Nintendo Switch Online subscriber, as well as listen to a sampling of music from the game on the Nintendo Music app.
+
+If you're picking up the game today or sometime soon, I hope you have a great time treasure hunting on the Sphiralite Islands!
