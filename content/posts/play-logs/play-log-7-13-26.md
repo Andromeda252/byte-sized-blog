@@ -28,14 +28,14 @@ Below is a chart displaying every game I played this past week, no matter how lo
 
 | Game | Monday 7/13 | Tuesday 7/14 | Wednesday 7/15 | Thursday 7/16 | Friday 7/17 | Saturday 7/18 | Sunday 7/19 |
 |-------|-------|-------|-------|-------|-------|-------|-------|
-| Tetris 99 (NS2) | 30 mins | - | - | - | - | - | - |
-| Zelda: Tears of the Kingdom (NS2) | 45 mins | - | - | - | - | - | - |
-| Rhythm Heaven Groove (NS2) | - | 1 hr 30 mins | 3 hrs 45 mins | 15 mins | - | - | - |
+| Tetris 99 (NS on NS2) | 30 mins | - | - | - | - | - | - |
+| Zelda: Tears of the Kingdom - NS2E (NS2) | 45 mins | - | - | - | - | - | - |
+| Rhythm Heaven Groove (NS on NS2) | - | 1 hr 30 mins | 3 hrs 45 mins | 15 mins | - | - | - |
 | Rhythm Heaven Megamix (3DS) | - | - | - | 3 hrs 17 mins | - | - | - |
 | Metroid: Samus Returns (3DS) | - | - | - | 13 mins | 26 mins | 1 hrs 52 mins | 1 min |
 | Mario Tennis Fever (NS2) | - | - | - | A few mins | - | - | - |
-| Dr. Mario & Puzzle League (NS2 - GBA: NC) | - | - | - | 15 mins | - | - | - |
-| Mario's Picross (NS2 - GB: NC) | - | - | - | A few mins | - | - | - |
+| Dr. Mario & Puzzle League (GBA: NC on NS2) | - | - | - | 15 mins | - | - | - |
+| Mario's Picross (GB: NC on NS2) | - | - | - | A few mins | - | - | - |
 | Mario Kart 8 Deluxe (NS) | - | - | - | - | - | - | *15-20 mins |
 
 - Ordered by first play of the week.
@@ -47,13 +47,13 @@ By looking at this chart, right away the story of my gaming experiences from thi
 
 Let's dive in deeper, shall we?
 
-# Tetris 99 (NS2)
+# Tetris 99 (NS on NS2)
 - ## Played on Monday for ~30 minutes
 I only had about an hour and a half to play on Monday once I had wrapped up all my responsibilities for the day and finally sat down in front of the TV, so I ended up splitting that short amount of time between this and a short Tears of the Kingdom session.
 
 The sole reason I was playing Tetris 99 last Monday was because I had suddenly realized the Star Fox event was ending later that night and I had completely forgotten about it despite intending to get to it over the weekend. I try to unlock all the event themes in Tetris 99 whenever I can remember, so I decided to just play some matches until I unlocked the Star Fox theme. Thankfully, it didn't take too long, as I had a couple deep matches where I lasted into the top 25 which helped speed the process along, allowing me to spend the remainder of the evening elsewhere. Which leads me to...
 
-# The Legend of Zelda: Tears of the Kingdom (NS2)
+# The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition (NS2)
 - ## Played on Monday for ~45 minutes
 One thing you should know about me is my complete and utter inability to finish this game. Despite having been super hyped for its release and buying the expensive Collector's Edition and the special Pro Controller on day one, I've only completed two of the game's dungeons, both within the past year despite the game now being over three years old.
 
@@ -67,7 +67,7 @@ Is this at all conducive to my goal of eventually finishing this game someday? A
 
 So yeah, this session was essentially just getting that over with, then spending the rest of the time I had starting to explore that area of the depths before going to sleep for the night.
 
-# Rhythm Heaven Groove (NS2)
+# Rhythm Heaven Groove (NS on NS2)
 - ## Played on Tuesday, Wednesday and Thursday for an approx. total of ~5 hrs 30 mins
 This may appear to be far and away my most played game of the week, but that 3 hrs 45 mins on Wednesday is deceptive, as most of that time wasn't actually spent playing the game. Rather, a good chunk of that was me using the in-game music player to listen to the game's incredible soundtrack while working on this blog.
 
@@ -99,7 +99,7 @@ Now we're getting into those handful of titles that I briefly touched on over th
 
 Mario Tennis Fever received an update last week, so I made sure to install the update before the trip. When we were getting close to our destination and my 3DS was getting low on battery, I decided to whip out Fever to check out the new Galaxy Court Match, which was a really neat homage to Mario Galaxy, but otherwise nothing too terribly special. I also continued playing through the Trial Towers mode just to give my fingers something to do for a bit. I considered spending a bit more time with it, maybe even hopping back into Adventure Mode, but that ultimately didn't happen. If I'll return to this game anytime soon, I'm not sure, but I can't say I didn't enjoy spending a few minutes going back to it, even if it was just to give myself SOMETHING to do towards the end of the car ride.
 
-# Dr. Mario & Puzzle League (NS2 - GBA: NC)
+# Dr. Mario & Puzzle League (GBA: NC on NS2)
 - ## Played on Thursday for ~15 minutes
 I'm sure many of you have been there before. You're sitting in bed, late at night, scrolling through your library of games, looking for something low-energy to play for a few minutes before going to sleep. That was me Thursday night after spending the evening with family, then coming back to our hotel room for the night.
 
@@ -109,7 +109,7 @@ This version of Puzzle League is pretty neat, filled with different modes and a 
 
 I did briefly try the Dr. Mario half of the package out too, and I don't remember liking it much. I usually love Dr. Mario, but something about this version just felt wrong to me. I'd have to play it again to put my finger on it, but I didn't spend much time with Dr. Mario. Also, there aren't nearly as many different modes as Puzzle League offers.
 
-# Mario's Picross (NS2 - GB: NC)
+# Mario's Picross (GB: NC on NS2)
 - ## Played on Thursday for a few mins
 I love picross, I've purchased multiple of the Picross S games on Switch, and it's the perfect thing to jump into when I need a quick fix of, just, something. Boot up, solve a puzzle, feel satisfied, move on with my day. That's basically what this was.
 

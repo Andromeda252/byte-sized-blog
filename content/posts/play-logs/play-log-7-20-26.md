@@ -16,8 +16,8 @@ tags:
 | Game | Monday 7/20 | Tuesday 7/21 | Wednesday 7/22 | Thursday 7/23 | Friday 7/24 | Saturday 7/25 | Sunday 7/26 |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | Metroid: Samus Returns (3DS) | 1 hr 54 min | - | - | - | - | - | - |
-| Rhythm Heaven Groove (NS2) | 1 hr 15 min | 1 hr | - | - | - | - | - |
-| Rhythm Heaven Megamix (3DS) | 35 min | 40 min | - | - | - | - | - |
+| Rhythm Heaven Groove (NS on NS2) | 1 hr 15 min | 1 hr | - | - | - | - | - |
+| Rhythm Heaven Megamix (3DS) | 35 min | 40 min | 33 min | - | - | - | - |
 | Rhythm Heaven Fever (Wii U VC) | - | - | - | - | - | - | - |
 
 - Ordered by first play of the week.
