@@ -18,6 +18,8 @@ tags:
     - Play Logs
     - Splatoon Raiders
     - Rhythm Heaven
+    - Mario Kart World
+    - Metroid Samus Returns
 ---
 
 Hello and welcome back to the second entry in my Byte-Sized Blog Play Logs series!
