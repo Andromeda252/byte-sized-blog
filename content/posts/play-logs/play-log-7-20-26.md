@@ -24,7 +24,7 @@ Regardless, without further ado, I present to you this week's play data chart be
 | Game | Monday 7/20 | Tuesday 7/21 | Wednesday 7/22 | Thursday 7/23 | Friday 7/24 | Saturday 7/25 | Sunday 7/26 |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | Metroid: Samus Returns (3DS) | 1 hr 54 min | - | - | - | - | 46 min | - |
-| Rhythm Heaven Groove (NS on NS2) | 1 hr 15 min | 1 hr | - | 30 min | 1 hr | - | - |
+| Rhythm Heaven Groove (NS on NS2) | 1 hr 15 min | 1 hr | - | 30 min | 1 hr | 15 min | - |
 | Rhythm Heaven Megamix (3DS) | 35 min | 40 min | 33 min | - | - | - | - |
 | Rhythm Heaven Fever (Wii U VC) | - | 2 hr 56 min | - | 3 hr 14 min | - | - | - |
 | Mario Kart World (NS2) | - | - | - | 30 min | 6 hr 15 min | - | - |
@@ -42,7 +42,7 @@ As you can probably tell, the early week was dominated by not one, not two, but 
 But that's simply aa surface level reading of my experiences this week. Read on for a more detailed glimpse into how I spent my gaming time this past week.
 
 # Metroid Samus Returns (3DS)
-- ## Played on Monday and Saturday for a total of 2 hrs 40 mins
+- ### Played on Monday and Saturday for a total of 2 hrs 40 mins
 
 Monday was a scary day for my decade old New Nintendo 3DS XL. We were on the plane home from our vacation when I pulled the system out to continue Samus Returns, only to find the R button felt weird to press. It's hard to describe exactly how it felt, but it seemed to require more effort to click than before. I still worked, but right away I began to worry that something was wrong.
 
@@ -70,7 +70,16 @@ I finished Monday by reaching Area 7, where I'd pick back up on Saturday evening
 
 Hopefully next week I'll be able to report on having finished the game and entered post-game completion mode, but knowing me, it's very possible I end up putting it off for a bit and before I know it its been months since I played tha game. This happens all the time to me, so, I suppose we'll just have to see.
 
+# Rhythm Heaven Groove (NS on NS2)
+- ### Played on Mon, Tues, Thurs, Fri, and Sat for an approx. total of ~
+# Rhythm Heaven Megamix (3DS)
+- ### Played on Mon, Tues, and Wed for a total of
 
+I'm just gonna lump these two together, as I don't have much to say on them individually.
+
+In the lead up to Splatoon Raiders's release, I played a lot, and I mean a LOT, of Rhythm Heaven, spreading time across three different entries in the series. Heck, on Tuesday in particular, I practically chained them into each other, playing nearly three hours of Fever, then switching to Groove for an hour, and finally plsying Megamix for 40 minutes while lying in bed before going to sleep. That's nearly 5 straight hours of Rhythm Heaven across three games spanning three different platforms.
+
+I'll have more to say on Fever below, as I played it for the first time last week, and spent the most time on it out of the three.
 
 ## -----------
 
