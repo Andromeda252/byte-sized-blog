@@ -12,6 +12,7 @@ sources:
 tags:
     - Splatoon
     - Splatoon Raiders
+    - Nintendo Music
     - Nintendo Switch 2
 ---
 
