@@ -32,4 +32,4 @@ Oh yeah, the new Splatoon Raiders amiibo are available today as well! I'll proba
 
 Additionally, as has become customary with most new Nintendo releases, you can now redeem your My Nintendo Platinum Points for Splatoon Raiders icon elements if you're a Nintendo Switch Online subscriber, as well as listen to a sampling of music from the game on the Nintendo Music app.
 
-If you're picking up the game today or sometime soon, I hope you have a great time treasure hunting on the Sphiralite Islands!
+If you're picking up the game today or sometime soon, I hope you have a great time treasure hunting on the Spirhalite Islands!
