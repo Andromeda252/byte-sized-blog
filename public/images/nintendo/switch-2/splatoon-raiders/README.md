@@ -10,3 +10,15 @@
 
 ## splatoon-raiders-title-screen.jpg
 - Source: Screenshot captured by the author on Nintendo Switch 2 (Splatoon Raiders).
+
+## splatoon-raiders-arcade-screenshot-1.jpg
+- Source: Screenshot captured by the author on Nintendo Switch 2 (Splatoon Raiders).
+
+## splatoon-raiders-2015-ee.jpg
+- Source: Screenshot captured by the author on Nintendo Switch 2 (Splatoon Raiders).
+
+## splatoon-raiders-2017-ee.jpg
+- Source: Screenshot captured by the author on Nintendo Switch 2 (Splatoon Raiders).
+
+## splatoon-raiders-2022-ee.jpg
+- Source: Screenshot captured by the author on Nintendo Switch 2 (Splatoon Raiders).
