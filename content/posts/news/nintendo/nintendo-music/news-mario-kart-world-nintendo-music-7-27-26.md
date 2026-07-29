@@ -29,7 +29,7 @@ You'll never guess what just happened.
 
 This week's Mario Kart World free roam music update took care of the business of adding all remaining playlists that aren't part of the mainline Mario platformer series or the Mario Kart series, resulting in a 5 playlist drop.
 
-![Remixes from various Mario-adjacent titles have been added to the Mario Kart World soundtrack on Nintendo Music.](/images/nintendo/switch-2/mario-kart-world/mkw-fr-music-7-27-26.png)
+![Remixes from various Mario-adjacent titles have been added to the Mario Kart World soundtrack on Nintendo Music.](/images/nintendo/switch-2/mario-kart-world/nt-mkw-fr-music-7-27-26.png)
 - ### This Week's Additions
 - Free Roam with Flipnote Studio (1 track)
 - Free Roam with Donkey Kong Country (1 track)

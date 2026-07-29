@@ -26,6 +26,10 @@
 - Source: Screenshot taken by the author in the Nintendo Music mobile app.
 - Note: Cropped from original screenshot.
 
+## nt-mkw-fr-music-7-27-26.png
+- Source: Screenshot taken by the author in the Nintendo Today! app on 7/28/26.
+- Note: Cropped from original screenshot.
+
 ## mkw-nsmbu-ground-nm-thumb.png
 - Source: Screenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Mario Kart World track "Ground Theme (New Super Mario Bros. U)".
 - Note: Cropped from original screenshot.

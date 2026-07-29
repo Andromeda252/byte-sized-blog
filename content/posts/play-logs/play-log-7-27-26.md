@@ -14,7 +14,8 @@ tags:
 
 | Game | Monday 7/27 | Tuesday 7/28 | Wednesday 7/29 | Thursday 7/30 | Friday 7/31 | Saturday 8/1 | Sunday 8/2 |
 |-------|-------|-------|-------|-------|-------|-------|-------|
-| Splatoon Raiders (NS2) | 1 hr 15 min | - | - | - | - | - | - |
+| Splatoon Raiders (NS2) | 1 hr 15 min | 1 hr | - | - | - | - | - |
+| Sonic Racing: Crossworlds - NS2E (NS2) | - |  | - | - | - | - | - |
 
 - Ordered by first play of the week.
 - All Switch/Switch 2 play data on my console is sourced from the Nintendo Store mobile app.
