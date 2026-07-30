@@ -14,6 +14,8 @@ tags:
     - Easter Egg
 ---
 
+# This post contains very minor spoilers for Splatoon Raiders
+
 I've been playing Splatoon Raiders the past few days, and so far, it's been an excellent addition to the Splatoon series that proves it can be more than just multiplayer by supporting a standalone solo adventure. And as I've played through the game, I've noticed a cool, somewhat easy to overlook easter egg that pays homage to the series short yet rich history in a really neat way.
 
 One of the upgrades you can add to your training range on the hideout ship is an arcade cabinet. The arcade cabinet features a handful of simple, 8-bit style high score games that harken back to the minigames you could play on the GamePad during matchmaking in the original Splatoon.
