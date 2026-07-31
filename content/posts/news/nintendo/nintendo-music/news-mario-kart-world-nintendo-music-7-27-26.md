@@ -23,6 +23,8 @@ tags:
 
 **Update (7/31/2026)**: So, yeah, turns out there was a remaining playlist that had slipped my mind. I'm pretty certain there's a remix of the Captain Toad theme, specifically the Treasure Tracker version. It could end up being a part of the 3D World playlist, but I went ahead and added Captain Toad: Treasure Tracker to the list of remaining playlists and altered parts of the post to account for the addition to the list.
 
+# -----------
+
 Happy Mario Kart World Music Monday!
 
 So a little while before tonight's drop, I was looking at the list of remaining playlists and saw Yoshi's Island, Donkey Kong Country, WarioWare, Luigi's Mansion, and Flipnote Studio near the top, and, recalling how all but Yoshi's Island had one remix each, thought "man, they might as well just bundle all those together in a single update."

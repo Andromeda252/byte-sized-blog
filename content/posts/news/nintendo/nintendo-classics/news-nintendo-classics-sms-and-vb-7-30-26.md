@@ -3,7 +3,7 @@ title: "We're FINALLY Getting Mario Sunshine on Nintendo Classics Next Month, Pl
 excerpt: "Zero Racers and D-Hopper round out the Virtual Boy lineup."
 category: "News"
 date: "2026-07-31T21:41:00"
-image: "/images/nintendo/nintendo-classics/wario-land-boxart.jpg"
+image: "/images/nintendo/nintendo-classics/sms-and-vb-nintendo-classics-7-30-26.png"
 featured: false
 published: false
 author: "Andromeda"
