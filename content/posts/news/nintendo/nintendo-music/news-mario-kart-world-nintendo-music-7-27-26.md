@@ -21,13 +21,15 @@ tags:
     - Nintendo Switch 2
 ---
 
+**Update (7/31/2026)**: So, yeah, turns out there was a remaining playlist that had slipped my mind. I'm pretty certain there's a remix of the Captain Toad theme, specifically the Treasure Tracker version. It could end up being a part of the 3D World playlist, but I went ahead and added Captain Toad: Treasure Tracker to the list of remaining playlists and altered parts of the post to account for the addition to the list.
+
 Happy Mario Kart World Music Monday!
 
 So a little while before tonight's drop, I was looking at the list of remaining playlists and saw Yoshi's Island, Donkey Kong Country, WarioWare, Luigi's Mansion, and Flipnote Studio near the top, and, recalling how all but Yoshi's Island had one remix each, thought "man, they might as well just bundle all those together in a single update."
 
 You'll never guess what just happened.
 
-This week's Mario Kart World free roam music update took care of the business of adding all remaining playlists that aren't part of the mainline Mario platformer series or the Mario Kart series, resulting in a 5 playlist drop.
+This week's Mario Kart World free roam music update took care of the business of adding almost every remaining playlists that isn't part of either the mainline Mario platformer series or the Mario Kart series, resulting in a 5 playlist drop.
 
 ![Remixes from various Mario-adjacent titles have been added to the Mario Kart World soundtrack on Nintendo Music.](/images/nintendo/switch-2/mario-kart-world/nt-mkw-fr-music-7-27-26.png)
 - ### This Week's Additions
@@ -39,7 +41,7 @@ This week's Mario Kart World free roam music update took care of the business of
 
 As previously mentioned, the Yoshi's Island playlist is the only one here with more than one track to its name, with 7 in total, as the other 4 have a single remix each, for a total of 11 new tracks.
 
-While the track total may be small, this is a pretty significant update in terms of trimming the list of remaining playlists, cutting down the list I put together last week by almost 40% if my math is correct, going from 13 to 8 just like that.
+While the track total may be small, this is a pretty significant update in terms of trimming the list of remaining playlists, cutting down the list I put together last week by almost 40% if my math is correct, going from 13 to 8 just like that. Except my math is wrong and there's actually 9 left because I forgot about Captain Toad: Treasure Tracker. Whoops.
 
 Here is the updated list by the way:
 
@@ -48,11 +50,12 @@ Here is the updated list by the way:
 - Mario Kart 7
 - Super Mario 3D World + Bowser's Fury
 - Mario Kart 8 Deluxe
+- Captain Toad: Treasure Tracker
 - Super Mario Odyssey
 - Mario Kart Tour
 - Mario Kart Live: Home Circuit
 
-With only 8 playlists left to go (unless there's something I'm forgetting), I think we're starting to be able to see the finish line. I imagine that by the end of August, we'll have the full Mario Kart World soundtrack available on the app, which is pretty exciting!
+With only 9 playlists left to go (unless there's something I'm forgetting), I think we're starting to be able to see the finish line. I imagine that by the end of August, we'll have the full Mario Kart World soundtrack available on the app, which is pretty exciting!
 
 Looking at this list, I personally believe it will be split into three remaining updates spanning the next three weeks, and they will go as follows:
 
@@ -60,6 +63,7 @@ Looking at this list, I personally believe it will be split into three remaining
 - Super Mario Sunshine
 - Super Mario 3D Land
 - Super Mario 3D World + Bowser's Fury
+- Captain Toad: Treasure Tracker
 
 - ### Week 2 (8/10/26): The Switch Era
 - Super Mario Odyssey
