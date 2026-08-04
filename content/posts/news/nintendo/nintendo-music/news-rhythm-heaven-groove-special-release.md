@@ -18,7 +18,7 @@ tags:
 
 Hours before the game dropped last night, 7 tracks from Rhythm Heaven Groove were made available to stream on Nintendo Music as part of a Special Release in what is becoming a common trend with new Nintendo releases.
 
-It's a small sampling of what promises to be an... ahem... GROOVY soundtrack filled with foot-tapping bangers. The selection contains a couple tracks from the games menus, and a couple tracks from the actual rhythm games themselves. I think I would've liked a little bit more from the actual rhythm games, but it's a decent selection overall. A says a lot about the game's soundtrack that the menu music goes as hard as it does. You can view the full tracklist in the image below.
+It's a small sampling of what promises to be an... ahem... GROOVY soundtrack filled with foot-tapping bangers. The selection contains a couple tracks from the games menus, and a couple tracks from the actual rhythm games themselves. I think I would've liked a little bit more from the actual rhythm games, but it's a decent selection overall. It says a lot about the game's soundtrack that the menu music goes as hard as it does. You can view the full tracklist in the image below.
 
 ![The 7 tracks from Rhythm Heaven Groove's Special Release, including Hoop Trundling and Rhythm Tweezers.](/images/nintendo/switch-1/rhythm-heaven-groove/rhg-sr-tracks.png)
 
