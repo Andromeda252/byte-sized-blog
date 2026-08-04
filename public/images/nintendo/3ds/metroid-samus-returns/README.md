@@ -3,3 +3,6 @@
 ## metroid-samus-returns-keyart.jpeg
 - Source: MercurySteam's Official Website
 - Link: https://www.mercurysteam.com/
+
+## samus-returns-box-back-tagline.jpg
+- Source: Picture taken by the author.

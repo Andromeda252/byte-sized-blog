@@ -22,3 +22,7 @@
 
 ## splatoon-raiders-2022-ee.jpg
 - Source: Screenshot captured by the author on Nintendo Switch 2 (Splatoon Raiders).
+
+## splatoon-raiders-big-man-showstopper.avif
+- Source: Official Splatoon Raiders Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/splatoon-raiders-switch-2/
