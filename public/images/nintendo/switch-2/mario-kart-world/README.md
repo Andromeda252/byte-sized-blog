@@ -30,6 +30,10 @@
 - Source: Screenshot taken by the author in the Nintendo Today! app on 7/28/26.
 - Note: Cropped from original screenshot.
 
+## mkw-fr-music-8-3-26.png
+- Source: Screenshot taken by the author in the Nintendo Music mobile app.
+- Note: Cropped from original screenshot.
+
 ## mkw-nsmbu-ground-nm-thumb.png
 - Source: Screenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Mario Kart World track "Ground Theme (New Super Mario Bros. U)".
 - Note: Cropped from original screenshot.
@@ -44,6 +48,10 @@
 
 ## mkw-yi-stage-boss-rnr-nm-thumb.png
 - Source: Screenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Mario Kart World track "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)".
+- Note: Cropped from original screenshot.
+
+## mkw-mkt-ninja-hideaway-nm-thumb.png
+- Source: Sreenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Mario Kart World track "Ninja Hideaway (Mario Kart Tour)".
 - Note: Cropped from original screenshot.
 
 ## mkw-p-switch-map-394.jpg
