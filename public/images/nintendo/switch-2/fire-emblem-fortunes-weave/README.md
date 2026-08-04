@@ -11,3 +11,11 @@
 ## fire-emblem-gun.png
 - Source: Screenshot taken by the author of a still from the Fire Emblem: Fortune's Weave Direct 8.4.2026.
 - Link: https://www.nintendo.com/us/nintendo-direct/8-4-2026/
+
+## fefw-nm-sr-tracklist.png
+- Source: Screenshot taken by the author in the Nintendo Music mobile app.
+- Note: Cropped from original screenshot.
+
+## fefw-nm-sr-true-to-his-colors-thumb.png
+- Source: Screenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Fire Emblem: Fortune's Weave track "True to His Colors".
+- Note: Cropped from original screenshot.

@@ -73,6 +73,8 @@ On the music side, a Special Release containing 10 tracks from the game dropped 
 
 For Nintendo Today!, a new Fire Emblem theme will be available for the app starting tomorrow, which is honestly pretty cool. Most of Nintendo's major franchises already have themes, so seeing a more niche series like Fire Emblem get one is very welcome. I could totally see a Xenoblade theme next year accompanying Xenoblade Genesis, or a Pokemon theme in the lead up to Winds and Waves. There's a lot they can still do with the themes in that app, so I hope this isn't the last new theme.
 
+There's also going to be a new 'Ask the Developer' column on the game, arriving September 15th, 2 days before the game comes out. These almost always reveal neat behind-the-scenes tidbits, so if that interests you, keep an eye out for it.
+
 That should about do it for the Fire Emblem: Fortune's Weave Nintendo Direct. Even if I'm still on the fence, the game does appear to be shaping up as another excellent entry in the franchise, and a great Switch 2 debut for the series!
 
 At least, from my perspective as an outsider. For all I know FE fans might think it looks like ass, in which case, uh... my bad! I don't know ball, so I'm doing my best, man!
