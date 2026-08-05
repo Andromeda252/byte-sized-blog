@@ -23,3 +23,7 @@
 ## pokemon-pokopia-ditto-tantrum.png
 - Source: Screenshot taken by the author of the 'Pokemon Pokopia Expansion Pass | Extended Trailer' video on The Official Pokemon YouTube Channel.
 - Link: https://www.youtube.com/watch?v=HltHYt_3sUs
+
+## pokemon-pokopia-bubbly-basin-dlc-banner.avif
+- Source: Official 'Pokemon Pokopia Expansion Pass Part 1: Bubbly Basin' Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/part-1-bubbly-basin-70050000074547-switch-2/
