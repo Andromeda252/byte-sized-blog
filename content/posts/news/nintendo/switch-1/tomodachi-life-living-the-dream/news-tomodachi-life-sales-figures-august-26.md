@@ -33,7 +33,7 @@ Now, I knew Living the Dream was doing well, as it's been a fixture at the top o
 
 Other notable figures from the report show that Pokemon Pokopia has performed quite well, selling 3.68 million units outside of Japan so far (sales from Japan aren't reported here, as The Pokemon Company published the game there).
 
-Other Switch 2 games received updated figures as well, with Mario Kart World far and away leading the way at 15.39 million units sold in spite of its controversial $80 price tag (which, for the record, I still think is egregious, but it is what it is). Just like its predecessor on Switch1, it very much seems to be on track to being the Switch 2's best-selling game overall, with the current next highest seller being Donkey Kong Bananza at 4.78 million units, not even a third of World's figure.
+Other Switch 2 games received updated figures as well, with Mario Kart World far and away leading the way at 15.39 million units sold in spite of its controversial $80 price tag (which, for the record, I still think is egregious, but it is what it is). Just like its predecessor on Switch 1, it very much seems to be on track to being the Switch 2's best-selling game overall, with the current next highest seller being Donkey Kong Bananza at 4.78 million units, not even a third of World's figure.
 
 All that said, I'm very happy to see Tomodachi Life performing so well, as it's easily one of my favorite games of the year so far, having logged upwards of 90 hours into the game to date. Though I haven't touched it in a bit, mainly because I've been busy with more recent releases like Star Fox, Rhythm Heaven Groove, and Splatoon Raiders. I should really pay my island a visit sometime soon...
 
