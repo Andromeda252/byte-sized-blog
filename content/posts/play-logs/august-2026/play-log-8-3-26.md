@@ -17,9 +17,9 @@ tags:
 | Game | Monday 8/3 | Tuesday 8/4 | Wednesday 8/5 | Thursday 8/6 | Friday 8/7 | Saturday 8/8 | Sunday 8/9 |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | Zero Racers (VB: NC on NS2) | 30 min | - | - | - | - | - | - |
-| Splatoon Raiders (NS2) | 1 hr | 1 hr 45 min | - | - | - | - | - |
+| Splatoon Raiders (NS2) | 1 hr | 1 hr 45 min | 1 hr 15 min | - | - | - | - |
 | DK Challenge (NS2) | - | *10-15 min | - | - | - | - | - |
-| Metroid Fusion (GBA: NC on NS2) | - | 30 min | - | - | - | - | - |
+| Metroid Fusion (GBA: NC on NS2) | - | 30 min | 45 min | - | - | - | - |
 
 - Ordered by first play of the week.
 - All Switch/Switch 2 play data on my console is sourced from the Nintendo Store mobile app.
@@ -30,13 +30,13 @@ tags:
 - ### Played on Monday for an approx. total of ~
 
 # Splatoon Raiders (NS2)
-- ### Played on Mon, Tues for an approx. total of ~
+- ### Played on Mon, Tues, Wed for an approx. total of ~
 
 # DK Challenge (NS2)
 - ### Played on Tuesday for an estimated total of ~
 
 # Metroid Fusion (GBA: NC on NS2)
-- ### Played on Tuesday for an approx. total of ~
+- ### Played on Tuesday, Wednesday for an approx. total of ~
 
 ## -----------
 
