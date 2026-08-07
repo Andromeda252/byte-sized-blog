@@ -23,7 +23,7 @@ tags:
 
 Nintendo released their quarterly financial report for the 1st Quarter of the current fiscal year this morning, and it reveals some interesting tidbits about their business over the last handful of months.
 
-We received updated figures for both the Switch and Switch 2 (which I'll touch on in a post later today), as well as for their best selling titles for both platforms. They also provided a chart of upcoming releases and their release dates/windows, reconfirming that everything is still coming out at the previously announced times, which is unsurprising, but always nice.
+We received updated figures for both the Switch and Switch 2 (which I'll touch on in a post later on), as well as for their best selling titles for both platforms. They also provided a chart of upcoming releases and their release dates/windows, reconfirming that everything is still coming out at the previously announced times, which is unsurprising, but always nice.
 
 However, as you've probably gathered from the headline, there's one specific tidbit I want to highlight for how simultaneously surprising and encouraging it is for Nintendo's quirkier, nicher titles.
 
