@@ -2,7 +2,7 @@
 title: "Sales of Nintendo Switch Continue to Gain Ground on the PS2, While Switch 2 Continues Its Hot Start"
 excerpt: "Will we see a new best-selling console of all time crowned?"
 category: "News"
-date: "2026-08-06T11:15:00"
+date: "2026-08-07T15:37:00"
 image: "/images/nintendo/switch-2/switch-2-image-1.avif"
 featured: false
 published: true
