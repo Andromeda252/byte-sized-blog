@@ -12,6 +12,7 @@ tags:
     - Nintendo Switch
     - Nintendo Direct
     - Monthly Roundup
+    - Star Fox (2026)
 ---
 
 The month of June has come to a close, and with it, we close the book on a fairly exciting summer showcase season. I'll admit, this year's Summer Game Fest and everything around it was the closest this time of year has felt to E3 since its demise, probably in large part thanks to the 4 major showcases all occurring within a week of each other, but also because of the sheer quantity of exciting games announced and showcased.
