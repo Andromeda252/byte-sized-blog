@@ -2,7 +2,7 @@
 title: "Nintendo Monthly Roundup - July 2026"
 excerpt: "Rounding up all the biggest news and happenings from an eventful July before heading into a bit of a dry spell before the holiday flurry."
 category: "News"
-date: "2026-08-10T16:00:00"
+date: "2026-08-11T19:50:00"
 image: "/images/monthly-recaps/nintendo-monthly-recap-july-2026-thumb.jpg"
 featured: false
 published: true
