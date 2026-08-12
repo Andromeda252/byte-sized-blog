@@ -21,12 +21,12 @@ export default function Hero() {
                     >
                         About The Byte-Sized Blog
                     </a>
-                    {/* <a
+                    <a
                         href="/posts/misc-welcome-to-byte-sized-blog"
                         className="rounded-xl border border-zinc-300 bg-white/80 px-6 py-3 text-sm font-semibold text-zinc-700 backdrop-blur transition-colors hover:bg-white"
                     >
                         New Here? Read This!
-                    </a> */}
+                    </a>
                 </div>
             </div>
         </section>
