@@ -4,7 +4,7 @@ excerpt: "Rounding up all the biggest news and happenings from an eventful July 
 category: "News"
 date: "2026-08-11T19:50:00"
 image: "/images/monthly-recaps/nintendo-monthly-recap-july-2026-thumb.jpg"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 sources:
