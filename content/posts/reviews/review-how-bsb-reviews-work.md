@@ -4,7 +4,7 @@ excerpt: "Reviews will be a major part of my content here on The Byte-Sized Blog
 category: "Review"
 date: "2026-08-13T16:03:00"
 image: "/images/site/bsb-icon.png"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 tags:
