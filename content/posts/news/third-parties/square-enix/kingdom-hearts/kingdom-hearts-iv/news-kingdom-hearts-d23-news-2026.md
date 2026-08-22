@@ -20,6 +20,10 @@ sources:
       url: https://mynintendonews.com/2026/08/16/square-enix-promises-that-kingdom-hearts-4-will-release-in-2027/
     - title: The ULTIMATE Recap of Kingdom Hearts Union X [+ χ, Unchained, Back Cover, Dark Road] (RECAPitation) - Oni Black Mage on YouTube
       url: https://www.youtube.com/watch?app=desktop&v=lAe4MdhbzuM&ra=m
+    - title: KINGDOM HEARTS IV - Official Nintendo Store Listing
+      url: https://www.nintendo.com/us/store/products/kingdom-hearts-iv-switch-2/
+    - title: KINGDOM HEARTS IV - Official PlayStation Store Listing
+      url: https://store.playstation.com/en-us/concept/10005013
 tags:
     - Kingdom Hearts
     - Kingdom Hearts IV
@@ -27,6 +31,10 @@ tags:
     - Disney
     - D23
 ---
+
+**Update**: Added a few addendums after looking into a couple things I wasn't sure of.
+
+## -----------
 
 ## *THIS IS WHAT WE'VE BEEN WAITING FOR!*
 
@@ -42,11 +50,11 @@ It all got started last Friday night, during the ‘Disney Entertainment Showcas
 
 Before I dive into the KHIV news, I want to touch on another incredibly exciting announcement that was made that feels like a long time coming: Kingdom Hearts is finally getting an anime adaptation! This has felt like such an obvious thing to happen for so long now, and it finally got announced during this presentation, coming soon to both Disney Channel and Disney+! I know I’ll be getting a Disney+ subscription when this drops.
 
-I do find it pretty funny that it's also coming to Disney Channel. The same network that I used to watch shows like Phineas and Ferb and Good Luck Charlie on will soon be airing Kingdom Hearts. Wild times we're living in.
+I do find it pretty funny and kind of awesome that it's also coming to Disney Channel. The same network that I used to watch shows like Phineas and Ferb and Good Luck Charlie on will soon be airing Kingdom Hearts. Wild times we're living in.
 
 We don't know a ton about it other than the simple fact that it is, in fact, happening, but Disney describes it as “reimagining the iconic adventure with a brand-new story that will expand on the universe of ‘Kingdom Hearts’” ([Variety](https://variety.com/2026/tv/news/kingdom-hearts-anime-series-disney-plus-1236835104/)). I find this statement pretty telling, with the usage of the phrases “brand-new story” and “expand on the universe” suggesting this won’t be an adaptation of any pre-existing game’s story. Instead, I read this as saying this will be a 100% canon story that will be necessary to fully understand what’s going on in the series going forwards. Which is par for the course for Kingdom Hearts at this point. If a piece of Kingdom Hearts media exists, it is almost certainly canon in some way, shape, or form.
 
-They also gave us a glimpse at what the show could look like with this frankly badass keyart showing Sora with his Keyblade resting over his shoulder. (Haha, get it, “key”art? Like “key”blade?)
+They also gave us a glimpse at what the show could look like with this frankly badass keyart showing a character with their Keyblade resting over their shoulder. (Haha, get it, “key”art? Like “key”blade?) At first I thought it was Sora, but I'm not as convinced after looking at it some more and seeking out what others were saying.
 
 ![Announced at D23, Kingdom Hearts The Series is coming soon to Disney Channel and Disney+!](/images/third-parties/square-enix/kingdom-hearts/kh-anime-teaser-art.jpg)
 
@@ -56,11 +64,13 @@ There’s no time frame attached to it other than a vague “Coming Soon”, so 
 
 However, as exciting as that is, would you believe me if I told you that was just the appetizer?
 
-# The World of Coco Makes its Kingdom Hearts Debut in a Jampacked New Trailer
+# The World of Coco Makes its Kingdom Hearts Debut in a Jampacked New Kingdom Hearts IV Trailer
 
-Disney wasn’t done feeding Kingdom Hearts fans on Friday night, as after talking about the upcoming sequel to Pixar’s Coco, they slyly teased that you’d soon be able to explore the Land of the Dead for yourself as a trailer began. Everything appeared to be plucked straight from the movie at first glance, until the Heartless appeared, prompting our main man Sora to leap into action.
+That wasn't all Disney had in store for Kingdom Hearts fans on Friday night, as after talking about the upcoming sequel to Pixar’s Coco, they slyly teased that you’d soon be able to explore the Land of the Dead for yourself as a trailer began. Everything appeared to be plucked straight from the movie at first glance, until the Heartless appeared, prompting our main man Sora to leap into action.
 
 And the crowd went nuts.
+
+No, seriously, go find a crowd reaction video from the event, it's awesome.
 
 Alongside the anime announcement, Kingdom Hearts fans were also treated to a short trailer for Kingdom Hearts IV, finally unveiling the first new Disney world to be featured in the game, being based off of Coco. And my gosh it is absolutely gorgeous.
 
@@ -84,14 +94,18 @@ Mickey’s gameplay sequence sees him get sucked into a book and forced to explo
 
 Then, the gameplay we see of Donald and Goofy shows them exploring what appears to be Olympus’s Underworld, what with the presence of Hades and a command list that looks *very* Hercules themed. So, yes, as has basically become a series tradition at this point, it appears we’ll be once again returning to the world of Hercules for the 5 millionth time. I’m not complaining too much, as the Underworld hasn’t been explored as often, only appearing in KHII to my knowledge. I love KHIII’s version of Olympus, but it didn’t touch the Underworld, so if that’s what IV’s rendition of this world will focus on, I’m way okay with that.
 
+**Addendum**: Confirmed by the description on the game's store listing across the [Nintendo eShop](https://www.nintendo.com/us/store/products/kingdom-hearts-iv-switch-2/), [PlayStation Store](https://store.playstation.com/en-us/concept/10005013), etc, stating "Donald and Goofy head for the Underworld in hopes of finding a clue to his whereabouts." Oh yeah, KHIV has a Nintendo eShop listing. Never thought I'd see the day. The description also teases a new battle mechanic that allows you to "build combos", whatever that means. That just makes me ask: were we not "building" combos in the previous games?
+
 We also see Donald and Goofy arriving in the world of Coco, perhaps suggesting that each world will have parallel storylines, one from Sora’s perspective, and one from Donald and Goofy’s. That would be a great way to get more out of each world and could allow for more characters and locations from each world to get the spotlight in a way that perfectly compliments the overarching narrative.
 
-Towards the end of the trailer, there’s a clip of who I believe to be Xigbar based on the voice approaching a character that I can’t quite identify in Quadratum. I thought it might be Riku at first, but upon closer inspection, it looks more like a young Xehanort to me… which, surely that can’t be, right? Then again this *IS* Kingdom Hearts we’re talking about. Here’s a few shots of the character in question. I’m sure others have already identified him, so I probably look pretty dumb being all confused. Maybe it is Riku and I’m just over thinking it.
+Towards the end of the trailer, there’s a clip of who I believe to be Xigbar/Luxu based on the voice approaching a character that I can’t quite identify in Quadratum. I thought it might be Riku at first, but upon closer inspection, it looks more like Young Xehanort to me… which, surely that can’t be, right? Then again this *IS* Kingdom Hearts we’re talking about. Here’s a few shots of the character in question. I’m sure others have already identified him, so I probably look pretty dumb being all confused. Maybe it is Riku and I’m just over thinking it.
 
 ![A screencap from the D23 KHIV trailer showing an individual who's identity I'm not 100% sure of.](/images/third-parties/square-enix/kingdom-hearts/kingdom-hearts-iv/khiv-d23-trailer-screen-2.png)
 ![Another screencap from the D23 KHIV trailer showing the same individual being approached by a hooded figure.](/images/third-parties/square-enix/kingdom-hearts/kingdom-hearts-iv/khiv-d23-trailer-screen-3.png)
 
 Lowkey it is kinda sad that I'm more confident in the identity of the obscured, hooded figure, than the guy whose face we can actually see.
+
+**Addendum**: So, yes. I am dumb and that is in fact Young Xehanort, which opens up a whole bunch of questions as to why he's in Quadratum. Is this, as Strelitzia put it in the original reveal  trailer, his "afterworld" as well? But yeah, due to the drought of content it's been a while since I've been super into Kingdom Hearts, so I have a lot of brushing up to do.
 
 I *CAN* tell you who undeniably *IS* Riku, though, as we see what appears to be his arrival in Quadratum at the very end of the trailer, preparing to engage the powerful Heartless we saw at the end of the short version. This being the moment that the ending of Melody of Memory was building up to, this was a pretty hype way to end an incredibly exciting trailer that gave us our best look at Kingdom Hearts IV to date!
 
@@ -105,7 +119,7 @@ This is incredibly exciting for more reasons than it coming sooner than I honest
 
 Or, y’know, Square Enix could decide to be mean and not a physical release, which… I would still 100% buy the game at launch but man that would suck.
 
-Beyond that, there’s the fact that the marketing and hype cycle for the game has kicked into gear, and between now and its release late next year, it could show up in *ANY* presentation. Gamescom ONL, The Game Awards, Summer Game Fest, and any future Nintendo Direct, State of Play, or Xbox Games Showcase could feature a new trailer for Kingdom Hearts IV, and that’s super exciting. There’s likely still many worlds left to unveil, so I expect to see it a ton over the next year or so.
+Beyond that, there’s the fact that the marketing and hype cycle for the game has kicked into gear, and between now and its release late next year, it could show up in *ANY* presentation. Gamescom ONL, The Game Awards, Summer Game Fest, and any future Nintendo Direct, State of Play, or Xbox Games Showcase could feature a new trailer for Kingdom Hearts IV, and that’s super exciting. There’s likely still many worlds left to unveil, and the 25th anniversary is next year, so I anticipate that this is the first of many times we'll be seeing it in the not too distant future.
 
 ## -----------
 
@@ -115,6 +129,6 @@ I would’ve been very satisfied with what we got from the Entertainment Showcas
 
 There is still a lot more I want to dissect regarding the new trailer, but I’ll leave that for another post, as we’d be here all day if I went into every little thing. I already went over more than I had anticipated in this post to begin with.
 
-All that said, I am incredibly excited for both Kingdom Hearts IV and the anime. Last weekend reminded me of how much I do truly love this series, as well as the incredible levels of brainrot I can reach for it.
+All that said, I am incredibly excited for both Kingdom Hearts IV and the anime. Last weekend reminded me of how much I do truly love this series, as well as the incredible levels of brainrot I can reach for it. That, and it's just so nice to see this franchise get so much love at an event like D23, showing that Disney is really starting to take the series a lot more seriously. Now, Disney finding the value in a property isn't always necessarily a *GOOD* thing, but for now, the future of Kingdom Hearts is looking bright! 
 
 Buckle up KH fans, the next year is going to be fun!
