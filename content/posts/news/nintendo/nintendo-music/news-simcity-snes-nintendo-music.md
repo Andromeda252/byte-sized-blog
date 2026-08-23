@@ -2,7 +2,7 @@
 title: "SimCity Expands Onto Nintendo Music"
 excerpt: "An unexpected urban development."
 category: "News"
-date: "2026-08-23T19:35:00"
+date: "2026-08-23T18:58:00"
 image: "/images/nintendo/snes/simcity/simcity-title-screen-nm-thumb.png"
 featured: false
 published: true
