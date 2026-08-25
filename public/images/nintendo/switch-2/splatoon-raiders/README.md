@@ -27,6 +27,10 @@
 - Source: Official Splatoon Raiders Nintendo store page.
 - Link: https://www.nintendo.com/us/store/products/splatoon-raiders-switch-2/
 
+## splatoon-raiders-salmonids.avif
+- Source: Official Splatoon Raiders Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/splatoon-raiders-switch-2/
+
 ## splatoon-raiders-keyart-small.jpg
 - Source: 'Ask the Developer Vol. 22: Splatoon Raiders — Part 1' article on Nintendo's official website.
 - Link: https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-22-splatoon-raiders-part-1/
