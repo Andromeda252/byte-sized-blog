@@ -9,7 +9,7 @@ published: true
 author: "Andromeda"
 tags:
     - Kingdom Hearts
-    - Kingdom Hearts Collection [I ~ III]
+    - Kingdom Hearts Collection
     - Square Enix
     - Nintendo Switch 2
 ---

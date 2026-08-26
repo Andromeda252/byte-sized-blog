@@ -117,7 +117,7 @@ Late 2027. After years of waiting, we *FINALLY* know the time frame within which
 
 This is incredibly exciting for more reasons than it coming sooner than I honestly anticipated. In my July 2026 Monthly Roundup, I briefly mentioned how I was concerned I would never own a truly physical copy of this game on PS5 due to Sony ending disc production at the start of 2028, despite the fact I mainly bought my PS5 in anticipation of Kingdom Hearts IV. Should it, in fact, land in that late 2027 window, it will more than likely receive a physical release on PS5 after all, and could very well be my last ever brand new physical PlayStation game, which is honestly really sad.
 
-Or, y’know, Square Enix could decide to be mean and not a physical release, which… I would still 100% buy the game at launch but man that would suck.
+Or, y’know, Square Enix could decide to be mean and not do a physical release, which… I would still 100% buy the game at launch but man that would suck.
 
 Beyond that, there’s the fact that the marketing and hype cycle for the game has kicked into gear, and between now and its release late next year, it could show up in *ANY* presentation. Gamescom ONL, The Game Awards, Summer Game Fest, and any future Nintendo Direct, State of Play, or Xbox Games Showcase could feature a new trailer for Kingdom Hearts IV, and that’s super exciting. There’s likely still many worlds left to unveil, and the 25th anniversary is next year, so I anticipate that this is the first of many times we'll be seeing it in the not too distant future.
 
