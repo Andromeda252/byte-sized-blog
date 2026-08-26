@@ -2,7 +2,7 @@
 title: "Mario Kart 8 Deluxe Free Roam Remixes + A Pair of Bonus Tracks Round Out MKW's Soundtrack on Nintendo Music"
 excerpt: "At a grand total of 348 tracks, one of Nintendo's greatest soundtracks is now complete!"
 category: "News"
-date: "2026-08-26T12:30:00"
+date: "2026-08-26T13:16:00"
 image: "/images/nintendo/switch-2/mario-kart-world/mkw-title-theme-bonus-nm-thumb.png"
 featured: false
 published: true
