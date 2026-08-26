@@ -2,7 +2,7 @@
 title: "3D Land and 3D World Free Roam Remixes Prowl Onto Nintendo Music"
 excerpt: "Featuring a pair of Bowser's Fury remixes as well!"
 category: "News"
-date: "2026-08-23T02:25:00"
+date: "2026-08-23T14:25:00"
 image: "/images/nintendo/switch-2/mario-kart-world/mkw-sm3dw-hisstocrat-nm-thumb.png"
 featured: false
 published: true

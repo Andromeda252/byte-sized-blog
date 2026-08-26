@@ -42,6 +42,10 @@
 - Source: Screenshot taken by the author in the Nintendo Music mobile app.
 - Note: Cropped from original screenshot.
 
+## nt-mkw-fr-music-8-24-26.png
+- Source: Screenshot taken by the author in the Nintendo Today! app on 8/25/26.
+- Note: Cropped from original screenshot.
+
 ## mkw-nsmbu-ground-nm-thumb.png
 - Source: Screenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Mario Kart World track "Ground Theme (New Super Mario Bros. U)".
 - Note: Cropped from original screenshot.
@@ -68,6 +72,10 @@
 
 ## mkw-sm3dw-hisstocrat-nm-thumb.png
 - Source: Sreenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Mario Kart World track "Hisstocrat (Super Mario 3D World)".
+- Note: Cropped from original screenshot.
+
+## mkw-title-theme-bonus-nm-thumb.png
+- Source: Sreenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Mario Kart World track "Title Theme (Bonus Track)".
 - Note: Cropped from original screenshot.
 
 ## mkw-p-switch-map-394.jpg
