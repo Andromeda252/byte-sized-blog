@@ -28,7 +28,29 @@ With all that said, however, let's jump right into what *DID* happen in August a
 
 # RELEASES
 
-# ANNOUNCEMENTS
+- ### LEGO Donkey Kong Arcade and LEGO Timmy and Tommy's Fun Day Out Sets Available (August 1st, 2026)
+
+- ### Zero Racers and D-Hopper Released on Virtual Boy - Nintendo Classics (August 3rd, 2026)
+
+- ### Fire Emblem Theme Available on Nintendo Today! (August 4th, 2026)
+
+- ### Pokemon Pokopia Expansion Pass Part 1 Bubbly Basin Released (August 5th, 2026)
+
+- ### Super Mario Sunshine Released on Nintendo GameCube - Nintendo Classics (August 12th, 2026)
+
+- ### Nintendo Today! Update Allowing for Selection of Multiple Themes Released (August 19th, 2026)
+
+
+
+# ANNOUNCEMENTS AND PRESENTATIONS
+
+- ### [*Fire Emblem: Fortune's Weave Direct 8.4.2026*](https://www.the-byte-sized-blog.com/posts/news-fortunes-weave-direct-recap) (August 4th, 2026)
+
+- ### Kingdom Hearts News Blowout at D23 2026 (August 14th-15th, 2026)
+
+- ### Gamescom ONL (August 25th, 2026)
+
+- ### New LEGO Super Mario Minifigure Sets Announced (August 26th, 2026)
 
 # NINTENDO MUSIC
 
@@ -42,5 +64,10 @@ With all that said, however, let's jump right into what *DID* happen in August a
 
 # MISCELLANEOUS NEWS
 
-# LOOKING AHEAD TO AUGUST
+- ### Tetris 99 56th Maximus Cup: Splatoon Raiders Edition Begins (August 7th, 2026)
 
+- ### Creator's Voice #11 - Orbitals (August 12th, 2026)
+
+- ### Splatoon 3 Summer Nights Splatfest Begins (August 21st, 2026)
+
+# LOOKING AHEAD TO AUGUST
