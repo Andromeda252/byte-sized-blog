@@ -11,16 +11,17 @@ sources:
 tags:
     - Play Logs
     - Metroid Fusion
-
+    - Rhythm Heaven Groove
+    
 ---
 
 | Game | Monday 8/24 | Tuesday 8/25 | Wednesday 8/26 | Thursday 8/27 | Friday 8/28 | Saturday 8/29 | Sunday 8/30 |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | Donkey Kong Bananza (NS2) | 1 hr | - | - | - | - | - | - |
-| Metroid Fusion (GBA: NC on NS2) | 30 min | 1 hr 30 min | - | - | - | - | - |
+| Metroid Fusion (GBA: NC on NS2) | 30 min | 1 hr 30 min | - | 30 min | - | - | - |
 | Super Mario Sunshine (GC: NC on NS2) | - | 30 min | - | - | - | - | - |
 | Splatoon Raiders (NS2) | - | - | 45 min | - | - | - | - |
-| Rhythm Heaven Groove (NS on NS2) | - | - | 30 min | - | - | - | - |
+| Rhythm Heaven Groove (NS on NS2) | - | - | 30 min | A few min | - | - | - |
 
 - Ordered by first play of the week.
 - All Switch/Switch 2 play data on my console is sourced from the Nintendo Store mobile app.
@@ -50,7 +51,35 @@ The key factor to my victory was absolutely a piece of equipment for either DK o
 I'm glad to have finished the DK Challenge so that it is no longer looming over my head with the deadline approaching. I really enjoyed this event, especially the Bananza side of it. These challenges have made me play the game in different ways that I wouldn't have other wise, such as tackling some of its difficult post-game challenges with no skills unlocked, making them that much harder. It makes me hope to see more of these 'challenge' events in the future for other franchises, or, better yet, see Nintendo implement a system-wide achievements system. The likelihood of that happening mid-generation is probably pretty low, but that would be the dream. A system-wide achievements system has been among my most wanted features for any Nintendo platform for a *long* time now, and the DK Challenge offered a tantalizing glimpse into what that could look like.
 
 # Metroid Fusion (GBA: NC on NS2)
-- ### Played on Monday and Tuesday for an approx. total of ~2 hrs
+- ### Played on Monday, Tuesday and Wednesday for an approx. total of ~2 hrs 30 mins
+
+I beat another game!
+
+I've honestly been on a bit of a roll lately, and Metroid Fusion is the latest addition to the pile of games I've finished recently, which also includes Metroid Samus Returns, Rhythm Heaven Fever, and Splatoon Raiders.
+
+According to the play time metric in the GBA: NC app, it took me a little over 10 hours to beat the game, which sounds about right.
+
+I'll be talking about my experiences with Fusion's end-game here, which is really, really good by the way, so, spoilers for a 24 year old game below.
+
+...
+
+...
+
+...
+
+Okay, let's go.
+
+When I left off last week, I had just entered a Restricted Zone in the research ship despite instructions from Adam to return immediately to the Navigation Room after eliminating the rogue secruity robot in Sector 6.
+
+Upon heading deeper into the Restricted Zone, I was flabbergasted to find a lab where new Metroids were being created. For those of you that don't know about Metroid lore, the plot of Metroid II saw Samus wiping out all remaining Metroids in the galaxy, except for one: a hatchling that hatched in front of Samus and imprinted on her at the very end of the game. In Super Metroid, this last Metroid is stolen from a lab by the Space Pirates, prompting Samus to return to Planet Zebes, where the first Metroid game took place. At the end of Super, the Metroid hatchling, having grown incredibly large, comes to Samus's aid in her time of great need when facing Mother Brain, sacrificing itself to grant Samus the power to defeat the monster, therefore sending the Metroid species into extinction.
+
+This was a piece of the Metroid story I've known about for a long time, so I was genuinely shocked to discover this lab housing real, *LIVING* Metroids.
+
+The SA-X soon shows up, and, with Metroids being the natural predator of the X Parasites, attempts to destroy the X, and in doing so, causes the wing of the ship housing this lab to split from the ship and crash into the planet SR388 below. Samus, having narrowly escaped this, is then berated by her computer for disobeying orders, who also tells her that the recreation of Metroids was a project the Federation was conducting for personal gain. She then learns that there are more than one SA-X onboard- as many as 10! This exchange also sees the first instance of spoken dialogue from Samus in the game as she expresses shock at the reveal of multiple SA-X. This caught me highly off guard, as the only instance I've experienced of Samus speaking out loud was in Dread, when she meets Quiet Robe, and that was in the Chozo language. If they ever remade this game, I'd be curious to see how they'd handle this, especially as it's not the last time Samus would talk in this game.
+
+Moving on, after exploring Sector 1 a bit, which was revealed in that same exchange to be a recreation of SR388's habitat for the artifically created Metroids, I'd stumble upon the next boss- an X Parasite copy of Ridley, which I referred to as X-Ridley. And let me tell you, this boss gave me a lot of trouble, to the point of growing incredibly frustrated. A controller may have been thrown.
+
+But after taking a break and coming back with the right mindset, I was able to lock in and defeat X-Ridley with over 500 health to spare. Considering how much damage I was taking in my many failed attempts, I still don't know how I did that. I really was just *that* locked in.
 
 # Super Mario Sunshine (GC: NC on NS2)
 - ### Played on Tuesday for ~30 mins
@@ -59,7 +88,7 @@ I'm glad to have finished the DK Challenge so that it is no longer looming over 
 - ### Played on Wednesday for ~45 mins
 
 # Rhythm Heaven Groove (NS on NS2)
-- ### Played on Wednesday for ~30 mins
+- ### Played on Wednesday and Thursday for an approx. total of ~30 mins
 
 ## -----------
 
