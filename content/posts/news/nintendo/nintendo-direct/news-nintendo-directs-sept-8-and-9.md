@@ -33,6 +33,6 @@ And that's not even everything, as the general Direct will be followed by anothe
 
 The announcement timing is also fairly unusual with the presentations being announced a full weekend in advance. This is likely due to the fact that next Monday is Labor Day, so today is the last business day before the first of these presentations airs on Tuesday. It's nice to have more time to get my viewing plans situated given my circumstances, but it'll also make the wait that much harder. This is gonna be on my mind all weekend, I guarantee you.
 
-The only other downside is that I now need to reformat my in-progress predictions post, but that aside, I think it's safe to say that this going to be an *incredibly* exciting week for Nintendo fans. I don't want to get my hopes up too high, but dang, I'm getting a gut feeling that this general Direct could end up being quite a bit bigger than we anticipated.
+The only other downside is that I now need to reformat my in-progress predictions post, but that aside, I think it's safe to say that this is going to be an *incredibly* exciting week for Nintendo fans. I don't want to get my hopes up too high, but dang, I'm getting a gut feeling that this general Direct could end up being quite a bit bigger than we anticipated.
 
 Buckle up and get hyped (responsibly, of course), everyone! Next week's gonna be fun!

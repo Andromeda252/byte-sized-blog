@@ -27,7 +27,6 @@ tags:
 - Ordered by first play of the week.
 - All Switch/Switch 2 play data on my console is sourced from the Nintendo Store mobile app.
 - All 3DS play data sourced from the 3DS Activity Log application.
-- All Wii U play data sourced from the Wii U Daily Log application.
 - Play data marked with a * is estimated.
 
 # Donkey Kong Bananza (NS2)
@@ -82,14 +81,67 @@ Moving on, after exploring Sector 1 a bit, which was revealed in that same excha
 
 But after taking a break and coming back with the right mindset, I was able to lock in and defeat X-Ridley with over 500 health to spare. Considering how much damage I was taking in my many failed attempts, I still don't know how I did that. I really was just *that* locked in.
 
+Okay so, this segment is getting long enough, so let's speedrun the ending.
+
+Samus learns that HQ has called her mission off, and members of the Federation are on their way to capture the SA-X. Samus, having encountered the SA-X on multiple occasions in the past, knows how horrible of an idea this is, fearing that the by taking over the Federation members, the X would be able to spread far and wide across the galaxy, leading to the end of galactic civilization.
+
+Samus tries and fails to reason with her computer (she actually talks a lot here, like, a full on conversation, which caught me highly off guard), who locks her in the navigation room so she can't intervene. She continues to try and get through to the computer what would happen if the Federation tries to capture the SA-X, eventually invoking the name of Adam, upon which the computer, which is later revealed to be something of a digital copy of the late Adam (what is this Kingdom Hearts?), finally relents and tasks Samus with redirecting the research ship's orbit to collide with SR-388 to wipe out both the X on board and on the planet's surface.
+
+Samus heads to the Operations Room, where she's confronted with the SA-X, now finally strong enough to take it on. I found this to be one of the easier late game bosses, especially compared to the Nightmare and X-Ridley. I find it pretty funny that the second of three phases in the fight, the one with the most intimidating appearance, is probably the single easiest phase of any boss fight in the entire game. Just run back and forth when it leaps and hit it with missiles three times.
+
+Upon dispatching the SA-X, the core flees before it can be absorbed, allowing Samus to begin the ship's crash course towards SR-388, beginning the franchise's trademark end-game escape sequence. With three minutes until impact, Samus books it to her ship, only to find it's not in the docking bay upon arrival! She's ambushed by an Omega Metroid, likely one of the Metroid's from the Restricted Lab that grew incredibly quickly due to the experiments being done on them. It's far too powerful for Samus at first, cutting her energy down nearly to zero with a single swipe before the SA-X appears and 'saves' her. Of course, it's not like the heartless monster had a change of heart- it's simply trying to take out the Omega Metroid, which serves as a threat to it as the Metroids are the X's natural predators.
+
+The Omega Metroid defeats the SA-X, allowing Samus to absorb it and regain her full strength, with which she defeats the Omega Metroid and escapes on her ship... y'know, unless you're like me and spent too long screwing around during the escape sequence not expecting a boss fight in the docking bay, ultimately running out of time *right* as the Omega Metroid fell. Yeah, uh, that kinda stung, but I had no one to blame but myself.
+
+I got through on the second go, however, and Samus's ship returns to the docking bay to collect her and escape right before the research station collides with SR-388. Samus has a heart to heart on board with the computerized Adam, and the credits roll.
+
+...
+
+...
+
+...
+
+So, yeah, the story got way deeper than I was anticipating, but I really enjoyed it. It makes me want to go back and replay Dread, now with the added context provided by having experienced Fusion.
+
+Overall, I really enjoyed Metroid Fusion! It started a bit slow, with its linear, somewhat repetitive structure, but it went on to subvert that structure so many times as the game went on that I never could be sure what would happen next. It was also quite challenging. Though some of the bosses could be a bit obnoxious, it was never anything I couldn't overcome! Plus, the music and sound design were excellent at creating a tense and harrowing atmosphere, *especially* for a GBA title.
+
+I've now played the original version of *every* 2D Metroid game, with Zero Mission being the only game I have yet to play. I don't know when I'll get around to it, but hopefully it'll be soon!
+
 # Super Mario Sunshine (GC: NC on NS2)
 - ### Played on Tuesday for ~30 mins
+
+So basically, I just had some time to kill, so I hopped on Sunshine, did a couple Shines in Pinna Park and Bianco Hills, collected some Blue Coins, and called it a day. That's pretty much my intention with this game now that it's on Nintendo Classics, just to play it when I've got some time to kill and can't think of what to play.
 
 # Splatoon Raiders (NS2)
 - ### Played on Wednesday for ~45 mins
 
+Not too much to say here other than I wanted to keep playing the post game beyond the story content now that I'm done with it. As I've said before, this is a game I'm likely to keep coming back to going forwards, as there's still so much depth even after beating the post-game final boss!
+
 # Rhythm Heaven Groove (NS on NS2)
 - ### Played on Wednesday and Thursday for an approx. total of ~30 mins
+
+I finished Beatspell! And man it was way more of a challenge than I anticipated.
+
+The final boss is brutal, and marked the first couple times I died in the entire playthrough. It was super satisfying to finally overcome, and the music freaking slapped.
+
+I'm not gonna go into too much more detail here, as you really should experience it for yourself if it's something you're interested in. Especially considering that the story is... actually good??? Not like, anything unbelievable, but the story for Beatspell goes so far beyond what they needed to do for an RPG side mode in a silly rhythm game, and for that, I love it.
+
+I also just want to comment on how shockingly in-depth Beatspell is. It's fairly short, with only 8 main chapters. But they manage to pack so much into those 8 chapters that it ends up feeling like so much more than a side mode. It constantly introduces new mechanics throughout to keep you on your toes, and has a great difficulty progression that ends with the aforementioned quite challenging final boss. I feel like this has the potential to be spun off into its own full game, which I would love to see!
+
+I also finally figured out how to access Night Mode... by looking it up, as I would never have figured the method out for myself. And, yeah, it's pretty much exactly what I thought it would be, in that it blacks out the screen, removing all visuals so that you have to play off of audio alone. In other words, nothing I can't replicate by turning my chair away from the TV. I got a Perfect on Hoop Trundling with Night Mode, and that's about as far as I intend to pursue it, what with how difficult it is to even unlock it for each individual rhythm game (you have to get a Perfect three times in a row without failing). It's cool that it's there as an extra challenge for the highly skilled Rhythm Heaven players, but it just isn't for me. My time is better spent elsewhere.
+
+# Kingdom Hearts III + ReMind Demo Version (NS2)
+- ### Played on Sunday for 1 hr 30 mins
+
+When I got home from an early work shift Sunday afternoon, I was suddenly in the mood for Kingdom Hearts. So, remembering the demo for III that I had downloaded, I said "screw it" and proceeded to spend most of my afternoon on it. And wow, it's a surprisingly meaty demo.
+
+I started from the beginning of the game, and played all the way through the first third of Olympus, and to my surprise, the demo just kept going beyond that. Not to mention the demo allows you to play some of the Toy Box world as well. I decided to stop there, as I do intend to replay KHIII at some point after the collection comes out next month, and was really just looking to get a feel for how it plays on Switch 2.
+
+The verdict? It plays really well! It's not *as* smooth as playing it on PS5 particularly, which is where I finished out the Platium trophy after originally playing both the base game and DLC on PS4, and there does seem to be some occasional stuttering when I turn the camera, but other than that, it felt great! One complaint I do have is attack being on 'A' and jump on 'B'. This doesn't sound like too big of a deal, but I'm very used to playing Kingdom Hearts on PlayStation, where attack is 'X' and jump is 'circle', which are in the opposite respective locations of the A and B button a Switch 2 controller. It's not a massive deal, just something I'm gonna have to get used to. Though, I do wish there was an in game option allowing me to swap the functions of the A and B buttons to make the control scheme more familiar to me, which there does not seem to be.
+
+Worth noting that I only played in docked mode and have yet to try it in handheld mode, though I'm sure it'll be a surreal feeling once I try it, much like titles such as Super Mario Galaxy and Persona 5 felt surreal to finally take portably.
+
+All in all, my experience was very positive, and it was great to play Kingdom Hearts III again, as it's my personal favorite in the series. Very much looking forwards to the collection!
 
 ## -----------
 
