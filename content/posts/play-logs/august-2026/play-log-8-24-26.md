@@ -18,10 +18,11 @@ tags:
 | Game | Monday 8/24 | Tuesday 8/25 | Wednesday 8/26 | Thursday 8/27 | Friday 8/28 | Saturday 8/29 | Sunday 8/30 |
 |-------|-------|-------|-------|-------|-------|-------|-------|
 | Donkey Kong Bananza (NS2) | 1 hr | - | - | - | - | - | - |
-| Metroid Fusion (GBA: NC on NS2) | 30 min | 1 hr 30 min | - | 30 min | - | - | - |
+| Metroid Fusion (GBA: NC on NS2) | 30 min | 1 hr 30 min | - | 30 min | - | - | 30 min |
 | Super Mario Sunshine (GC: NC on NS2) | - | 30 min | - | - | - | - | - |
-| Splatoon Raiders (NS2) | - | - | 45 min | - | - | - | - |
-| Rhythm Heaven Groove (NS on NS2) | - | - | 30 min | A few min | - | - | - |
+| Splatoon Raiders (NS2) | - | - | 45 min | - | 30 min | - | - |
+| Rhythm Heaven Groove (NS on NS2) | - | - | 30 min | A few min | - | 2 hr 45 min | 1 hr |
+| Kingdom Hearts III + Re:Mind Demo Version (NS2) | - | - | - | - | - | - | 1 hr 30 min |
 
 - Ordered by first play of the week.
 - All Switch/Switch 2 play data on my console is sourced from the Nintendo Store mobile app.
