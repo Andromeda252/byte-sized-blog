@@ -4,7 +4,7 @@ excerpt: "A very run of the mill show with nothing too massive, but we still saw
 category: "News"
 date: "2026-09-03T20:25:00"
 image: "/images/third-parties/square-enix/final-fantasy/final-fantasy-vii-revelation/ffvii-rev-sop-9-3-26-thumb.png"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 sources:
