@@ -4,7 +4,7 @@ excerpt: "The rumors were true, and we got more than I EVER could've asked for."
 category: "News"
 date: "2026-08-21T17:10:00"
 image: "/images/third-parties/square-enix/kingdom-hearts/kingdom-hearts-iv/khiv-coco-d23-trailer-thumb.png"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 sources:

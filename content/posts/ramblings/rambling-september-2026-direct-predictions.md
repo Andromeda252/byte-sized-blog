@@ -182,6 +182,10 @@ Given that the Monster Hunter franchise also has the most extensive third party 
 
 # Hopes
 
+Okay, before anything else, let's just get this one out of the way:
+
+- ## 3D Mario
+
 - ## Hyrule Warriors: Age of Calamity - Nintendo Switch 2 Edition
 
 - ## Kirby Planet Robobot HD
@@ -191,6 +195,8 @@ I originally wanted to predict the next mainline Kirby game for spring of next y
 So screw it, let's go back to a game that I, perhaps foolishly, still haven't fully given up hope on the existence of.
 
 - ## Kid Icarus Uprising HD
+
+- ## Nintendo DS Arrives on Nintendo Classics
 
 - ## Confirmation of the Donkey Kong Movie
 

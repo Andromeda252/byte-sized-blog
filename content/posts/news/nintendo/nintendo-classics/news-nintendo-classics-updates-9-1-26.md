@@ -9,6 +9,8 @@ published: false
 author: "Andromeda"
 sources:
     - title: "Nintendo Today! App"
+    - title: New update for Nintendo Switch Online members! - Official Nintendo Website
+      url: https://www.nintendo.com/us/whatsnew/new-update-for-nintendo-switch-online-members-09-2026/
 tags:
     - Nintendo Classics
     - NES
