@@ -40,7 +40,7 @@ With all that said, however, let's jump right into what *DID* happen in August a
 
 - ### Nintendo Today! Update Allowing for Selection of Multiple Themes Released (August 19th, 2026)
 
-
+- ### Pikmin 3 Deluxe Switch 2 Enhancement Update (August 31st, 2026)
 
 # ANNOUNCEMENTS AND PRESENTATIONS
 
@@ -61,6 +61,7 @@ With all that said, however, let's jump right into what *DID* happen in August a
 - [Mario Kart World Free Roam with Super Mario 3D Land and Super Mario 3D World](https://www.the-byte-sized-blog.com/posts/news-mario-sunshine-nintendo-music) (August 17th, 2026)
 - [SimCity](https://www.the-byte-sized-blog.com/posts/news-simcity-snes-nintendo-music) (August 20th, 2026)
 - [Mario Kart World Free Roam with Mario Kart 8 Deluxe + 2 Bonus Tracks](https://www.the-byte-sized-blog.com/posts/news-mario-kart-world-nintendo-music-8-24-26) (August 24th, 2026)
+- [Fire Emblem: Three Houses](https://www.the-byte-sized-blog.com/posts/news-fire-emblem-three-houses-nintendo-music) (August 27th, 2026)
 
 # MISCELLANEOUS NEWS
 
@@ -70,4 +71,4 @@ With all that said, however, let's jump right into what *DID* happen in August a
 
 - ### Splatoon 3 Summer Nights Splatfest Begins (August 21st, 2026)
 
-# LOOKING AHEAD TO AUGUST
+# LOOKING AHEAD TO SEPTEMBER
