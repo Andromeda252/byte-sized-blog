@@ -2,7 +2,7 @@
 title: "What I've Been Playing: Week of 8/24/2026"
 excerpt: "Dang Beatspell got hands."
 category: "Play Log"
-date: "2026-09-06T20:36:00"
+date: "2026-09-06T12:45:00"
 image: "/images/nintendo/switch-1/rhythm-heaven-groove/rhg-beatspell-screenshot-1.jpg"
 featured: false
 published: true
