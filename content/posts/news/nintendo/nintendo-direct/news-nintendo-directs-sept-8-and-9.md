@@ -4,7 +4,7 @@ excerpt: "Two Directs on back to back days. Over an hour of news. Just a few day
 category: "News"
 date: "2026-09-04T14:06:00"
 image: "/images/nintendo/nintendo-direct/nintendo-directs-sept-8-9.png"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 sources:
