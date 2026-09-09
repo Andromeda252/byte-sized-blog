@@ -37,4 +37,4 @@ Nintendo describes the movie as an original story based on the "stories, ideas a
 
 I'm stoked to see this in theaters, and like the Galaxy Movie, this will likely be another opening night theater trip for me if I'm able. I just wish we saw just a *little* bit more, like, maybe a single short clip to set the tone.
 
-Ah, well. We've still got the main event tomorrow, and I'll be sure to report on all the major announcements, plus the OOT remake, in the days that follow! Stay tuned for a full recap of both presentations as well!
+Ah, well. Even if I found this Direct a bit underwhelming in terms of the quantity of things covered, this was really just the appetizer. We've still got the main event tomorrow, and I'll be sure to report on all the major announcements, plus the OOT remake, in the days that follow! Stay tuned for a full recap of both presentations as well!
