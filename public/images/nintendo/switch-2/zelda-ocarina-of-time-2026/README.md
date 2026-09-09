@@ -11,3 +11,15 @@
 ## oot-26-keyart.avif
 - Source: "The Legend of Zelda: Ocarina of Time (2026)" official Nintendo store page on September 8th, 2026.
 - Link: https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/
+
+## oot-26-screenshot-1.avif
+- Source: "The Legend of Zelda: Ocarina of Time (2026)" official Nintendo store page on September 8th, 2026.
+- Link: https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/
+
+## oot-26-screenshot-2.avif
+- Source: "The Legend of Zelda: Ocarina of Time (2026)" official Nintendo store page on September 8th, 2026.
+- Link: https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/
+
+## oot-26-screenshot-3.avif
+- Source: "The Legend of Zelda: Ocarina of Time (2026)" official Nintendo store page on September 8th, 2026.
+- Link: https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/

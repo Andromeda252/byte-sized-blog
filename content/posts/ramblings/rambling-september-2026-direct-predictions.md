@@ -4,7 +4,7 @@ excerpt: "With two Nintendo Directs set for the coming week, here's what I'd lik
 category: "Rambling"
 date: "2026-09-07T18:36:00"
 image: "/images/nintendo/switch-2/zelda-ocarina-of-time-2026/oot-26-teaser-screenshot-1.png"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 tags:
