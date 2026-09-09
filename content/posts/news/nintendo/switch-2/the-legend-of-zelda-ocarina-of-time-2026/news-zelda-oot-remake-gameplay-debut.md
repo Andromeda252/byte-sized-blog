@@ -2,7 +2,7 @@
 title: "The Legend of Zelda Ocarina of Time's Switch 2 Remake Is Downright Stunning, and It's Less Than Two Months Away!"
 excerpt: "Nintendo hired that man."
 category: "News"
-date: "2026-09-07T20:25:00"
+date: "2026-09-08T23:30:00"
 image: "/images/nintendo/switch-2/zelda-ocarina-of-time-2026/oot-26-keyart.avif"
 featured: true
 published: true

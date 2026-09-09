@@ -2,7 +2,7 @@
 title: "The Live-Action Zelda Movie is Officially Titled 'The Legend of Zelda'"
 excerpt: "However, details remain scarce."
 category: "News"
-date: "2026-09-07T20:25:00"
+date: "2026-09-08T23:00:00"
 image: "/images/nintendo/movies/the-legend-of-zelda/zelda-movie-teaser-logo.avif"
 featured: false
 published: true
