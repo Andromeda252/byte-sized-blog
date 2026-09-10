@@ -13,7 +13,7 @@ sources:
 tags:
     - Metroid
     - Metroid Dread
-    - Metroid 6
+    - Metroid Ravenous
     - Nintendo Switch 2
 ---
 
