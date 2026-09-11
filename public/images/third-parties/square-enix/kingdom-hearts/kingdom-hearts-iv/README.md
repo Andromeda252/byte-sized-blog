@@ -19,3 +19,7 @@
 ## khiv-coco-keyblade.png
 - Source: Screenshot taken by the author of a still from the short version Kingdom Hearts IV D23 Trailer on the Official Game Awards YouTube channel.
 - Link: https://www.youtube.com/watch?app=desktop&v=7zJRWlfL88c&ra=m
+
+## khiv-donald-goofy-screenshot.avif
+- Source: 'KINGDOM HEARTS IV' official Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/kingdom-hearts-iv-switch-2/
