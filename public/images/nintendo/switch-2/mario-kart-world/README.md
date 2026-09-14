@@ -84,3 +84,19 @@
 ## mkw-screenshot-crane-medal.png
 - Source: Screenshot captured by the author in the Nintendo Switch mobile app of a video captured on Nintendo Switch 2 (Mario Kart World).
 - Note: Cropped from original screenshot.
+
+## mkw-ghost-valley-screenshot.avif
+- Source: 'Mario Kart World adds SNES courses and Knockout Tour routes in a free update' news article on Nintendo's official website.
+- Link: https://www.nintendo.com/us/whatsnew/mario-kart-world-adds-snes-courses-and-knockout-tour-routes-in-a-free-update/
+
+## mkw-item-panel-screenshot.avif
+- Source: 'Mario Kart World adds SNES courses and Knockout Tour routes in a free update' news article on Nintendo's official website.
+- Link: https://www.nintendo.com/us/whatsnew/mario-kart-world-adds-snes-courses-and-knockout-tour-routes-in-a-free-update/
+
+## mkw-propeller-rally-route.avif
+- Source: 'Mario Kart World adds SNES courses and Knockout Tour routes in a free update' news article on Nintendo's official website.
+- Link: https://www.nintendo.com/us/whatsnew/mario-kart-world-adds-snes-courses-and-knockout-tour-routes-in-a-free-update/
+
+## mkw-turnip-rally-route.avif
+- Source: 'Mario Kart World adds SNES courses and Knockout Tour routes in a free update' news article on Nintendo's official website.
+- Link: https://www.nintendo.com/us/whatsnew/mario-kart-world-adds-snes-courses-and-knockout-tour-routes-in-a-free-update/
