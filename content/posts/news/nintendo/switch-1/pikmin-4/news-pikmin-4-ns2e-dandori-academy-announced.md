@@ -8,6 +8,11 @@ featured: false
 published: true
 author: "Andromeda"
 sources:
+    - title: Nintendo Direct reveals Metroid Ravenous, Kirby and the World Beyond, and more games for Nintendo Switch 2 and Nintendo Switch - Official Nintendo Website
+      url: https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/
+    - title: Pikmin 4 Nintendo Switch 2 Edition + Dandori Academy Upgrade Pack Official Nintendo Store Page
+      url: https://www.nintendo.com/us/store/products/pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-upgrade-pack-switch-2/?slug=pikmin-4-nintendo-switch-2-edition-plus-dandori-academy-upgrade-pack-switch-2
+
 tags:
     - Pikmin
     - Pikmin 4
