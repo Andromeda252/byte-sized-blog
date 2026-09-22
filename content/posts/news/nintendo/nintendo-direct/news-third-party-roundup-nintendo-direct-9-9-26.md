@@ -81,7 +81,9 @@ There's still a lot more in this Direct that I don't have as much to say about, 
 
 That should do it for the third-party content from this month's Nintendo Direct. As you can probably see, it's a wide array of titles spanning numerous genres, and I'd bet that most everyone can find something for them in this lineup.
 
-It's becoming increasingly obvious that third-parties will continue to play a major role in Nintendo Directs going forwards, and that we can continue to expect the kinds of games and announcements we never would've seen in the Directs of old.
+One thing I do want to mention is a game that curiously no-showed at this Direct: From Soft's The Duskbloods. With it having recently wrapped up its Closed Network Test and still supposedly releasing this year, a proper look at The Duskbloods alongside a release date announcement felt all but locked in. And yet, it wasn't there. Obviously, thid has folks, myself included, wondering if the game will end up pushed to 2027. We're rapidly running out of runway for From to actually, y'know, *show us* the game, as I'm pretty sure we've still barely seen any gameplay officially, besides what people posted from the network test. It wouldn't surprise me at all if the game ends up slipping to 2027, but I could also still see it showing up in December. I just hope From tells us what's going on soon.
+
+That aside, it's becoming increasingly obvious that third-parties will continue to play a major role in Nintendo Directs going forwards, and that we can continue to expect the kinds of games and announcements we never would've seen in the Directs of old.
 
 Having all of these high profile third party titles is helping these Directs to feel more complete and content-packed than ever before in my opinion, with very little downtime and filler in between big, noteworthy games. Of course, there's still no guarantee a Direct will cater to any one person's tastes, but with how many games are being stuffed into these things these days, I'd have to imagine that most people will almost always come away from these things with something new to look forward to!
 

@@ -15,11 +15,11 @@ tags:
     - Nintendo Direct
     - Nintendo Switch
     - Nintendo Switch 2
+    - The Legend of Zelda
+    - Zelda 40th Anniversary
     - Metroid Ravenous
     - Kirby and the World Beyond
-    - The Legend of Zelda
     - The Legend of Zelda Ocarina of Time (2026)
-    - Zelda 40th Anniversary
 ---
 
 # The Legend of Zelda 40th Anniversary Direct 9.8.26
@@ -34,9 +34,11 @@ tags:
 
 ## First Party Announcements
 
-### Metroid Ravenous
+- ### Metroid Ravenous (1/28/2027, NS2) - [Read More](https://www.the-byte-sized-blog.com/posts/news-metroid-ravenous-announced), [View Store Page](https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/)
 
-### Kirby and the World Beyond
+*"It’s eat or be eaten for Samus Aran in an all-new 2D adventure, coming to Nintendo Switch 2! Plus, the Metroid Ravenous amiibo collection will release with individual Samus and Chozo Statue figures at launch. A third amiibo in the lineup, Samus (Metroid Suit), will be bundled with a Special Edition that includes the game and a steel game case. Both the standard and special editions launch Jan. 28, 2027, and pre-orders [are available now]."*
+
+- ### Kirby and the World Beyond
 
 ### Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy
 
