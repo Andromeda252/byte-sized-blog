@@ -2,7 +2,7 @@
 title: "Metroid Ravenous is Real, and It's Launching WAY Sooner Than I Thought!"
 excerpt: "It's eat or be eaten."
 category: "News"
-date: "2026-09-18T17:00:00"
+date: "2026-09-21T20:34:00"
 image: "/images/nintendo/switch-2/metroid-ravenous/metroid-ravenous-keyart.avif"
 featured: false
 published: true
