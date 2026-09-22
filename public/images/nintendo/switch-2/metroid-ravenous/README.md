@@ -27,3 +27,7 @@
 ## metroid-ravenous-screenshot-6.avif
 - Source: 'Metroid Ravenous' official Nintendo store page.
 - Link: https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/
+
+## metroid-ravenous-special-edition.avif
+- Source: 'Metroid Ravenous' official Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/metroid-ravenous-switch-2/
