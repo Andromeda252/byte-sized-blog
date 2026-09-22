@@ -2,10 +2,10 @@
 title: "What I've Been Playing: Week of 9/14/2026"
 excerpt: "'You should know that what I'm about to do isn't from any grudges that I carry.' *shoots him 4 times in the head*"
 category: "Play Log"
-date: "2026-09-22T12:45:00"
+date: "2026-09-22T19:54:00"
 image: "/images/nintendo/switch-2/fire-emblem-fortunes-weave/fefw-troy-shoots-a-man-4-times-in-the-head.png"
 featured: false
-published: false
+published: true
 author: "Andromeda"
 sources:
 tags:
@@ -48,6 +48,13 @@ A couple specific things I do want to call attention to: the primary side quest 
 Speaking of Tarrey Town, I can't believe this game has a house-building side objective that I'm only just now finding out about over three years after the game came out. It's nothing super extraordinary, but it's a really neat application of Ultrahand, what with how you modularly stick the rooms together however you like, and it's also a really cool way of following up on the house you helped build for Link in Hateno Village back in Breath of the Wild. Feels like a logical evolution of that idea that plays perfectly into Tears's central mechanic. I like it a lot!
 
 Here's a look at my house by the way:
+
+![A screenshot I took in Tears of the Kingdom of the house I built near Tarrey town.](/images/nintendo/switch-1/zelda-tears-of-the-kingdom/totk-house-tour-1.jpg)
+![A screenshot I took in Tears of the Kingdom of the house I built near Tarrey town.](/images/nintendo/switch-1/zelda-tears-of-the-kingdom/totk-house-tour-2.jpg)
+![A screenshot I took in Tears of the Kingdom of the house I built near Tarrey town.](/images/nintendo/switch-1/zelda-tears-of-the-kingdom/totk-house-tour-3.jpg)
+![A screenshot I took in Tears of the Kingdom of the house I built near Tarrey town.](/images/nintendo/switch-1/zelda-tears-of-the-kingdom/totk-house-tour-4.jpg)
+![A screenshot I took in Tears of the Kingdom of the house I built near Tarrey town.](/images/nintendo/switch-1/zelda-tears-of-the-kingdom/totk-house-tour-5.jpg)
+
 
 While my playthrough of Tears of the Kingdom has dragged on for far longer than I would've liked, I'm still continuing to have a great time with it even three plus years after release. I have no idea how much longer it'll take me to beat it, but I'm clearly in no hurry. I'm still taking the time to soak everything about the game in and really enjoy it. It's just that I keep ending up taking months-long breaks from it, which is why it is taking me this long to get through the game.
 
