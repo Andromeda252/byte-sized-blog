@@ -19,3 +19,30 @@
 ## fefw-nm-sr-true-to-his-colors-thumb.png
 - Source: Screenshot taken by the author in the Nintendo Music mobile app of the thumbnail for the Fire Emblem: Fortune's Weave track "True to His Colors".
 - Note: Cropped from original screenshot.
+
+## fefw-screenshot-1.avif
+- Source: Official Fire Emblem Fortune's Weave Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-switch-2/
+
+## fefw-screenshot-2.avif
+- Source: Official Fire Emblem Fortune's Weave Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-switch-2/
+
+## fefw-screenshot-3.avif
+- Source: Official Fire Emblem Fortune's Weave Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-switch-2/
+
+## fefw-screenshot-4.avif
+- Source: Official Fire Emblem Fortune's Weave Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-switch-2/
+
+## fefw-screenshot-5.avif
+- Source: Official Fire Emblem Fortune's Weave Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-switch-2/
+
+## fefw-screenshot-6.avif
+- Source: Official Fire Emblem Fortune's Weave Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-switch-2/
+
+## fefw-troy-shoots-a-man-4-times-in-the-head.png
+- Source: Screenshot taken from a still of a video captured by the author on Nintendo Switch 2 in Fire Emblem: Fortune's Weave.

@@ -1,9 +1,9 @@
 ---
-title: "What I've Been Playing: Week of 8/24/2026"
-excerpt: "Dang Beatspell got hands."
+title: "What I've Been Playing: Week of 9/14/2026"
+excerpt: "'You should know that what I'm about to do isn't from any grudges that I carry.' *shoots him 4 times in the head*"
 category: "Play Log"
-date: "2026-09-06T12:45:00"
-image: "/images/nintendo/switch-1/rhythm-heaven-groove/rhg-beatspell-screenshot-1.jpg"
+date: "2026-09-22T12:45:00"
+image: "/images/nintendo/switch-2/fire-emblem-fortunes-weave/fefw-troy-shoots-a-man-4-times-in-the-head.png"
 featured: false
 published: false
 author: "Andromeda"
@@ -13,7 +13,6 @@ tags:
     - Fire Emblem Fortune's Weave
     - The Legend of Zelda Tears of the Kingdom
     - Fortnite
-    
 ---
 
 So, I was getting really behind on a bunch of stuff, including the past few weeks play logs and the August Monthly Roundup, so I've ultimately decided to just skip all of that stuff for the sake of not completely drowning myself in things to do.
@@ -55,7 +54,7 @@ Once I do finally get though it, I figure it'll be both a weight off my shoulder
 # Fortnite (NS2)
 - ### Played on Thurs, Fri, and Sat for an approx. total of ~15-20 mins
 
-So, I'd say I like Fortnite. It's not a game I regularly play, but every time I do play it, I have a good time with it. I also can't help but respect just how massive the game has grown, with all the game's within in the game it offers, tools for players to make their own games, and the frankly ridiculous amount of crossover skins and content it has accumulated over the past 8 or so years.
+So, I'd say I like Fortnite. It's not a game I regularly play, but every time I do play it, I have a good time with it. I also can't help but respect just how massive the game has grown, with all the games within in the game it offers, tools for players to make their own games, and the frankly ridiculous amount of crossover skins and content it has accumulated over the past 8 or so years.
 
 And that brings me to the reason for my latest visit to the game. If you take a look around my blog, you'll quickly find that I'm a massive Kingdom Hearts fan. It's really the only non-Nintendo series I've done in-depth coverage of on this blog so far. So when Kingdom Hearts content arrived in Fortnite, you know I had to check it out.
 
@@ -70,7 +69,7 @@ All in all, I think the whole Gaming Legends theme Fortnite has going on for it'
 # Fire Emblem: Fortune's Weave (NS2, New Release)
 - ### Played on Thurs, Fri, Sat, and Sun for an approx. total of ~7 hrs
 
-And finally, we've got the big new release from last week, and the first new first-party Nintendo game in nearly two whole months! Sure, it's not that long of a gap, but with who frequently games were coming out before that gap, it definitely felt like way longer, at least to me.
+And finally, we've got the big new release from last week, and the first new first-party Nintendo game in nearly two whole months! Sure, it's not that long of a gap, but with how frequently games were coming out before that gap, it definitely felt like way longer, at least to me.
 
 That being said, this is a really interesting one for me, as it marks my first foray into a franchise that for the longest time has represented my biggest blind spot in terms of Nintendo's IP catalog. I've always respected Fire Emblem as an outsider looking in, and while I've always intended to give it a try, it's simply never been a top priority for me whenever the opportunites to jump in have come around.
 
@@ -84,3 +83,16 @@ I plan to go further into my early thoughts on the game in a full 'first impress
 
 ## -----------
 
+And that should do it for this week's play log! A shorter one, as there were less games to cover than usual. I'm also trying to be more concise with these, as the length had been spiraling out of control, quite honestly.
+
+I imagine these will continue to be fairly short for the foreseeable future, as I continue to primarily focus on Tears of the Kingdom and Fortune's Weave as the primary games that I am actively playing. Though, we are getting to the point where releases are going to start picking up. Between the Kingdom Hearts Collection and Switch Sports Resort next month and, of course, the Ocarina of Time remake, I should have plenty to keep me busy through the remainder of the year.
+
+Before I close, here's my goals for the week:
+
+- Trim the Current TotK Checklist Down By About Half
+- Play Through the End of Chapter 4 in Cai's Path in Fortune's Weave
+- Start a Second Characters Path in Fortune's Weave
+
+Not sure how realistic it'll be to hit all of these, but if I maximize the free time I have over the next week, I don't think it's too unreasonable to hit them all. I just gotta keep making meaningful progress in both games, as they're both absolutely massive. Just keep chipping away, little by little...
+
+Until next week, happy gaming!

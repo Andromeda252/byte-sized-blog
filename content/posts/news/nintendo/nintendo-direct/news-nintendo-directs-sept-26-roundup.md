@@ -2,7 +2,7 @@
 title: "Rounding Up All the Big News From Last Week's Nintendo Direct Double Feature!"
 excerpt: "Between Zelda, Kirby, Metroid, and everything in between, Nintendo gave Switch 2 owners a lot to be excited about!"
 category: "News"
-date: "2026-09-14T14:06:00"
+date: "2026-09-22T14:06:00"
 image: "/images/nintendo/switch-2/zelda-ocarina-of-time-2026/oot-26-screenshot-1.avif"
 featured: false
 published: false
@@ -15,6 +15,73 @@ tags:
     - Nintendo Direct
     - Nintendo Switch
     - Nintendo Switch 2
+    - Metroid Ravenous
+    - Kirby and the World Beyond
     - The Legend of Zelda
+    - The Legend of Zelda Ocarina of Time (2026)
     - Zelda 40th Anniversary
 ---
+
+# The Legend of Zelda 40th Anniversary Direct 9.8.26
+
+### 'The Legend of Zelda' Movie
+
+### The Legend of Zelda 40th Anniversary Concert
+
+### The Legend of Zelda: Ocarina of Time Remake
+
+# Nintendo Direct 9.9.26
+
+## First Party Announcements
+
+### Metroid Ravenous
+
+### Kirby and the World Beyond
+
+### Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy
+
+### Hyrule Warriors: Age of Calamity - Definitive Edition
+
+### Pokemon Pokopia Expansion Pass - Part 2
+
+### Free Update for Star Fox (2026) + Star Fox Adventures on GameCube: Nintendo Classics
+
+### Xenoblade Chronicles 3: Nintendo Switch 2 Edition
+
+### Nintendo Switch Sports Resort
+
+### Mario Kart World Ver. 1.8.0 Update
+
+## Third Party Announcements
+
+### Monster Hunter Wilds
+
+### Final Fantasy VII Revelation
+
+### Final Fantasy VII Crisis Core Reunion for NS2
+
+### Meccha Chameleon
+
+### Professor Layton and the New World of Steam
+
+### Yokai Watch 2 Remake
+
+### Onyx: The Dark Grip
+
+### Stage Fright
+
+### Cairn
+
+### Resident Evil 2, 3, and 4 Remakes
+
+### Tomb Raider: Legacy of Atlantis
+
+### Mega Man: Dual Override
+
+### Eternal Anima
+
+### Danganronpa 2x2
+
+### Persona 4 Revival
+
+### Persona 6
