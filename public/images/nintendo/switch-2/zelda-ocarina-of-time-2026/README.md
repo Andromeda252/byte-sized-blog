@@ -23,3 +23,7 @@
 ## oot-26-screenshot-3.avif
 - Source: "The Legend of Zelda: Ocarina of Time (2026)" official Nintendo store page on September 8th, 2026.
 - Link: https://www.nintendo.com/us/store/products/the-legend-of-zelda-ocarina-of-time-switch-2/
+
+## oot-26-young-link-amiibo.avif
+- Source: "amiibo™ - Young Link - The Legend of Zelda™: Ocarina of Time Series" official Nintendo store page on September 29th, 2026.
+- Link: https://www.nintendo.com/us/store/products/amiibo-young-link-the-legend-of-zelda-ocarina-of-time-series-127006/
