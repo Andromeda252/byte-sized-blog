@@ -94,13 +94,19 @@ With that out of the way, let's dive right into everything that was announced, s
 
 - ### Pokemon Pokopia Expansion Pass - Part 2 (Late 2026, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=_a6VU78MISA&list=PLCf4BYXbmIPU&index=8) | [View Store Page](https://www.nintendo.com/us/store/products/part-2-70050000074548-switch-2/))
 
+![A screenshot showing the accessories being added in the second part of Pokemon Pokopia's Expansion Pass DLC.](/images/nintendo/switch-2/pokemon-pokopia/pokopia-dlc-part-2-screenshot-1.avif)
+
 *"Express yourself in Part 2 of the Pokémon Pokopia Expansion Pass paid DLC¹! Dress up with new in-game accessories like sunglasses, ribbons and bow ties, and coordinate looks with Ditto and other Pokémon appearing in Pokémon Pokopia. With even more customization options and fashionable combinations to discover, Part 2 brings plenty of style to your Pokémon adventures later this year. The Pokémon Pokopia Expansion Pass paid DLC is available to purchase now."*
 
 - ### Free Update for Star Fox (2026) (9/29/2026, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=nII6La_oLNo&list=PLCf4BYXbmIPU&index=9))
 
+![A screenshot showing the new four-player split-screen option being added in the free update to the battle mode in Star Fox (2026).](/images/nintendo/switch-2/star-fox-2026/star-fox-2026-split-screen-update.avif)
+
 *"A free update is heading to Star Fox on Nintendo Switch 2 on Sept. 29! Battle Mode is expanding with support for up to four players to play together on a single Nintendo Switch 2 system, including facing off against each other in local play and forming a team to join online battles. Three new stages are also being added: battle for control of a powerful laser on Katina, destroy asteroids while dodging destructive energy waves in Sector X, and scan data modules before escaping a deadly surge on Venom."*
 
 - ### Star Fox Adventures on GameCube: Nintendo Classics (Available Now, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=fcwlg9KJcm0&list=PLCf4BYXbmIPU&index=10))
+
+![A screenshot of the title screen from Star Fox Adventures.](/images/nintendo/gamecube/star-fox-adventures/sfa-title-screen.avif)
 
 *"Star Fox Adventures joins the Nintendo GameCube – Nintendo Classics library. Team up with trusty companion Tricky and explore a dinosaur-filled world in this classic adventure, available on Nintendo Switch 2 for Nintendo Switch Online + Expansion Pack members.*"
 
@@ -112,13 +118,19 @@ With that out of the way, let's dive right into everything that was announced, s
 
 - ### Xenoblade Chronicles 3: Nintendo Switch 2 Edition (12/3/2026, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=a4DiPlQcH_c&list=PLCf4BYXbmIPU&index=18) | [View Store Page](https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-nintendo-switch-2-edition-switch-2/))
 
+![A screenshot showing the new Hero, Shimmer, being added in the Switch 2 Edition of Xenoblade Chronicles 3.](/images/nintendo/switch-1/xenoblade-chronicles-3/xc3-ns2e-shimmer.avif)
+
 *"New challenges and allies await in Aionios. Take on waves of enemies in the new Heroes’ Vault mode, where each victory lets you strengthen your party with enhanced abilities or additional allies before facing a powerful final foe. Also, Shimmer joins the adventure as a new Hero, bringing rapid-fire combos and powerful strikes, plus the Foresight ability that allows her to see the future. Xenoblade Chronicles 3 – Nintendo Switch 2 Edition launches Dec. 3 alongside an upgrade pack for players who already have Xenoblade Chronicles 3 for Nintendo Switch."*
 
 - ### Mario Kart World Ver. 1.8.0 Update (Available Now, NS2) - ([Read More](https://www.the-byte-sized-blog.com/posts/news-mario-kart-world-version-1-8-0) | [Watch Trailer](https://www.youtube.com/watch?v=8nX7R2DI_tE&list=PLCf4BYXbmIPU&index=29))
 
-*"Classic courses from Super Mario Kart have been hiding in plain sight across the continent of Mario Kart World, and now 10 of them can be played as standalone races in VS Race. Tear through Choco Island, Vanilla Lake, Ghost Valley and more, complete with ? Panels that grant items just like in the Super NES original. The update also adds two new Knockout Tour routes, Propeller Rally and Turnip Rally, plus a Spectator Mode when playing with friends online³ or via LAN Play⁴. The free update is available [now]."*
+![A screenshot of SNES Mario Circuit in Mario Kart World.](/images/nintendo/switch-2/mario-kart-world/mkw-mario-circuit-classic-screenshot.avif)
+
+*"Classic courses from Super Mario Kart have been hiding in plain sight across the continent of Mario Kart World, and now 10 of them can be played as standalone races in VS Race. Tear through Choco Island, Vanilla Lake, Ghost Valley and more, complete with ? Panels that grant items just like in the Super NES original. The update also adds two new Knockout Tour routes, Propeller Rally and Turnip Rally, plus a Spectator Mode when playing with friends online or via LAN Play. The free update is available [now]."*
 
 - ### Kirby Air Riders Sword Kirby and Noir Dedede amiibo (11/12/2026) + New In-Game Event (Later This Year, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=ycsXjkrbtqc&list=PLCf4BYXbmIPU&index=23) | [View Store Page (Sword Kirby & Dragoon)](https://www.nintendo.com/us/store/products/amiibo-sword-kirby-dragoon-kirby-air-riders-series-125234/) | [View Store Page (Noir Dedede & Hydra)](https://www.nintendo.com/us/store/products/amiibo-noir-dedede-hydra-kirby-air-riders-series-125233/))
+
+![The final two Kirby Air Riders amiibo, featuring Sword Kirby on the Dragoon and Noir Dedede on the Hydra.](/images/nintendo/switch-2/kirby-air-riders/kar-sword-kirby-noir-dedede-amiibo.avif)
 
 *"The Kirby Air Riders amiibo lineup reaches the finish line on Nov. 12 with the release of Sword Kirby & Dragoon and Noir Dedede & Hydra. An upcoming Kirby Air Riders in-game event will also offer rewards and refresh the look of the main menu and Paddock. More information will be revealed at a later date."*
 
@@ -136,13 +148,53 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"The acclaimed hunting action game comes to the Nintendo Switch 2 system. Venture into the Forbidden Lands to track and hunt massive monsters, craft gear and uncover the mysteries of an ever-changing world. Whether playing at home or on the go, hunters can team up locally via wireless play or join friends online with full cross-platform multiplayer support. All Title Update content is included, such as the Grand Hub, fan-favorite monsters like Mizutsune and Lagiacrus, the FINAL FANTASY XIV Online collaboration and more. Monster Hunter Wilds launches for Nintendo Switch 2 on Dec. 4. The massive expansion, Monster Hunter Wilds: Ascendance, will also be coming to Nintendo Switch 2 in 2027."*
 
-- ### Cairn (Early 2027, NS2)
+- ### Final Fantasy VII Revelation (4/8/2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=egHsxXxNXLk&list=PLCf4BYXbmIPU&index=4) | [View Store Page](https://www.nintendo.com/us/store/products/final-fantasy-vii-revelation-switch-2/))
+
+![The keyart for Final Fantasy VII Revelation.](/images/third-parties/square-enix/final-fantasy/final-fantasy-vii-revelation/ffvii-rev-keyart.avif)
+
+*"The third and final entry in the FINAL FANTASY VII remake project is coming to Nintendo Switch 2. As Sephiroth moves closer to achieving godhood, Cloud and his companions take to the skies aboard the airship Highwind in a race to stop Meteor, the ultimate destructive magic, and save the planet. Players will explore a vast world, take on powerful enemies and experience the culmination of 30 years of FINAL FANTASY VII storytelling when Final Fantasy VII Revelation launches for Nintendo Switch 2 on April 8, 2027."*
+
+- ### Crisis Core -Final Fantasy VII- Reunion (Availble Now, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=52XI7iyjYJk&list=PLCf4BYXbmIPU&index=5) | [View Store Page](https://www.nintendo.com/us/store/products/crisis-core-final-fantasy-vii-reunion-switch-2/))
+
+![The keyart for Crisis Core -Final Fantasy VII- Reunion.](/images/third-parties/square-enix/final-fantasy/crisis-core-final-fantasy-vii-reunion/cc-ffvii-reunion-keyart.avif)
+
+*"Follow the story of Shinra SOLDIER operative Zack Fair in this remaster of the action RPG that takes place seven years before the events of FINAL FANTASY VII. As Zack teams up with Sephiroth to investigate the disappearance of a fellow SOLDIER, he uncovers dark secrets that challenge everything he believes, forcing him to forge his own path as a hero to protect the ones he loves. Available [now] on Nintendo Switch 2 with a complete HD graphics overhaul of the character models, UI and background, fully voiced dialogue in English and Japanese, an updated action combat system and a newly arranged soundtrack by original composer Takeharu Ishimoto."*
+
+- ### Resident Evil 2 Deluxe Edition, Resident Evil 3, and Resident Evil 4 Gold Edition (10/16/2026, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=iOBBvmV2Q8A&list=PLCf4BYXbmIPU&index=25) | [View Store Page (Resident Evil 2 Deluxe Edition)](https://www.nintendo.com/us/store/products/resident-evil-2-deluxe-edition-switch-2/) | [View Store Page (Resident Evil 3)](https://www.nintendo.com/us/store/products/resident-evil-3-switch-2/) | [View Store Page (Resident Evil 4 Gold Edition)](https://www.nintendo.com/us/store/products/resident-evil-4-gold-edition-switch-2/))
+
+![The keyart for Resident Evil 4 Gold Edition.](/images/third-parties/capcom/resident-evil/resident-evil-4-2023/re4-23-ge-keyart.avif)
+
+*"Experience three acclaimed survival horror adventures on Nintendo Switch 2! Each preserves the essence of the original games while being reimagined with fresh ideas powered by the RE ENGINE. Resident Evil 2 Deluxe Edition and Resident Evil 4 Gold Edition also include a wealth of additional content from the original versions. Digital versions of all three titles launch on Oct. 16 and pre-orders [are available now], with a limited-time early adopter discount available through Nov. 7, 2026."*
+
+- ### Meccha Chameleon (Available Now, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=hnXbU-pIgN8&list=PLCf4BYXbmIPU&index=7) | [View Store Page](https://www.nintendo.com/us/store/products/meccha-chameleon-switch-2/))
+
+![The keyart for Meccha Chameleon.](/images/indies/meccha-chameleon/meccha-chameleon-keyart.avif)
+
+*"Blend into your surroundings in this competitive multiplayer game that combines drawing and hide-and-seek. Strike a pose and paint yourself to become one with nearby walls, furniture or ornaments using colors and patterns while the “It” team searches for hidden players. Supporting 1-12 players online, every match rewards creativity and quick thinking. Available [now] for Nintendo Switch 2 on Nintendo eShop."*
+
+- ### Tomb Raider: Legacy of Atlantis (2/12/2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=0fG2mhBgTH4&list=PLCf4BYXbmIPU&index=26) | [View Store Page](https://www.nintendo.com/us/store/products/tomb-raider-legacy-of-atlantis-switch-2/))
+
+![The keyart for Tomb Raider: Legacy of Atlantis.](/images/third-parties/amazon-games/tomb-raider/tomb-raider-legacy-of-atlantis/tr-loa-keyart.avif)
+
+*"Lara Croft returns in a reimagining of her iconic adventure, rebuilt from the ground up for a new generation. Join the legendary archeologist on a globe-trotting quest to recover the scattered pieces of the Scion, a powerful ancient artifact. Travel from the jungles of Peru and ancient ruins of Greece to the tombs of Egypt, overcoming deadly traps and predators with Lara’s signature acrobatic abilities and dual pistols. Pre-orders are available now on Nintendo eShop. Deluxe Edition pre-orders include the Lara Croft Survivor Outfit, 48-hour early launch access, a DLC Story Pack and the Lara Croft Parisian Fugitive Outfit. Standard Edition pre-orders include the Lara Croft Survivor Outfit. Tomb Raider: Legacy of Atlantis launches for Nintendo Switch 2 on Feb. 12, 2027."*
+
+- ### Cairn (Early 2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=wqNfImlqR_I&list=PLCf4BYXbmIPU&index=24) | [View Store Page](https://www.nintendo.com/us/store/products/cairn-switch-2/))
+
+![The keyart for Cairn.](/images/indies/cairn/cairn-keyart.avif)
 
 *"As pro climber Aava, set out to conquer the legendary Mount Kami in this acclaimed climbing simulation with a deeply human story about overcoming impossible odds. Climb anywhere, plan your route carefully and manage resources throughout the expedition. The whole mountain is yours to explore as you uncover mysteries and push beyond your limits in pursuit of absolute freedom. A free demo [is available now] on Nintendo eShop, ahead of the game’s Nintendo Switch 2 launch early next year."*
 
-- ### Crisis Core -Final Fantasy VII- Reunion (Availble Now, NS2)
+- ### Fatal Fury: City of the Wolves (Digital 10/22/2026, Physical January 2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=7Za4-IxvxEs&list=PLCf4BYXbmIPU&index=40) | [View Store Page](https://www.nintendo.com/us/store/products/fatal-fury-city-of-the-wolves-standard-edition-switch-2/))
 
-*"Follow the story of Shinra SOLDIER operative Zack Fair in this remaster of the action RPG that takes place seven years before the events of FINAL FANTASY VII. As Zack teams up with Sephiroth to investigate the disappearance of a fellow SOLDIER, he uncovers dark secrets that challenge everything he believes, forcing him to forge his own path as a hero to protect the ones he loves. Available [now] on Nintendo Switch 2 with a complete HD graphics overhaul of the character models, UI and background, fully voiced dialogue in English and Japanese, an updated action combat system and a newly arranged soundtrack by original composer Takeharu Ishimoto."*
+![The keyart for Fatal Fury: City of the Wolves.](/images/third-parties/snk/fatal-fury/fatal-fury-city-of-the-wolves/ff-cotw-keyart.avif)
+
+*"The acclaimed fighting game arrives on Nintendo Switch 2 with intense battles, unique fighters and the REV System, designed to accelerate the intensity of battle. The Starter Edition of the game includes Mikey and Draken from the Tokyo Revengers anime as playable guest characters, plus all previously released DLC fighters. FATAL FURY: City of the Wolves launches digitally on Oct. 22. Pre-orders [are available now] and include a bonus alternate costume for Mai Shiranui. A physical version will launch in January 2027."*
+
+- ### LEGO Batman: Legacy of the Dark Knight (9/18/2026, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=IWjpIPYlBho&list=PLCf4BYXbmIPU&index=22) | [View Store Page](https://www.nintendo.com/us/store/products/lego-batman-legacy-of-the-dark-knight-switch-2/))
+
+![The keyart for LEGO Batman: Legacy of the Dark Knight.](/images/third-parties/wb-games/lego-batman-legacy-of-the-dark-knight/lego-batman-lotdk-keyart.avif)
+
+*"Experience the essential Batman story in a bold action-adventure featuring hard-hitting combat, an open-world Gotham City and signature LEGO charm. The Deluxe Edition includes the Mayhem Collection DLC, which includes a new story mission, Mayhem Mode and a villain-themed Sinister Pack featuring The Joker and Harley Quinn. LEGO Batman: Legacy of the Dark Knight launches for Nintendo Switch 2 on Sept. 18. Pre-orders are available now."*
 
 - ### Danganronpa 2x2 (1/14/2027, NS and NS2)
 
@@ -156,25 +208,10 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"Embark on a dramatic time-travel adventure in a world that erased its own history. After a routine investigation leads peacekeeper Wade to question the city’s key tenet — that change and progress are heresy — he finds himself on an era-spanning journey to forge alliances across generations, uncover the truth, save the past and free the present. Take advantage of Wade’s unique Psychometry powers and inherit ancestral skills lost across time, such as Future Sight, to strategically manipulate the battlefield in turn-based combat. Eternal Anima launches for the Nintendo Switch 2 system on March 4, 2027."*
 
-- ### Fatal Fury: City of the Wolves (Digital 10/22/2026, Physical January 2027, NS2)
-
-*"The acclaimed fighting game arrives on Nintendo Switch 2 with intense battles, unique fighters and the REV System, designed to accelerate the intensity of battle. The Starter Edition of the game includes Mikey and Draken from the Tokyo Revengers anime as playable guest characters, plus all previously released DLC fighters. FATAL FURY: City of the Wolves launches digitally on Oct. 22. Pre-orders [are available now] and include a bonus alternate costume for Mai Shiranui. A physical version will launch in January 2027."*
-
-- ### Final Fantasy VII Revelation (4/8/2027, NS2)
-
-*"The third and final entry in the FINAL FANTASY VII remake project is coming to Nintendo Switch 2. As Sephiroth moves closer to achieving godhood, Cloud and his companions take to the skies aboard the airship Highwind in a race to stop Meteor, the ultimate destructive magic, and save the planet. Players will explore a vast world, take on powerful enemies and experience the culmination of 30 years of FINAL FANTASY VII storytelling when Final Fantasy VII Revelation launches for Nintendo Switch 2 on April 8, 2027."*
-
 - ### Kingdom Come: Deliverance II Royal Edition (2027, NS2)
 
 *"Step into 15th-century Bohemia as Henry of Skalitz in this award-winning first-person open-world RPG. Fight, sneak or talk your way through a tale of revenge, loyalty and discovery in a rich medieval world where quests are shaped by player choice and every decision carries lasting consequences. Kingdom Come: Deliverance II Royal Edition launches for Nintendo Switch 2 in 2027 and includes the base game, all premium story expansions, exclusive gear and a bonus questline."*
 
-- ### LEGO Batman: Legacy of the Dark Knight (9/18/2026, NS2)
-
-*"Experience the essential Batman story in a bold action-adventure featuring hard-hitting combat, an open-world Gotham City and signature LEGO charm. The Deluxe Edition includes the Mayhem Collection DLC, which includes a new story mission, Mayhem Mode and a villain-themed Sinister Pack featuring The Joker and Harley Quinn. LEGO Batman: Legacy of the Dark Knight launches for Nintendo Switch 2 on Sept. 18. Pre-orders are available now."*
-
-- ### Meccha Chameleon (Available Now, NS2)
-
-*"Blend into your surroundings in this competitive multiplayer game that combines drawing and hide-and-seek. Strike a pose and paint yourself to become one with nearby walls, furniture or ornaments using colors and patterns while the “It” team searches for hidden players. Supporting 1-12 players online, every match rewards creativity and quick thinking. Available [now] for Nintendo Switch 2 on Nintendo eShop."*
 
 - ### Mega Man: Dual Override + Mega Man and Proto Man amiibo Figures (Spring 2027, NS and NS2)
 
@@ -200,10 +237,6 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"Professor Layton and his trusted assistant Luke return in an all-new installment of the puzzle-solving adventure series set at the dawn of the industrial age. After receiving a letter from Luke, the professor travels to Steam Bison, a rapidly developing American town plagued by mysterious incidents. Solve puzzles, uncover clues and follow the duo’s search for the truth when Professor Layton and the New World of Steam launches for Nintendo Switch 2 and Nintendo Switch on Dec. 10."*
 
-- ### Resident Evil 2 Deluxe Edition, Resident Evil 3, and Resident Evil 4 Gold Edition (10/16/2026, NS2)
-
-*"Experience three acclaimed survival horror adventures on Nintendo Switch 2! Each preserves the essence of the original games while being reimagined with fresh ideas powered by the RE ENGINE. Resident Evil 2 Deluxe Edition and Resident Evil 4 Gold Edition also include a wealth of additional content from the original versions. Digital versions of all three titles launch on Oct. 16 and pre-orders [are available now], with a limited-time early adopter discount available through Nov. 7, 2026."*
-
 - ### Romancing SaGa 3: Destinies United (2/16/2027, NS and NS2)
 
 *"The classic 1995 RPG returns as a full 3D remake featuring modern graphics, voice acting, newly arranged music and more. Choose from eight protagonists and embark on a free-form adventure where decisions shape the journey and quests can be tackled in any order. Master turn-based battles and use the franchise’s signature Glimmer system to acquire new abilities. Romancing SaGa 3: Destinies United launches for Nintendo Switch 2 and Nintendo Switch on Feb. 16, 2027."*
@@ -211,10 +244,6 @@ With that out of the way, let's dive right into everything that was announced, s
 - ### Stage Fright (2027, NS and NS2)
 
 *"From the creators of the worldwide hit OVERCOOKED! comes a new cooperative experience for the Nintendo Switch 2 and Nintendo Switch systems. Two players must work together to explore, solve escape rooms and unravel an ancient mystery to rescue a missing friend in a charming coming-of-age story full of heart. Play online or side-by-side in local co-op together or via GameShare when the game launches in 2027."*
-
-- ### Tomb Raider: Legacy of Atlantis (2/12/2027, NS2)
-
-*"Lara Croft returns in a reimagining of her iconic adventure, rebuilt from the ground up for a new generation. Join the legendary archeologist on a globe-trotting quest to recover the scattered pieces of the Scion, a powerful ancient artifact. Travel from the jungles of Peru and ancient ruins of Greece to the tombs of Egypt, overcoming deadly traps and predators with Lara’s signature acrobatic abilities and dual pistols. Pre-orders are available now on Nintendo eShop. Deluxe Edition pre-orders include the Lara Croft Survivor Outfit, 48-hour early launch access, a DLC Story Pack and the Lara Croft Parisian Fugitive Outfit. Standard Edition pre-orders include the Lara Croft Survivor Outfit. Tomb Raider: Legacy of Atlantis launches for Nintendo Switch 2 on Feb. 12, 2027."*
 
 - ### The Witcher 3: Wild Hunt - Remastered (9/29/2026, NS2) + Songs of the Past Expansion (2027, NS2)
 

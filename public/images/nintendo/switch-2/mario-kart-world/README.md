@@ -100,3 +100,7 @@
 ## mkw-turnip-rally-route.avif
 - Source: 'Mario Kart World adds SNES courses and Knockout Tour routes in a free update' news article on Nintendo's official website.
 - Link: https://www.nintendo.com/us/whatsnew/mario-kart-world-adds-snes-courses-and-knockout-tour-routes-in-a-free-update/
+
+## mkw-mario-circuit-classic-screenshot.avif
+- Source: 'Nintendo Direct reveals Metroid Ravenous, Kirby and the World Beyond, and more games for Nintendo Switch 2 and Nintendo Switch' news article on Nintendo's official website.
+- Link: https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/
