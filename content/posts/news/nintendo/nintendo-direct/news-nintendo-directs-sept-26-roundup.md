@@ -2,15 +2,24 @@
 title: "Rounding Up All the Big News From This Month's Nintendo Direct Double Feature!"
 excerpt: "Between Zelda, Kirby, Metroid, and everything in between, Nintendo gave Switch 2 owners a lot to be excited about!"
 category: "News"
-date: "2026-09-29T14:06:00"
+date: "2026-09-30T16:16:00"
 image: "/images/nintendo/switch-2/zelda-ocarina-of-time-2026/oot-26-screenshot-1.avif"
-featured: false
-published: false
+featured: true
+published: true
 author: "Andromeda"
 sources:
-    - title: "Nintendo Today! App"
-    - title: The Legend of Zelda 40th Anniversary Direct 9.8.2026 and Nintendo Direct 9.9.2026 - Official Nintendo Website
+    - title: The Legend of Zelda 40th Anniversary Direct 9.8.2026 - Official Nintendo Website
       url: https://www.nintendo.com/us/nintendo-direct/9-8-2026/
+    - title: Nintendo Direct 9.9.2026 - Official Nintendo Website
+      url: https://www.nintendo.com/us/nintendo-direct/9-9-2026/
+    - title: Nintendo Direct reveals Metroid Ravenous, Kirby and the World Beyond, and more games for Nintendo Switch 2 and Nintendo Switch - Official Nintendo Website
+      url: https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/
+    - title: The Legend of Zelda 40th Anniversary celebration revealed in new Nintendo Direct presentation - Official Nintendo Website
+      url: https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-40th-anniversary-celebration-revealed-in-new-nintendo-direct-presentation/
+    - title: Nintendo Direct 9.9.2026 + Nintendo Treehouse Live Playlist - Official Nintendo YouTube Channel
+      url: https://www.youtube.com/playlist?list=PLCf4BYXbmIPU
+    - title: The Legend of Zelda 40th Anniversary Direct 9.8.2026 Playlist - Official Nintendo YouTube Channel
+      url: https://www.youtube.com/playlist?list=PLG5DmXHkjq9M
 tags:
     - Nintendo Direct
     - Nintendo Switch
@@ -22,13 +31,15 @@ tags:
     - The Legend of Zelda Ocarina of Time (2026)
 ---
 
-So, I'm incredibly late to this. It's been hard for me to make time for to get this done, as the past month has been crazy busy. But, I still wanted to follow through and establish the format I'll be using for these things going forwards, so I can more quickly get them out for future Directs!
+So, I'm incredibly late to this. It's been hard for me to find time to get this done, as the past month has been crazy busy. But, I still wanted to follow through and establish the format I'll be using for these things going forwards, so I can more quickly get them out for future Directs!
 
-That being said, the the pair of Nintendo Directs that we got back at the beginning of September delivered a ton of exciting news, bringing the next few months of Switch 2 in to focus with big announcements from Nintendo's own franchises, as well as from their third party development and publishing partners.
+That being said, the pair of Nintendo Directs that we got back at the beginning of September delivered a ton of exciting news, bringing the next few months of Switch 2 into focus with big announcements from Nintendo's own franchises, as well as from their third party development and publishing partners.
 
 Between our first real look at a legendary game's rebirth, a visceral new entry in one of Nintendo's more intense franchises, and a glimpse into a freely explorable Dream Land that may be no more than an illusion, these Directs gave us plenty to look forward to in the months ahead! 
 
-I'll be listing everything out, providing links to the official trailer and store page, as well as my own write ups where applicable. The descriptions are taken straight from [Nintendo's own roundup](https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/), as if I tried to write out descriptions myself, I'd be here forever. This is less a means of providing my own thoughts on each announcement, and moreso a one-stop roundup for everything you need to know. Though, I did make some alterations to remove any mentions of things happening 'later today', as, well, it *has* been three weeks so that language isn't exactly accurate anymore. Any alterations to those descriptions are in [brackets].
+I'll be listing everything out, providing links to the official trailer and store page, as well as my own write ups where applicable. The descriptions are taken straight from [Nintendo's](https://www.nintendo.com/us/whatsnew/the-legend-of-zelda-40th-anniversary-celebration-revealed-in-new-nintendo-direct-presentation/) [own roundups](https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/), as if I tried to write out descriptions myself, I'd be here forever. This is less a means of providing my own thoughts on each announcement, and moreso a one-stop roundup for everything you need to know. Though, I did make some alterations to remove any mentions of things happening 'later today', as, well, it *has* been three weeks so that language isn't exactly accurate anymore. Any alterations to those descriptions are in [brackets].
+
+And if you'd like to watch the Directs for yourself, check them out [right](https://www.nintendo.com/us/nintendo-direct/9-8-2026/) [here!](https://www.nintendo.com/us/nintendo-direct/9-9-2026/)
 
 With that out of the way, let's dive right into everything that was announced, starting with the Zelda 40th Anniversary Direct!
 
@@ -142,11 +153,17 @@ With that out of the way, let's dive right into everything that was announced, s
 
 ## Third Party Announcements
 
+If you'd like to hear some of my more in-depth thoughts on the third-party offerings in this Direct, check out [this post!](https://www.the-byte-sized-blog.com/posts/news-third-party-roundup-nintendo-direct-9-9-26)
+
 - ### Monster Hunter Wilds (12/4/2026, NS2) + Monster Hunter Wilds: Ascendance (2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=bA8HYCvG0W8&list=PLCf4BYXbmIPU&index=3) | [View Store Page](https://www.nintendo.com/us/store/products/monster-hunter-wilds-switch-2/))
 
 ![The keyart for Monster Hunter Wilds.](/images/third-parties/capcom/monster-hunter/monster-hunter-wilds/mhwilds-keyart.avif)
 
 *"The acclaimed hunting action game comes to the Nintendo Switch 2 system. Venture into the Forbidden Lands to track and hunt massive monsters, craft gear and uncover the mysteries of an ever-changing world. Whether playing at home or on the go, hunters can team up locally via wireless play or join friends online with full cross-platform multiplayer support. All Title Update content is included, such as the Grand Hub, fan-favorite monsters like Mizutsune and Lagiacrus, the FINAL FANTASY XIV Online collaboration and more. Monster Hunter Wilds launches for Nintendo Switch 2 on Dec. 4. The massive expansion, Monster Hunter Wilds: Ascendance, will also be coming to Nintendo Switch 2 in 2027."*
+
+- ### Persona 6 (TBA, NS2) + Persona 4 Revival (5/20/2027, NS2) - ([Watch Trailer (Persona 4 Revival)](https://www.youtube.com/watch?v=pvjTOhXVSKY&list=PLCf4BYXbmIPU&index=37) | [Watch Trailer (Persona 6)](https://www.youtube.com/watch?v=iAMM22ZeklA&list=PLCf4BYXbmIPU&index=38))
+
+*"From the acclaimed Persona series comes a brand-new adventure and the remake of a beloved classic for Nintendo Switch 2. Persona 6 brings the series’ signature blend of daily life, social bonds and supernatural adventure to an all-new standalone story featuring a fresh cast of characters. Meanwhile, Persona 4 Revival revisits the mystery of the Midnight Channel, where a series of bizarre murders draws a group of friends into a supernatural investigation. Strengthen bonds, awaken a hidden power called “Persona” and experience strategic turn-based battles in two unforgettable RPG adventures. Persona 4 Revival launches for Nintendo Switch 2 on May 20, 2027."*
 
 - ### Final Fantasy VII Revelation (4/8/2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=egHsxXxNXLk&list=PLCf4BYXbmIPU&index=4) | [View Store Page](https://www.nintendo.com/us/store/products/final-fantasy-vii-revelation-switch-2/))
 
@@ -154,7 +171,7 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"The third and final entry in the FINAL FANTASY VII remake project is coming to Nintendo Switch 2. As Sephiroth moves closer to achieving godhood, Cloud and his companions take to the skies aboard the airship Highwind in a race to stop Meteor, the ultimate destructive magic, and save the planet. Players will explore a vast world, take on powerful enemies and experience the culmination of 30 years of FINAL FANTASY VII storytelling when Final Fantasy VII Revelation launches for Nintendo Switch 2 on April 8, 2027."*
 
-- ### Crisis Core -Final Fantasy VII- Reunion (Availble Now, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=52XI7iyjYJk&list=PLCf4BYXbmIPU&index=5) | [View Store Page](https://www.nintendo.com/us/store/products/crisis-core-final-fantasy-vii-reunion-switch-2/))
+- ### Crisis Core -Final Fantasy VII- Reunion (Available Now, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=52XI7iyjYJk&list=PLCf4BYXbmIPU&index=5) | [View Store Page](https://www.nintendo.com/us/store/products/crisis-core-final-fantasy-vii-reunion-switch-2/))
 
 ![The keyart for Crisis Core -Final Fantasy VII- Reunion.](/images/third-parties/square-enix/final-fantasy/crisis-core-final-fantasy-vii-reunion/cc-ffvii-reunion-keyart.avif)
 
@@ -196,66 +213,70 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"Experience the essential Batman story in a bold action-adventure featuring hard-hitting combat, an open-world Gotham City and signature LEGO charm. The Deluxe Edition includes the Mayhem Collection DLC, which includes a new story mission, Mayhem Mode and a villain-themed Sinister Pack featuring The Joker and Harley Quinn. LEGO Batman: Legacy of the Dark Knight launches for Nintendo Switch 2 on Sept. 18. Pre-orders are available now."*
 
-- ### Danganronpa 2x2 (1/14/2027, NS and NS2)
+- ### Romancing SaGa 3: Destinies United (2/16/2027, NS and NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=wtX1kIvG7-g&list=PLCf4BYXbmIPU&index=35) | [View Store Page](https://www.nintendo.com/us/store/products/romancing-saga-3-destinies-united-switch-2/))
 
-*"A new murderous game begins in this latest entry in the Danganronpa series. Featuring a visually enhanced version of the original Danganronpa 2: Goodbye Despair scenario alongside a brand-new story with the same setting and characters, players will investigate an entirely new set of victims, culprits and tricks. Reveal the truth by exposing contradictions during high-speed Class Trials and uncover the culprit behind each case when Danganronpa 2x2 launches for Nintendo Switch 2 and Nintendo Switch on Jan. 14, 2027."*
-
-- ### Disney Dreamlight Valley: The Keepsake Sea (November 2026, NS and NS2)
-
-*"Journey beneath the waves in the newest Disney Dreamlight Valley expansion, arriving on Nintendo Switch 2 and Nintendo Switch this November. Embark on an adventure to a faraway kingdom and discover strange echoes of its past as a magical Merfolk, where you’ll explore new biomes with customizable areas and enjoy a brand-new storyline that features Milo Thatch from Disney’s Atlantis: The Lost Empire, Jack Sparrow from Disney’s Pirates of the Caribbean and Megara from Disney’s Hercules."*
-
-- ### Eternal Anima (3/4/2027, NS2)
-
-*"Embark on a dramatic time-travel adventure in a world that erased its own history. After a routine investigation leads peacekeeper Wade to question the city’s key tenet — that change and progress are heresy — he finds himself on an era-spanning journey to forge alliances across generations, uncover the truth, save the past and free the present. Take advantage of Wade’s unique Psychometry powers and inherit ancestral skills lost across time, such as Future Sight, to strategically manipulate the battlefield in turn-based combat. Eternal Anima launches for the Nintendo Switch 2 system on March 4, 2027."*
-
-- ### Kingdom Come: Deliverance II Royal Edition (2027, NS2)
-
-*"Step into 15th-century Bohemia as Henry of Skalitz in this award-winning first-person open-world RPG. Fight, sneak or talk your way through a tale of revenge, loyalty and discovery in a rich medieval world where quests are shaped by player choice and every decision carries lasting consequences. Kingdom Come: Deliverance II Royal Edition launches for Nintendo Switch 2 in 2027 and includes the base game, all premium story expansions, exclusive gear and a bonus questline."*
-
-
-- ### Mega Man: Dual Override + Mega Man and Proto Man amiibo Figures (Spring 2027, NS and NS2)
-
-*"Proto Man joins Mega Man as a playable character in this new entry in the classic action series. Players can jump in with Proto Man’s versatile shield-based fighting style or use Mega Man’s ranged firepower, then personalize their playstyle by equipping Custom Chips to mix and match abilities. Both characters can unleash an all-new, powerful Override form to blast beyond their limits and defeat formidable Robot Masters. Mega Man: Dual Override launches for Nintendo Switch 2 and Nintendo Switch in spring 2027. Mega Man and Proto Man amiibo figures will also be available the same day."*
-
-- ### Metal Slug Ultimate Collection (2027, NS and NS2)
-
-*"Celebrate 30 years of run-and-gun action with a collection of 10 classic METAL SLUG titles. Team up in online multiplayer, compete on Online Leaderboards and explore a gallery of artwork and music from across the series. Combat School Mode returns with expanded content, alongside the long-lost location test version of METAL SLUG. Enjoy timeless action when METAL SLUG ULTIMATE COLLECTION launches for Nintendo Switch 2 and Nintendo Switch in 2027."*
-
-- ### Ondeh Ondeh Kaya's Tasty Tale (2027, NS2)
-
-*"Taste the tempo in this 3D adventure platformer built around music-based puzzles. Become Kaya as you take on a heartwarming coming-of-age journey through the magical world of Selera to become a Worldbuilder. Solve puzzles, unlock new abilities and wield Kaya’s Spoon as you battle whimsical foes, explore regions inspired by the rich cultures of Southeast Asia, meet new friends and uncover hidden surprises. Ondeh Ondeh Kaya's Tasty Tale launches for Nintendo Switch 2 in 2027."*
-
-- ### Onyx: The Dark Grip (2027, NS2)
-
-*"Survive as a vessel and interfere as a god in this 2.5D supernatural horror game developed by Bloober Team exclusively for Nintendo Switch 2. Play as the mysterious Entity, guiding the actions of a lone traveler who arrives in a desolate ghost town. Manipulate the environment with your supernatural powers, solve puzzles, confront terrifying creatures and don’t let your puppet descend into the depths of madness. Blur the line between the game world and reality when Onyx: The Dark Grip launches for Nintendo Switch 2 in 2027.*"
-
-- ### Persona 6 (TBA, NS2) + Persona 4 Revival (5/20/2027, NS2)
-
-*"From the acclaimed Persona series comes a brand-new adventure and the remake of a beloved classic for Nintendo Switch 2. Persona 6 brings the series’ signature blend of daily life, social bonds and supernatural adventure to an all-new standalone story featuring a fresh cast of characters. Meanwhile, Persona 4 Revival revisits the mystery of the Midnight Channel, where a series of bizarre murders draws a group of friends into a supernatural investigation. Strengthen bonds, awaken a hidden power called “Persona” and experience strategic turn-based battles in two unforgettable RPG adventures. Persona 4 Revival launches for Nintendo Switch 2 on May 20, 2027."*
-
-- ### Professor Layton and the New World of Steam (12/10/2026, NS and NS2)
-
-*"Professor Layton and his trusted assistant Luke return in an all-new installment of the puzzle-solving adventure series set at the dawn of the industrial age. After receiving a letter from Luke, the professor travels to Steam Bison, a rapidly developing American town plagued by mysterious incidents. Solve puzzles, uncover clues and follow the duo’s search for the truth when Professor Layton and the New World of Steam launches for Nintendo Switch 2 and Nintendo Switch on Dec. 10."*
-
-- ### Romancing SaGa 3: Destinies United (2/16/2027, NS and NS2)
+![The keyart for Romancing SaGa 3: Destinies United.](/images/third-parties/square-enix/saga/romancing-saga-3-destinies-united/rs3-du-keyart.avif)
 
 *"The classic 1995 RPG returns as a full 3D remake featuring modern graphics, voice acting, newly arranged music and more. Choose from eight protagonists and embark on a free-form adventure where decisions shape the journey and quests can be tackled in any order. Master turn-based battles and use the franchise’s signature Glimmer system to acquire new abilities. Romancing SaGa 3: Destinies United launches for Nintendo Switch 2 and Nintendo Switch on Feb. 16, 2027."*
 
-- ### Stage Fright (2027, NS and NS2)
+- ### The Witcher 3: Wild Hunt - Remastered (9/29/2026, NS2) + Songs of the Past Expansion (2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=jNKo-EH76rY&list=PLCf4BYXbmIPU&index=11) | [View Store Page (Base Game)](https://www.nintendo.com/us/store/products/the-witcher-3-wild-hunt-remastered-switch-2/) | [View Store Page (Songs of the Past Expansion)](https://www.nintendo.com/us/store/products/the-witcher-3-wild-hunt-songs-of-the-past-70050000076673-switch-2/))
 
-*"From the creators of the worldwide hit OVERCOOKED! comes a new cooperative experience for the Nintendo Switch 2 and Nintendo Switch systems. Two players must work together to explore, solve escape rooms and unravel an ancient mystery to rescue a missing friend in a charming coming-of-age story full of heart. Play online or side-by-side in local co-op together or via GameShare when the game launches in 2027."*
-
-- ### The Witcher 3: Wild Hunt - Remastered (9/29/2026, NS2) + Songs of the Past Expansion (2027, NS2)
+![The keyart for The Witcher 3's Songs of the Past Expansion.](/images/third-parties/cd-projekt-red/the-witcher/the-witcher-3-wild-hunt/tw3-wh-sotp-keyart.avif)
 
 *"Monster slayer for hire Geralt of Rivia returns when The Witcher 3: Wild Hunt — Remastered launches on Nintendo Switch 2 on Sept. 29. This modernized version of the acclaimed RPG features visual, performance and gameplay enhancements, including gyro aiming, Joy-Con 2 mouse controls and touch screen support. Players who have the physical or digital Nintendo Switch version can get the Nintendo Switch 2 version for free via Nintendo eShop. Then, continue the journey in 2027 with Songs of the Past, a brand-new paid expansion, now available to wishlist on Nintendo eShop."*
 
-- ### Yo-kai Watch 2: Haunted Domain (TBA, NS2)
+- ### Yu-Gi-Oh! Tag Force GX (2/16/2027, NS and NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=DzGpTjuzelg&list=PLCf4BYXbmIPU&index=34) | [View Store Page](https://www.nintendo.com/us/store/products/yu-gi-oh-tag-force-gx-switch-2/))
+
+![The keyart for Yu-Gi-Oh! Tag Force GX.](/images/third-parties/konami/yu-gi-oh/yu-gi-oh-tag-force-gx/yugioh-tfgx-keyart.avif)
+
+*"A new semester begins as Yu-Gi-Oh! GX TAG FORCE 3 is reborn with modern visuals, enhanced Dueling and nostalgic cards from the Yu-Gi-Oh! GX anime era. Featuring content previously unreleased in the Americas, Yu-Gi-Oh! TAG FORCE GX launches for Nintendo Switch 2 and Nintendo Switch on Feb. 16, 2027. Pre-orders [are available now] on Nintendo eShop and include four in-game items for the Yu-Gi-Oh! MASTER DUEL game. Physical versions include three Yu-Gi-Oh! TRADING CARD GAME cards."*
+
+- ### Danganronpa 2x2 (1/14/2027, NS and NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=sZbIzlndR88&list=PLCf4BYXbmIPU&index=32))
+
+*"A new murderous game begins in this latest entry in the Danganronpa series. Featuring a visually enhanced version of the original Danganronpa 2: Goodbye Despair scenario alongside a brand-new story with the same setting and characters, players will investigate an entirely new set of victims, culprits and tricks. Reveal the truth by exposing contradictions during high-speed Class Trials and uncover the culprit behind each case when Danganronpa 2x2 launches for Nintendo Switch 2 and Nintendo Switch on Jan. 14, 2027."*
+
+- ### Disney Dreamlight Valley: The Keepsake Sea (November 2026, NS and NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=qSttSiBrmi0&list=PLCf4BYXbmIPU&index=20))
+
+*"Journey beneath the waves in the newest Disney Dreamlight Valley expansion, arriving on Nintendo Switch 2 and Nintendo Switch this November. Embark on an adventure to a faraway kingdom and discover strange echoes of its past as a magical Merfolk, where you’ll explore new biomes with customizable areas and enjoy a brand-new storyline that features Milo Thatch from Disney’s Atlantis: The Lost Empire, Jack Sparrow from Disney’s Pirates of the Caribbean and Megara from Disney’s Hercules."*
+
+- ### Eternal Anima (3/4/2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=F8kvR_eJ1jQ&list=PLCf4BYXbmIPU&index=31))
+
+*"Embark on a dramatic time-travel adventure in a world that erased its own history. After a routine investigation leads peacekeeper Wade to question the city’s key tenet — that change and progress are heresy — he finds himself on an era-spanning journey to forge alliances across generations, uncover the truth, save the past and free the present. Take advantage of Wade’s unique Psychometry powers and inherit ancestral skills lost across time, such as Future Sight, to strategically manipulate the battlefield in turn-based combat. Eternal Anima launches for the Nintendo Switch 2 system on March 4, 2027."*
+
+- ### Kingdom Come: Deliverance II Royal Edition (2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=LPyvhKrwjYE&list=PLCf4BYXbmIPU&index=12))
+
+*"Step into 15th-century Bohemia as Henry of Skalitz in this award-winning first-person open-world RPG. Fight, sneak or talk your way through a tale of revenge, loyalty and discovery in a rich medieval world where quests are shaped by player choice and every decision carries lasting consequences. Kingdom Come: Deliverance II Royal Edition launches for Nintendo Switch 2 in 2027 and includes the base game, all premium story expansions, exclusive gear and a bonus questline."*
+
+- ### Mega Man: Dual Override + Mega Man and Proto Man amiibo Figures (Spring 2027, NS and NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=ac-c2InQQtY&list=PLCf4BYXbmIPU&index=30))
+
+*"Proto Man joins Mega Man as a playable character in this new entry in the classic action series. Players can jump in with Proto Man’s versatile shield-based fighting style or use Mega Man’s ranged firepower, then personalize their playstyle by equipping Custom Chips to mix and match abilities. Both characters can unleash an all-new, powerful Override form to blast beyond their limits and defeat formidable Robot Masters. Mega Man: Dual Override launches for Nintendo Switch 2 and Nintendo Switch in spring 2027. Mega Man and Proto Man amiibo figures will also be available the same day."*
+
+- ### Metal Slug Ultimate Collection (2027, NS and NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=5YITB8v8WKI&list=PLCf4BYXbmIPU&index=33))
+
+*"Celebrate 30 years of run-and-gun action with a collection of 10 classic METAL SLUG titles. Team up in online multiplayer, compete on Online Leaderboards and explore a gallery of artwork and music from across the series. Combat School Mode returns with expanded content, alongside the long-lost location test version of METAL SLUG. Enjoy timeless action when METAL SLUG ULTIMATE COLLECTION launches for Nintendo Switch 2 and Nintendo Switch in 2027."*
+
+- ### Ondeh Ondeh Kaya's Tasty Tale (2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=iiA4Et4yiWM&list=PLCf4BYXbmIPU&index=21))
+
+*"Taste the tempo in this 3D adventure platformer built around music-based puzzles. Become Kaya as you take on a heartwarming coming-of-age journey through the magical world of Selera to become a Worldbuilder. Solve puzzles, unlock new abilities and wield Kaya’s Spoon as you battle whimsical foes, explore regions inspired by the rich cultures of Southeast Asia, meet new friends and uncover hidden surprises. Ondeh Ondeh Kaya's Tasty Tale launches for Nintendo Switch 2 in 2027."*
+
+- ### Onyx: The Dark Grip (2027, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=zS7-Se04c8w&list=PLCf4BYXbmIPU&index=17))
+
+*"Survive as a vessel and interfere as a god in this 2.5D supernatural horror game developed by Bloober Team exclusively for Nintendo Switch 2. Play as the mysterious Entity, guiding the actions of a lone traveler who arrives in a desolate ghost town. Manipulate the environment with your supernatural powers, solve puzzles, confront terrifying creatures and don’t let your puppet descend into the depths of madness. Blur the line between the game world and reality when Onyx: The Dark Grip launches for Nintendo Switch 2 in 2027.*"
+
+
+- ### Professor Layton and the New World of Steam (12/10/2026, NS and NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=NAxKrussGB4&list=PLCf4BYXbmIPU&index=14))
+
+*"Professor Layton and his trusted assistant Luke return in an all-new installment of the puzzle-solving adventure series set at the dawn of the industrial age. After receiving a letter from Luke, the professor travels to Steam Bison, a rapidly developing American town plagued by mysterious incidents. Solve puzzles, uncover clues and follow the duo’s search for the truth when Professor Layton and the New World of Steam launches for Nintendo Switch 2 and Nintendo Switch on Dec. 10."*
+
+- ### Stage Fright (2027, NS and NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=HgClMqJy2VQ&list=PLCf4BYXbmIPU&index=19))
+
+*"From the creators of the worldwide hit OVERCOOKED! comes a new cooperative experience for the Nintendo Switch 2 and Nintendo Switch systems. Two players must work together to explore, solve escape rooms and unravel an ancient mystery to rescue a missing friend in a charming coming-of-age story full of heart. Play online or side-by-side in local co-op together or via GameShare when the game launches in 2027."*
+
+- ### Yo-kai Watch 2: Haunted Domain (TBA, NS2) - ([Watch Trailer](https://www.youtube.com/watch?v=76L1JKQWB8w&list=PLCf4BYXbmIPU&index=15))
 
 *"The latest entry in the Yo-kai Watch series evolves the adventures of Yo-kai Watch 2: Bony Spirits, Fleshy Souls and Psychic Specters with enhanced graphics and new content on Nintendo Switch 2. Join Nate as he befriends a wide variety of Yo-kai and embarks on the mysterious adventures that define the series. Along with new story content, players may even encounter some new Yo-kai. Additional details will be shared in the future."*
 
-- ### Yu-Gi-Oh! Tag Force GX (2/16/2027, NS and NS2)
-
-*"A new semester begins as Yu-Gi-Oh! GX TAG FORCE 3 is reborn with modern visuals, enhanced Dueling and nostalgic cards from the Yu-Gi-Oh! GX anime era. Featuring content previously unreleased in the Americas, Yu-Gi-Oh! TAG FORCE GX launches for Nintendo Switch 2 and Nintendo Switch on Feb. 16, 2027. Pre-orders [are available now] on Nintendo eShop and include four in-game items for the Yu-Gi-Oh! MASTER DUEL game. Physical versions include three Yu-Gi-Oh! TRADING CARD GAME cards."*
+From here on, every listed title was featured in a partner montage, which can be viewed [here.](https://www.youtube.com/watch?v=oAY2dza_FDg&list=PLCf4BYXbmIPU&index=36)
 
 - ### 007 First Light (Delayed to March 2027, NS2)
 
@@ -269,7 +290,7 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"Play as Maomao and investigate incidents, gather clues and solve mysteries in this all-new story with new characters by The Apothecary Diaries creator Hyūganatsu, based on an original concept from the series. Coming to Nintendo Switch 2 and Nintendo Switch in early 2027."*
 
-- ### Bluey's Happy Snaps (10/15/2026, NS and NS2)
+- ### Bluey's Happy Snaps (10/15/2026, NS and NS2) - ([View Store Page](https://www.nintendo.com/us/store/products/blueys-happy-snaps-switch-2/))
 
 *"Explore Bluey’s world like never before with Bluey and Bingo in a photo-powered adventure across their hometown, meeting friends and playing games while capturing snapshots for your scrapbook. Coming to Nintendo Switch 2 and Nintendo Switch on Oct. 15. Pre-orders for the deluxe edition [are available now]."*
 
@@ -277,11 +298,11 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"Explore the Hawaiian archipelago behind the wheel of over 800 vehicles, from classic cars and motorcycles to boats and planes. Compete in races, dive into themed campaigns and more. Coming to Nintendo Switch 2 on Oct. 8."*
 
-- ### Dragon Quest Heroes: Torneko's Mystery Dungeon -Classic HD- (Available Now, NS and NS2)
+- ### Dragon Quest Heroes: Torneko's Mystery Dungeon -Classic HD- (Available Now, NS and NS2) - ([View Store Page](https://www.nintendo.com/us/store/products/dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd-switch-2/))
 
 *"Originally released only in Japan, the first Mystery Dungeon game returns for a new generation of players with updated HD graphics, a new opening movie and adjustable difficulty settings. The dungeon changes every time you enter, so each run is unique. Available on Nintendo Switch 2 and Nintendo Switch [now]!"*
 
-- ### Dragon Quest Monsters: The Withered World (12/3/2026, NS and NS2)
+- ### Dragon Quest Monsters: The Withered World (12/3/2026, NS and NS2) - ([View Store Page](https://www.nintendo.com/us/store/products/dragon-quest-monsters-the-withered-world-switch-2/))
 
 *"Put your monster mastery to the test in this brand-new demo available [now]! Experience Bianca and Nera’s story up to the completion of the Witherwood region as you scout, train and battle. The full game comes to Nintendo Switch 2 and Nintendo Switch on Dec. 3."*
 
@@ -289,7 +310,7 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"Follow Hanna’s search for her missing brother in this isometric narrative-driven stealth adventure set in the grit of an early 1900s Nordic city. Coming to the Nintendo Switch 2 system on Dec. 3, the game offers new ways to play with touch screen and Joy-Con 2 mouse controls."*
 
-- ### Fading Echo (9/17/2026, NS2)
+- ### Fading Echo (9/17/2026, NS2) - ([View Store Page](https://www.nintendo.com/us/store/products/fading-echo-switch-2/))
 
 *"Play as One, a young Legend with the power of Æther, in this elemental action-adventure RPG. Shift between human and water blob forms to explore, solve puzzles and battle enemies across a fractured multiverse where ancient forces awake and realities collide as a mysterious entity called the Paradox makes a mess of things. Coming to Nintendo Switch 2 on Sept. 17, with a demo available [now]!"*
 
@@ -305,11 +326,11 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"Play as a brave mouse in this wholesome open-world adventure inspired by Nordic folklore to help care for the land and its creatures. Explore a handcrafted playground and solve puzzles alone or with a friend in local split-screen or online with up to three friends. Coming to Nintendo Switch 2 on Dec. 1."*
 
-- ### Hell Is Us (10/8/2026, NS2)
+- ### Hell Is Us (10/8/2026, NS2) - ([View Store Page](https://www.nintendo.com/us/store/products/hell-is-us-switch-2/))
 
 *"Explore a war-torn country plagued by chimeras in this dark action-adventure. With no maps, compass or quest markers, you must rely on your instincts, sword and high-tech drone to cut a path through the country. Coming to Nintendo Switch 2 on Oct. 8."*
 
-- ### Hot Wheels Infinite Rush (9/10/2026, NS2)
+- ### Hot Wheels Infinite Rush (9/10/2026, NS2) - ([View Store Page](https://www.nintendo.com/us/store/products/hot-wheels-infinite-rush-switch-2/))
 
 *"Get behind the wheel of your favorite Hot Wheels vehicles and explore four themed islands packed with races, stunts and collectibles. Race, drift and boost your way through a Hot Wheels-sized world where limits fade into the rearview when the game comes to Nintendo Switch 2 on Sept. 10."*
 
@@ -321,7 +342,7 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"Embark on a crazy journey built for two when The Game Awards 2021 Game of the Year winner comes to Nintendo Switch 2 with enhanced visuals on Oct. 15. In this co-op adventure, play as Cody and May, a clashing couple turned into dolls by a magic spell, and work together to overcome obstacles and challenges. Play with a friend for free using Friend’s Pass, go online across platforms, or use GameShare locally with Nintendo Switch 2 and Nintendo Switch players. Players who have the Nintendo Switch version can upgrade for free."*
 
-- ### Marvel's Guardians of the Galaxy: Encore Edition (11/5/2026, NS2)
+- ### Marvel's Guardians of the Galaxy: Encore Edition (11/5/2026, NS2) - ([View Store Page](https://www.nintendo.com/us/store/products/marvels-guardians-of-the-galaxy-encore-edition-switch-2/))
 
 *"Optimized for Nintendo Switch 2, you’ll lead Star-Lord and the Guardians through this story-driven adventure where your decisions influence how the journey unfolds. Includes an exclusive set of 1980s glam-rock-inspired outfits. Coming to Nintendo Switch 2 on Nov. 5. Pre-order [now] in Nintendo eShop."*
 
@@ -333,6 +354,6 @@ With that out of the way, let's dive right into everything that was announced, s
 
 *"Get ready to race through the world as Knuckles, Amy, Tails and more. Sonic the Hedgehog and friends appear in the co-op action-puzzle fun of PICO PARK, with stages featuring rings, loops and springs, plus support for 2 to 8 players locally or online. Coming to Nintendo Switch 2 and Nintendo Switch on Nov. 12."*
 
-- ### Stellar Blade Complete Edition (11/5/2026, NS2)
+- ### Stellar Blade Complete Edition (11/5/2026, NS2) - ([View Store Page](https://www.nintendo.com/us/store/products/stellar-blade-complete-edition-switch-2/))
 
 *"Save humanity from extinction as EVE in this story-driven action adventure where you descend from the Colony to reclaim an Earth devastated by mysterious creatures known as the Naytiba. Including NieR:Automata and GODDESS OF VICTORY: NIKKE collaboration content, plus newly revealed Bayonetta costumes, players can enjoy the game at home or on the go with immersive Joy-Con 2 motion controls for select non-combat activities like fishing. Coming to Nintendo Switch 2 on Nov. 5. Pre-order now to unlock select cosmetics early."*

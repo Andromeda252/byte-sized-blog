@@ -4,7 +4,7 @@ excerpt: "Nintendo hired that man."
 category: "News"
 date: "2026-09-08T23:30:00"
 image: "/images/nintendo/switch-2/zelda-ocarina-of-time-2026/oot-26-keyart.avif"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 sources:
