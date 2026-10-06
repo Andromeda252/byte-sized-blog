@@ -4,7 +4,7 @@ excerpt: "Between Zelda, Kirby, Metroid, and everything in between, Nintendo gav
 category: "News"
 date: "2026-09-30T16:16:00"
 image: "/images/nintendo/switch-2/zelda-ocarina-of-time-2026/oot-26-screenshot-1.avif"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 sources:
