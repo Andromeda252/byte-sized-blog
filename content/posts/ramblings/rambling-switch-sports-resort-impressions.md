@@ -7,8 +7,13 @@ image: "/images/nintendo/switch-2/nintendo-switch-sports-resort/nssr-screenshot-
 featured: false
 published: true
 author: "Andromeda"
+sources:
+    - title: Nintendo Switch Sports Resort - Official Nintendo Store Page
+      url: https://www.nintendo.com/us/store/products/nintendo-switch-sports-resort-switch-2/
+    - title: Nintendo Switch Sports Resort - Nintendo Direct 9.9.2026 - Official Nintendo YouTube Channel
+      url: https://www.youtube.com/watch?v=FZmCtpTSI4E
 tags:
-    - Wii Sports
+    - Intuitive Sports
     - Nintendo Switch Sports Resort
     - Nintendo Switch 2
     - Nintendo Direct
