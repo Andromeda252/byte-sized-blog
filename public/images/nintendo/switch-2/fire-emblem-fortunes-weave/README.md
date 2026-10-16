@@ -46,3 +46,7 @@
 
 ## fefw-troy-shoots-a-man-4-times-in-the-head.png
 - Source: Screenshot taken from a still of a video captured by the author on Nintendo Switch 2 in Fire Emblem: Fortune's Weave.
+
+## fefw-exp-pass-keyart.webp
+- Source: Official Fire Emblem Fortune's Weave Expansion Pass Nintendo store page.
+- Link: https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-expansion-pass-70070000041191-switch-2/?slug=fire-emblem-fortunes-weave-expansion-pass-70070000041191-switch-2
