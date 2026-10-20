@@ -1,6 +1,6 @@
 ---
 title: "Wario Land: Super Mario Land 3 Barges Onto Nintendo Music"
-excerpt: ""
+excerpt: "WARIOOOOO HE'S GONNA WIN"
 category: "News"
 date: "2026-10-20T10:29:00"
 image: "/images/nintendo/nintendo-classics/wario-land-boxart.jpg"
