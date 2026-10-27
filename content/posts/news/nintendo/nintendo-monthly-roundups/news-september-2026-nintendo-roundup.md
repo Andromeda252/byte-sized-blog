@@ -4,7 +4,7 @@ excerpt: "Rounding up all the biggest news and happenings from an eventful Septe
 category: "News"
 date: "2026-10-06T14:30:00"
 image: "/images/nintendo/switch-2/fire-emblem-fortunes-weave/fire-emblem-fortunes-weave-keyart.avif"
-featured: true
+featured: false
 published: true
 author: "Andromeda"
 sources:
